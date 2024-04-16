@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\03.Validation\bin\Debug\net6.0\03.Validation.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\03.Validation\bin\Debug\net6.0\03.Validation.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\03.Validation\bin\Debug\net6.0\03.Validation.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\03.Validation\bin\Debug\net6.0\03.Validation.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\03.Validation\bin\Debug\net6.0\03.Validation.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\03.Validation\obj\Debug\net6.0\03.Validation.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\03.Validation\obj\Debug\net6.0\03.Validation.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\03.Validation\obj\Debug\net6.0\03.Validation.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\03.Validation\obj\Debug\net6.0\03.Validation.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\03.Validation\obj\Debug\net6.0\03.Validation.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\03.Validation\obj\Debug\net6.0\refint\03.Validation.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\03.Validation\obj\Debug\net6.0\03.Validation.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\03.Validation\obj\Debug\net6.0\03.Validation.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\03.Validation\obj\Debug\net6.0\ref\03.Validation.dll

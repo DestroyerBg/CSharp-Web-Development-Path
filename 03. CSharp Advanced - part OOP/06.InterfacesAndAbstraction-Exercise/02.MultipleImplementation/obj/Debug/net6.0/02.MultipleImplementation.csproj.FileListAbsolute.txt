@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\net6.0\02.MultipleImplementation.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\net6.0\02.MultipleImplementation.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\net6.0\02.MultipleImplementation.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\net6.0\02.MultipleImplementation.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\net6.0\02.MultipleImplementation.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\net6.0\refint\02.MultipleImplementation.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\net6.0\ref\02.MultipleImplementation.dll

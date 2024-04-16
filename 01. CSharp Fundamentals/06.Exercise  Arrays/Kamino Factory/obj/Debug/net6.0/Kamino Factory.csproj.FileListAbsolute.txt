@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Kamino Factory\bin\Debug\net6.0\Kamino Factory.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Kamino Factory\bin\Debug\net6.0\Kamino Factory.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Kamino Factory\bin\Debug\net6.0\Kamino Factory.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Kamino Factory\bin\Debug\net6.0\Kamino Factory.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Kamino Factory\bin\Debug\net6.0\Kamino Factory.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Kamino Factory\obj\Debug\net6.0\refint\Kamino Factory.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Kamino Factory\obj\Debug\net6.0\ref\Kamino Factory.dll

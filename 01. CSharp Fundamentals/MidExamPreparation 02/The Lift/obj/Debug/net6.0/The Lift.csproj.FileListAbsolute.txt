@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\The Lift\bin\Debug\net6.0\The Lift.exe
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\The Lift\bin\Debug\net6.0\The Lift.deps.json
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\The Lift\bin\Debug\net6.0\The Lift.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\The Lift\bin\Debug\net6.0\The Lift.dll
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\The Lift\bin\Debug\net6.0\The Lift.pdb
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\The Lift\obj\Debug\net6.0\The Lift.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\The Lift\obj\Debug\net6.0\The Lift.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\The Lift\obj\Debug\net6.0\The Lift.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\The Lift\obj\Debug\net6.0\The Lift.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\The Lift\obj\Debug\net6.0\The Lift.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\The Lift\obj\Debug\net6.0\The Lift.dll
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\The Lift\obj\Debug\net6.0\refint\The Lift.dll
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\The Lift\obj\Debug\net6.0\The Lift.pdb
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\The Lift\obj\Debug\net6.0\The Lift.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\The Lift\obj\Debug\net6.0\ref\The Lift.dll

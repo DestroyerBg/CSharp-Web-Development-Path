@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\05.DateModifier\bin\Debug\net6.0\05.DateModifier.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\05.DateModifier\bin\Debug\net6.0\05.DateModifier.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\05.DateModifier\bin\Debug\net6.0\05.DateModifier.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\05.DateModifier\bin\Debug\net6.0\05.DateModifier.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\05.DateModifier\bin\Debug\net6.0\05.DateModifier.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\05.DateModifier\obj\Debug\net6.0\05.DateModifier.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\05.DateModifier\obj\Debug\net6.0\05.DateModifier.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\05.DateModifier\obj\Debug\net6.0\05.DateModifier.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\05.DateModifier\obj\Debug\net6.0\05.DateModifier.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\05.DateModifier\obj\Debug\net6.0\05.DateModifier.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\05.DateModifier\obj\Debug\net6.0\refint\05.DateModifier.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\05.DateModifier\obj\Debug\net6.0\05.DateModifier.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\05.DateModifier\obj\Debug\net6.0\05.DateModifier.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\05.DateModifier\obj\Debug\net6.0\ref\05.DateModifier.dll

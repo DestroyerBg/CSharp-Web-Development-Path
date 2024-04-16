@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Snowballs\bin\Debug\net6.0\Snowballs.exe
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Snowballs\bin\Debug\net6.0\Snowballs.deps.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Snowballs\bin\Debug\net6.0\Snowballs.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Snowballs\bin\Debug\net6.0\Snowballs.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Snowballs\bin\Debug\net6.0\Snowballs.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Snowballs\obj\Debug\net6.0\Snowballs.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Snowballs\obj\Debug\net6.0\Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Snowballs\obj\Debug\net6.0\Snowballs.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Snowballs\obj\Debug\net6.0\Snowballs.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Snowballs\obj\Debug\net6.0\Snowballs.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Snowballs\obj\Debug\net6.0\Snowballs.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Snowballs\obj\Debug\net6.0\refint\Snowballs.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Snowballs\obj\Debug\net6.0\Snowballs.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Snowballs\obj\Debug\net6.0\Snowballs.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Snowballs\obj\Debug\net6.0\ref\Snowballs.dll

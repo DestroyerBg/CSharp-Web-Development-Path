@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam 5 August 2023\BankLoan\bin\Debug\net6.0\BankLoan.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam 5 August 2023\BankLoan\bin\Debug\net6.0\BankLoan.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam 5 August 2023\BankLoan\bin\Debug\net6.0\BankLoan.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam 5 August 2023\BankLoan\bin\Debug\net6.0\BankLoan.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam 5 August 2023\BankLoan\bin\Debug\net6.0\BankLoan.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam 5 August 2023\BankLoan\obj\Debug\net6.0\BankLoan.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam 5 August 2023\BankLoan\obj\Debug\net6.0\BankLoan.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam 5 August 2023\BankLoan\obj\Debug\net6.0\BankLoan.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam 5 August 2023\BankLoan\obj\Debug\net6.0\BankLoan.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam 5 August 2023\BankLoan\obj\Debug\net6.0\BankLoan.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam 5 August 2023\BankLoan\obj\Debug\net6.0\refint\BankLoan.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam 5 August 2023\BankLoan\obj\Debug\net6.0\BankLoan.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam 5 August 2023\BankLoan\obj\Debug\net6.0\BankLoan.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam 5 August 2023\BankLoan\obj\Debug\net6.0\ref\BankLoan.dll

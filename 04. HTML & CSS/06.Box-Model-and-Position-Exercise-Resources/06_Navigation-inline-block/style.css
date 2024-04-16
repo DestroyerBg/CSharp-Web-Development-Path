@@ -1,0 +1,43 @@
+body{
+    font: 16px/1.5 Helvetica, sans-serif;
+    padding: 1.4em;
+}
+
+h1{
+    font-size: 35px;
+}
+
+header{
+    border-bottom: 1px solid black;
+}
+
+header h1,
+header nav{
+    display: inline-block;
+}
+
+
+nav ul{
+    padding: 0;
+    margin-left: 6em;
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 1.2em;
+}
+
+nav a{
+    text-decoration: none;
+    color: green;
+    font-size: 19px;
+    padding-left: 0.7em;
+    padding-right: 0.7em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+nav a:hover{
+    background-color: green;
+    color:white;
+}

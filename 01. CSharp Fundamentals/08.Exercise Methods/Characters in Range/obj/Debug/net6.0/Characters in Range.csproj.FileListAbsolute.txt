@@ -1,0 +1,15 @@
+D:\visual studio apps\Exercise Methods\Characters in Range\bin\Debug\net6.0\Characters in Range.exe
+D:\visual studio apps\Exercise Methods\Characters in Range\bin\Debug\net6.0\Characters in Range.deps.json
+D:\visual studio apps\Exercise Methods\Characters in Range\bin\Debug\net6.0\Characters in Range.runtimeconfig.json
+D:\visual studio apps\Exercise Methods\Characters in Range\bin\Debug\net6.0\Characters in Range.dll
+D:\visual studio apps\Exercise Methods\Characters in Range\bin\Debug\net6.0\Characters in Range.pdb
+D:\visual studio apps\Exercise Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.csproj.AssemblyReference.cache
+D:\visual studio apps\Exercise Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Exercise Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.AssemblyInfoInputs.cache
+D:\visual studio apps\Exercise Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.AssemblyInfo.cs
+D:\visual studio apps\Exercise Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Exercise Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.dll
+D:\visual studio apps\Exercise Methods\Characters in Range\obj\Debug\net6.0\refint\Characters in Range.dll
+D:\visual studio apps\Exercise Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.pdb
+D:\visual studio apps\Exercise Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.genruntimeconfig.cache
+D:\visual studio apps\Exercise Methods\Characters in Range\obj\Debug\net6.0\ref\Characters in Range.dll

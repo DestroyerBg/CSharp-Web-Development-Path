@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\02.Collection\bin\Debug\net6.0\02.Collection.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\02.Collection\bin\Debug\net6.0\02.Collection.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\02.Collection\bin\Debug\net6.0\02.Collection.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\02.Collection\bin\Debug\net6.0\02.Collection.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\02.Collection\bin\Debug\net6.0\02.Collection.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\02.Collection\obj\Debug\net6.0\02.Collection.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\02.Collection\obj\Debug\net6.0\02.Collection.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\02.Collection\obj\Debug\net6.0\02.Collection.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\02.Collection\obj\Debug\net6.0\02.Collection.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\02.Collection\obj\Debug\net6.0\02.Collection.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\02.Collection\obj\Debug\net6.0\refint\02.Collection.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\02.Collection\obj\Debug\net6.0\02.Collection.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\02.Collection\obj\Debug\net6.0\02.Collection.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\02.Collection\obj\Debug\net6.0\ref\02.Collection.dll

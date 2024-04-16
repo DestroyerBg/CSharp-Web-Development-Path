@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 2 - Mirror words\bin\Debug\net6.0\Problem 2 - Mirror words.exe
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 2 - Mirror words\bin\Debug\net6.0\Problem 2 - Mirror words.deps.json
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 2 - Mirror words\bin\Debug\net6.0\Problem 2 - Mirror words.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 2 - Mirror words\bin\Debug\net6.0\Problem 2 - Mirror words.dll
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 2 - Mirror words\bin\Debug\net6.0\Problem 2 - Mirror words.pdb
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 2 - Mirror words\obj\Debug\net6.0\Problem 2 - Mirror words.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 2 - Mirror words\obj\Debug\net6.0\Problem 2 - Mirror words.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 2 - Mirror words\obj\Debug\net6.0\Problem 2 - Mirror words.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 2 - Mirror words\obj\Debug\net6.0\Problem 2 - Mirror words.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 2 - Mirror words\obj\Debug\net6.0\Problem 2 - Mirror words.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 2 - Mirror words\obj\Debug\net6.0\Problem 2 - Mirror words.dll
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 2 - Mirror words\obj\Debug\net6.0\refint\Problem 2 - Mirror words.dll
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 2 - Mirror words\obj\Debug\net6.0\Problem 2 - Mirror words.pdb
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 2 - Mirror words\obj\Debug\net6.0\Problem 2 - Mirror words.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 2 - Mirror words\obj\Debug\net6.0\ref\Problem 2 - Mirror words.dll

@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Shopping List\bin\Debug\net6.0\Shopping List.exe
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Shopping List\bin\Debug\net6.0\Shopping List.deps.json
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Shopping List\bin\Debug\net6.0\Shopping List.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Shopping List\bin\Debug\net6.0\Shopping List.dll
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Shopping List\bin\Debug\net6.0\Shopping List.pdb
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Shopping List\obj\Debug\net6.0\Shopping List.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Shopping List\obj\Debug\net6.0\Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Shopping List\obj\Debug\net6.0\Shopping List.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Shopping List\obj\Debug\net6.0\Shopping List.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Shopping List\obj\Debug\net6.0\Shopping List.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Shopping List\obj\Debug\net6.0\Shopping List.dll
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Shopping List\obj\Debug\net6.0\refint\Shopping List.dll
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Shopping List\obj\Debug\net6.0\Shopping List.pdb
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Shopping List\obj\Debug\net6.0\Shopping List.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Shopping List\obj\Debug\net6.0\ref\Shopping List.dll

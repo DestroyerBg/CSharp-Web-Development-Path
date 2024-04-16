@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 3 - Need for Speed III\bin\Debug\net6.0\Problem 3 - Need for Speed III.exe
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 3 - Need for Speed III\bin\Debug\net6.0\Problem 3 - Need for Speed III.deps.json
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 3 - Need for Speed III\bin\Debug\net6.0\Problem 3 - Need for Speed III.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 3 - Need for Speed III\bin\Debug\net6.0\Problem 3 - Need for Speed III.dll
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 3 - Need for Speed III\bin\Debug\net6.0\Problem 3 - Need for Speed III.pdb
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 3 - Need for Speed III\obj\Debug\net6.0\Problem 3 - Need for Speed III.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 3 - Need for Speed III\obj\Debug\net6.0\Problem 3 - Need for Speed III.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 3 - Need for Speed III\obj\Debug\net6.0\Problem 3 - Need for Speed III.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 3 - Need for Speed III\obj\Debug\net6.0\Problem 3 - Need for Speed III.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 3 - Need for Speed III\obj\Debug\net6.0\Problem 3 - Need for Speed III.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 3 - Need for Speed III\obj\Debug\net6.0\Problem 3 - Need for Speed III.dll
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 3 - Need for Speed III\obj\Debug\net6.0\refint\Problem 3 - Need for Speed III.dll
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 3 - Need for Speed III\obj\Debug\net6.0\Problem 3 - Need for Speed III.pdb
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 3 - Need for Speed III\obj\Debug\net6.0\Problem 3 - Need for Speed III.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\03. Programming Fundamentals Final Exam Retake\Problem 3 - Need for Speed III\obj\Debug\net6.0\ref\Problem 3 - Need for Speed III.dll

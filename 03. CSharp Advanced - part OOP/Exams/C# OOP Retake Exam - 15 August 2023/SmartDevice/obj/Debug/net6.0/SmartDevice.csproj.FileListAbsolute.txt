@@ -1,0 +1,14 @@
+E:\visual studio apps\Advanced Exams\C#OOP-Exams\C# OOP Retake Exam  15 August 2023\SmartDevice\bin\Debug\net6.0\SmartDevice.exe
+E:\visual studio apps\Advanced Exams\C#OOP-Exams\C# OOP Retake Exam  15 August 2023\SmartDevice\bin\Debug\net6.0\SmartDevice.deps.json
+E:\visual studio apps\Advanced Exams\C#OOP-Exams\C# OOP Retake Exam  15 August 2023\SmartDevice\bin\Debug\net6.0\SmartDevice.runtimeconfig.json
+E:\visual studio apps\Advanced Exams\C#OOP-Exams\C# OOP Retake Exam  15 August 2023\SmartDevice\bin\Debug\net6.0\SmartDevice.dll
+E:\visual studio apps\Advanced Exams\C#OOP-Exams\C# OOP Retake Exam  15 August 2023\SmartDevice\bin\Debug\net6.0\SmartDevice.pdb
+E:\visual studio apps\Advanced Exams\C#OOP-Exams\C# OOP Retake Exam  15 August 2023\SmartDevice\obj\Debug\net6.0\SmartDevice.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Advanced Exams\C#OOP-Exams\C# OOP Retake Exam  15 August 2023\SmartDevice\obj\Debug\net6.0\SmartDevice.AssemblyInfoInputs.cache
+E:\visual studio apps\Advanced Exams\C#OOP-Exams\C# OOP Retake Exam  15 August 2023\SmartDevice\obj\Debug\net6.0\SmartDevice.AssemblyInfo.cs
+E:\visual studio apps\Advanced Exams\C#OOP-Exams\C# OOP Retake Exam  15 August 2023\SmartDevice\obj\Debug\net6.0\SmartDevice.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Advanced Exams\C#OOP-Exams\C# OOP Retake Exam  15 August 2023\SmartDevice\obj\Debug\net6.0\SmartDevice.dll
+E:\visual studio apps\Advanced Exams\C#OOP-Exams\C# OOP Retake Exam  15 August 2023\SmartDevice\obj\Debug\net6.0\refint\SmartDevice.dll
+E:\visual studio apps\Advanced Exams\C#OOP-Exams\C# OOP Retake Exam  15 August 2023\SmartDevice\obj\Debug\net6.0\SmartDevice.pdb
+E:\visual studio apps\Advanced Exams\C#OOP-Exams\C# OOP Retake Exam  15 August 2023\SmartDevice\obj\Debug\net6.0\SmartDevice.genruntimeconfig.cache
+E:\visual studio apps\Advanced Exams\C#OOP-Exams\C# OOP Retake Exam  15 August 2023\SmartDevice\obj\Debug\net6.0\ref\SmartDevice.dll

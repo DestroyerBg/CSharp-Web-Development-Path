@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Triples of Latin Letters\bin\Debug\net6.0\Triples of Latin Letters.exe
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Triples of Latin Letters\bin\Debug\net6.0\Triples of Latin Letters.deps.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Triples of Latin Letters\bin\Debug\net6.0\Triples of Latin Letters.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Triples of Latin Letters\bin\Debug\net6.0\Triples of Latin Letters.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Triples of Latin Letters\bin\Debug\net6.0\Triples of Latin Letters.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Triples of Latin Letters\obj\Debug\net6.0\Triples of Latin Letters.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Triples of Latin Letters\obj\Debug\net6.0\Triples of Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Triples of Latin Letters\obj\Debug\net6.0\Triples of Latin Letters.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Triples of Latin Letters\obj\Debug\net6.0\Triples of Latin Letters.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Triples of Latin Letters\obj\Debug\net6.0\Triples of Latin Letters.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Triples of Latin Letters\obj\Debug\net6.0\Triples of Latin Letters.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Triples of Latin Letters\obj\Debug\net6.0\refint\Triples of Latin Letters.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Triples of Latin Letters\obj\Debug\net6.0\Triples of Latin Letters.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Triples of Latin Letters\obj\Debug\net6.0\Triples of Latin Letters.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Triples of Latin Letters\obj\Debug\net6.0\ref\Triples of Latin Letters.dll

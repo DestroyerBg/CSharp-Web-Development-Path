@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P03.Detail_Printer\bin\Debug\net6.0\P03.Detail_Printer.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P03.Detail_Printer\bin\Debug\net6.0\P03.Detail_Printer.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P03.Detail_Printer\bin\Debug\net6.0\P03.Detail_Printer.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P03.Detail_Printer\bin\Debug\net6.0\P03.Detail_Printer.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P03.Detail_Printer\bin\Debug\net6.0\P03.Detail_Printer.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P03.Detail_Printer\obj\Debug\net6.0\P03.Detail_Printer.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P03.Detail_Printer\obj\Debug\net6.0\P03.Detail_Printer.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P03.Detail_Printer\obj\Debug\net6.0\P03.Detail_Printer.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P03.Detail_Printer\obj\Debug\net6.0\P03.Detail_Printer.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P03.Detail_Printer\obj\Debug\net6.0\P03.Detail_Printer.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P03.Detail_Printer\obj\Debug\net6.0\refint\P03.Detail_Printer.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P03.Detail_Printer\obj\Debug\net6.0\P03.Detail_Printer.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P03.Detail_Printer\obj\Debug\net6.0\P03.Detail_Printer.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P03.Detail_Printer\obj\Debug\net6.0\ref\P03.Detail_Printer.dll

@@ -1,0 +1,11 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\CarManager\bin\Debug\net6.0\CarManager.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\CarManager\bin\Debug\net6.0\CarManager.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\CarManager\bin\Debug\net6.0\CarManager.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\refint\CarManager.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\ref\CarManager.dll

@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Letters Change Numbers\bin\Debug\net6.0\Letters Change Numbers.exe
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Letters Change Numbers\bin\Debug\net6.0\Letters Change Numbers.deps.json
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Letters Change Numbers\bin\Debug\net6.0\Letters Change Numbers.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Letters Change Numbers\bin\Debug\net6.0\Letters Change Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Letters Change Numbers\bin\Debug\net6.0\Letters Change Numbers.pdb
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Letters Change Numbers\obj\Debug\net6.0\Letters Change Numbers.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Letters Change Numbers\obj\Debug\net6.0\Letters Change Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Letters Change Numbers\obj\Debug\net6.0\Letters Change Numbers.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Letters Change Numbers\obj\Debug\net6.0\Letters Change Numbers.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Letters Change Numbers\obj\Debug\net6.0\Letters Change Numbers.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Letters Change Numbers\obj\Debug\net6.0\Letters Change Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Letters Change Numbers\obj\Debug\net6.0\refint\Letters Change Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Letters Change Numbers\obj\Debug\net6.0\Letters Change Numbers.pdb
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Letters Change Numbers\obj\Debug\net6.0\Letters Change Numbers.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Letters Change Numbers\obj\Debug\net6.0\ref\Letters Change Numbers.dll

@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Equal Sum\obj\Debug\net6.0\Equal Sum.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Equal Sum\obj\Debug\net6.0\Equal Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Equal Sum\obj\Debug\net6.0\Equal Sum.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Equal Sum\obj\Debug\net6.0\Equal Sum.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Equal Sum\obj\Debug\net6.0\Equal Sum.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Equal Sum\bin\Debug\net6.0\Equal Sum.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Equal Sum\bin\Debug\net6.0\Equal Sum.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Equal Sum\bin\Debug\net6.0\Equal Sum.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Equal Sum\bin\Debug\net6.0\Equal Sum.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Equal Sum\bin\Debug\net6.0\Equal Sum.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Equal Sum\obj\Debug\net6.0\Equal Sum.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Equal Sum\obj\Debug\net6.0\refint\Equal Sum.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Equal Sum\obj\Debug\net6.0\Equal Sum.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Equal Sum\obj\Debug\net6.0\Equal Sum.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Equal Sum\obj\Debug\net6.0\ref\Equal Sum.dll

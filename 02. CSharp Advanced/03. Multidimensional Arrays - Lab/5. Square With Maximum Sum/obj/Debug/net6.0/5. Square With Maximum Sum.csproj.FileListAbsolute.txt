@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\net6.0\5. Square With Maximum Sum.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\net6.0\5. Square With Maximum Sum.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\net6.0\5. Square With Maximum Sum.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\net6.0\5. Square With Maximum Sum.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\net6.0\5. Square With Maximum Sum.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\net6.0\refint\5. Square With Maximum Sum.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\net6.0\ref\5. Square With Maximum Sum.dll

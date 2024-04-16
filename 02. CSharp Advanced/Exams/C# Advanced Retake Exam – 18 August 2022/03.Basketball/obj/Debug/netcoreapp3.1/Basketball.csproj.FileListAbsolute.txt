@@ -1,0 +1,26 @@
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\03.Basketball\bin\Debug\netcoreapp3.1\Basketball.exe
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\03.Basketball\bin\Debug\netcoreapp3.1\Basketball.deps.json
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\03.Basketball\bin\Debug\netcoreapp3.1\Basketball.runtimeconfig.json
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\03.Basketball\bin\Debug\netcoreapp3.1\Basketball.runtimeconfig.dev.json
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\03.Basketball\bin\Debug\netcoreapp3.1\Basketball.dll
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\03.Basketball\bin\Debug\netcoreapp3.1\Basketball.pdb
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\Basketball.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\Basketball.AssemblyInfoInputs.cache
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\Basketball.AssemblyInfo.cs
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\Basketball.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\Basketball.dll
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\Basketball.pdb
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\Basketball.genruntimeconfig.cache
+C:\Users\Gabi\Desktop\03.Basketball\obj\Debug\netcoreapp3.1\Basketball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabi\Desktop\03.Basketball\obj\Debug\netcoreapp3.1\Basketball.AssemblyInfoInputs.cache
+C:\Users\Gabi\Desktop\03.Basketball\obj\Debug\netcoreapp3.1\Basketball.AssemblyInfo.cs
+C:\Users\Gabi\Desktop\03.Basketball\obj\Debug\netcoreapp3.1\Basketball.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\03.Basketball\obj\Debug\netcoreapp3.1\Basketball.dll
+C:\Users\Gabi\Desktop\03.Basketball\obj\Debug\netcoreapp3.1\Basketball.pdb
+C:\Users\Gabi\Desktop\03.Basketball\bin\Debug\netcoreapp3.1\Basketball.exe
+C:\Users\Gabi\Desktop\03.Basketball\bin\Debug\netcoreapp3.1\Basketball.deps.json
+C:\Users\Gabi\Desktop\03.Basketball\bin\Debug\netcoreapp3.1\Basketball.runtimeconfig.json
+C:\Users\Gabi\Desktop\03.Basketball\bin\Debug\netcoreapp3.1\Basketball.runtimeconfig.dev.json
+C:\Users\Gabi\Desktop\03.Basketball\bin\Debug\netcoreapp3.1\Basketball.dll
+C:\Users\Gabi\Desktop\03.Basketball\bin\Debug\netcoreapp3.1\Basketball.pdb
+C:\Users\Gabi\Desktop\03.Basketball\obj\Debug\netcoreapp3.1\Basketball.genruntimeconfig.cache

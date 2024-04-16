@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\02. Sum Numbers\bin\Debug\net6.0\02. Sum Numbers.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\02. Sum Numbers\bin\Debug\net6.0\02. Sum Numbers.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\02. Sum Numbers\bin\Debug\net6.0\02. Sum Numbers.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\02. Sum Numbers\bin\Debug\net6.0\02. Sum Numbers.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\02. Sum Numbers\bin\Debug\net6.0\02. Sum Numbers.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\02. Sum Numbers\obj\Debug\net6.0\02. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\02. Sum Numbers\obj\Debug\net6.0\02. Sum Numbers.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\02. Sum Numbers\obj\Debug\net6.0\02. Sum Numbers.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\02. Sum Numbers\obj\Debug\net6.0\02. Sum Numbers.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\02. Sum Numbers\obj\Debug\net6.0\02. Sum Numbers.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\02. Sum Numbers\obj\Debug\net6.0\refint\02. Sum Numbers.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\02. Sum Numbers\obj\Debug\net6.0\02. Sum Numbers.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\02. Sum Numbers\obj\Debug\net6.0\02. Sum Numbers.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\02. Sum Numbers\obj\Debug\net6.0\ref\02. Sum Numbers.dll

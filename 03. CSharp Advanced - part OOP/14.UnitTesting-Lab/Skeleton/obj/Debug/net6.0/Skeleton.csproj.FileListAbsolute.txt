@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\14.UnitTesting-Lab\Skeleton\bin\Debug\net6.0\Skeleton.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\14.UnitTesting-Lab\Skeleton\bin\Debug\net6.0\Skeleton.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\14.UnitTesting-Lab\Skeleton\bin\Debug\net6.0\Skeleton.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\14.UnitTesting-Lab\Skeleton\bin\Debug\net6.0\Skeleton.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\14.UnitTesting-Lab\Skeleton\bin\Debug\net6.0\Skeleton.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\14.UnitTesting-Lab\Skeleton\obj\Debug\net6.0\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\14.UnitTesting-Lab\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\14.UnitTesting-Lab\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\14.UnitTesting-Lab\Skeleton\obj\Debug\net6.0\Skeleton.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\14.UnitTesting-Lab\Skeleton\obj\Debug\net6.0\Skeleton.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\14.UnitTesting-Lab\Skeleton\obj\Debug\net6.0\refint\Skeleton.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\14.UnitTesting-Lab\Skeleton\obj\Debug\net6.0\Skeleton.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\14.UnitTesting-Lab\Skeleton\obj\Debug\net6.0\Skeleton.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\14.UnitTesting-Lab\Skeleton\obj\Debug\net6.0\ref\Skeleton.dll

@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net6.0\1. Reverse a String.exe
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net6.0\1. Reverse a String.deps.json
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net6.0\1. Reverse a String.runtimeconfig.json
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net6.0\1. Reverse a String.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net6.0\1. Reverse a String.pdb
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net6.0\1. Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net6.0\1. Reverse a String.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net6.0\1. Reverse a String.AssemblyInfo.cs
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net6.0\1. Reverse a String.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net6.0\1. Reverse a String.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net6.0\refint\1. Reverse a String.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net6.0\1. Reverse a String.pdb
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net6.0\1. Reverse a String.genruntimeconfig.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net6.0\ref\1. Reverse a String.dll

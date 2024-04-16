@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\03.Raiding\bin\Debug\net6.0\03.Raiding.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\03.Raiding\bin\Debug\net6.0\03.Raiding.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\03.Raiding\bin\Debug\net6.0\03.Raiding.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\03.Raiding\bin\Debug\net6.0\03.Raiding.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\03.Raiding\bin\Debug\net6.0\03.Raiding.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\03.Raiding\obj\Debug\net6.0\03.Raiding.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\03.Raiding\obj\Debug\net6.0\03.Raiding.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\03.Raiding\obj\Debug\net6.0\03.Raiding.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\03.Raiding\obj\Debug\net6.0\03.Raiding.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\03.Raiding\obj\Debug\net6.0\03.Raiding.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\03.Raiding\obj\Debug\net6.0\refint\03.Raiding.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\03.Raiding\obj\Debug\net6.0\03.Raiding.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\03.Raiding\obj\Debug\net6.0\03.Raiding.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\03.Raiding\obj\Debug\net6.0\ref\03.Raiding.dll

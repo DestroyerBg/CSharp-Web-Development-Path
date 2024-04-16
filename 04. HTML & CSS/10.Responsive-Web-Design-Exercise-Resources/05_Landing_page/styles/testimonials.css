@@ -1,0 +1,61 @@
+section.testiomonials{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.testiomonials > h2{
+    position: relative;
+    display: inline-block;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    font-size: 29px;
+}
+
+
+.testiomonials > h2::after{
+    content: '';
+    position: absolute; 
+    bottom: -50%;
+    left: 30%; 
+    width: 40%; 
+    height: 3px; 
+    background-color: rgb(74, 74, 74); 
+    margin: 0 auto; 
+}
+
+.testiomonials .testers {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    gap:20em;
+    align-self: center;
+    margin-top: 2em;
+}
+
+.testiomonials .testers .tester{
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+}
+
+.tester p.tester-description{
+    width: 250px;
+    margin-top: 2em;
+}
+
+.tester p.tester-name,
+.tester p.job-title{
+    text-align: center;
+    margin-top: 0.5em;
+    margin-bottom: 0.3em;
+}
+
+.tester img{
+    border-radius: 50%;
+    display: block;
+    width: 100%;
+    height: 150px;
+    position: relative;
+    left:20%;
+}

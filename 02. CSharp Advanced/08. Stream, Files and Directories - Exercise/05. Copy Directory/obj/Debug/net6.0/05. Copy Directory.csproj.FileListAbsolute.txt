@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\refint\05. Copy Directory.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\ref\05. Copy Directory.dll

@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\01.RecursiveArraySum\obj\Debug\net6.0\01.RecursiveArraySum.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\01.RecursiveArraySum\obj\Debug\net6.0\01.RecursiveArraySum.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\01.RecursiveArraySum\obj\Debug\net6.0\01.RecursiveArraySum.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\01.RecursiveArraySum\obj\Debug\net6.0\01.RecursiveArraySum.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\01.RecursiveArraySum\bin\Debug\net6.0\01.RecursiveArraySum.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\01.RecursiveArraySum\bin\Debug\net6.0\01.RecursiveArraySum.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\01.RecursiveArraySum\bin\Debug\net6.0\01.RecursiveArraySum.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\01.RecursiveArraySum\bin\Debug\net6.0\01.RecursiveArraySum.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\01.RecursiveArraySum\bin\Debug\net6.0\01.RecursiveArraySum.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\01.RecursiveArraySum\obj\Debug\net6.0\01.RecursiveArraySum.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\01.RecursiveArraySum\obj\Debug\net6.0\refint\01.RecursiveArraySum.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\01.RecursiveArraySum\obj\Debug\net6.0\01.RecursiveArraySum.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\01.RecursiveArraySum\obj\Debug\net6.0\01.RecursiveArraySum.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\01.RecursiveArraySum\obj\Debug\net6.0\ref\01.RecursiveArraySum.dll

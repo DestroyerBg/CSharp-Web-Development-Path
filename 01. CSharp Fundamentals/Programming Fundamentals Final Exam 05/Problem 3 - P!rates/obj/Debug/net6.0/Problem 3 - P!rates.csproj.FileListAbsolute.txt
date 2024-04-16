@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 3 - P!rates\bin\Debug\net6.0\Problem 3 - P!rates.exe
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 3 - P!rates\bin\Debug\net6.0\Problem 3 - P!rates.deps.json
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 3 - P!rates\bin\Debug\net6.0\Problem 3 - P!rates.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 3 - P!rates\bin\Debug\net6.0\Problem 3 - P!rates.dll
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 3 - P!rates\bin\Debug\net6.0\Problem 3 - P!rates.pdb
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 3 - P!rates\obj\Debug\net6.0\Problem 3 - P!rates.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 3 - P!rates\obj\Debug\net6.0\Problem 3 - P!rates.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 3 - P!rates\obj\Debug\net6.0\Problem 3 - P!rates.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 3 - P!rates\obj\Debug\net6.0\Problem 3 - P!rates.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 3 - P!rates\obj\Debug\net6.0\Problem 3 - P!rates.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 3 - P!rates\obj\Debug\net6.0\Problem 3 - P!rates.dll
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 3 - P!rates\obj\Debug\net6.0\refint\Problem 3 - P!rates.dll
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 3 - P!rates\obj\Debug\net6.0\Problem 3 - P!rates.pdb
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 3 - P!rates\obj\Debug\net6.0\Problem 3 - P!rates.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 3 - P!rates\obj\Debug\net6.0\ref\Problem 3 - P!rates.dll

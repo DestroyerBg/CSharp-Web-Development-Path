@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\net6.0\4. Matching Brackets.exe
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\net6.0\4. Matching Brackets.deps.json
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\net6.0\4. Matching Brackets.runtimeconfig.json
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\net6.0\4. Matching Brackets.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\net6.0\4. Matching Brackets.pdb
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\net6.0\4. Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\net6.0\4. Matching Brackets.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\net6.0\4. Matching Brackets.AssemblyInfo.cs
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\net6.0\4. Matching Brackets.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\net6.0\4. Matching Brackets.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\net6.0\refint\4. Matching Brackets.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\net6.0\4. Matching Brackets.pdb
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\net6.0\4. Matching Brackets.genruntimeconfig.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\net6.0\ref\4. Matching Brackets.dll

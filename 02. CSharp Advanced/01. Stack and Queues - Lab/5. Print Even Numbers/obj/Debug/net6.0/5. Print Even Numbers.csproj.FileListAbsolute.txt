@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.exe
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.deps.json
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.runtimeconfig.json
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.pdb
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.AssemblyInfo.cs
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net6.0\refint\5. Print Even Numbers.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.pdb
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.genruntimeconfig.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net6.0\ref\5. Print Even Numbers.dll

@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\17.IteratorsАndComparatorsLab\04.BookComparer\bin\Debug\net6.0\IteratorsAndComparators.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\17.IteratorsАndComparatorsLab\04.BookComparer\bin\Debug\net6.0\IteratorsAndComparators.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\17.IteratorsАndComparatorsLab\04.BookComparer\bin\Debug\net6.0\IteratorsAndComparators.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\17.IteratorsАndComparatorsLab\04.BookComparer\bin\Debug\net6.0\IteratorsAndComparators.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\17.IteratorsАndComparatorsLab\04.BookComparer\bin\Debug\net6.0\IteratorsAndComparators.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\17.IteratorsАndComparatorsLab\04.BookComparer\obj\Debug\net6.0\04.BookComparer.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\17.IteratorsАndComparatorsLab\04.BookComparer\obj\Debug\net6.0\04.BookComparer.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\17.IteratorsАndComparatorsLab\04.BookComparer\obj\Debug\net6.0\04.BookComparer.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\17.IteratorsАndComparatorsLab\04.BookComparer\obj\Debug\net6.0\04.BookComparer.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\17.IteratorsАndComparatorsLab\04.BookComparer\obj\Debug\net6.0\IteratorsAndComparators.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\17.IteratorsАndComparatorsLab\04.BookComparer\obj\Debug\net6.0\refint\IteratorsAndComparators.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\17.IteratorsАndComparatorsLab\04.BookComparer\obj\Debug\net6.0\IteratorsAndComparators.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\17.IteratorsАndComparatorsLab\04.BookComparer\obj\Debug\net6.0\04.BookComparer.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\17.IteratorsАndComparatorsLab\04.BookComparer\obj\Debug\net6.0\ref\IteratorsAndComparators.dll

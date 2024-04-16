@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\A Miner Task\bin\Debug\net6.0\A Miner Task.exe
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\A Miner Task\bin\Debug\net6.0\A Miner Task.deps.json
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\A Miner Task\bin\Debug\net6.0\A Miner Task.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\A Miner Task\bin\Debug\net6.0\A Miner Task.dll
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\A Miner Task\bin\Debug\net6.0\A Miner Task.pdb
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\A Miner Task\obj\Debug\net6.0\A Miner Task.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\A Miner Task\obj\Debug\net6.0\A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\A Miner Task\obj\Debug\net6.0\A Miner Task.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\A Miner Task\obj\Debug\net6.0\A Miner Task.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\A Miner Task\obj\Debug\net6.0\A Miner Task.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\A Miner Task\obj\Debug\net6.0\A Miner Task.dll
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\A Miner Task\obj\Debug\net6.0\refint\A Miner Task.dll
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\A Miner Task\obj\Debug\net6.0\A Miner Task.pdb
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\A Miner Task\obj\Debug\net6.0\A Miner Task.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\A Miner Task\obj\Debug\net6.0\ref\A Miner Task.dll

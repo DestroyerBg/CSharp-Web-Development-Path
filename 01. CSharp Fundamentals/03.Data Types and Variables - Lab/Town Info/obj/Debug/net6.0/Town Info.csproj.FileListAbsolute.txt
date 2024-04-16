@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Town Info\bin\Debug\net6.0\Town Info.exe
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Town Info\bin\Debug\net6.0\Town Info.deps.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Town Info\bin\Debug\net6.0\Town Info.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Town Info\bin\Debug\net6.0\Town Info.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Town Info\bin\Debug\net6.0\Town Info.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Town Info\obj\Debug\net6.0\Town Info.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Town Info\obj\Debug\net6.0\Town Info.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Town Info\obj\Debug\net6.0\Town Info.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Town Info\obj\Debug\net6.0\Town Info.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Town Info\obj\Debug\net6.0\Town Info.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Town Info\obj\Debug\net6.0\Town Info.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Town Info\obj\Debug\net6.0\refint\Town Info.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Town Info\obj\Debug\net6.0\Town Info.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Town Info\obj\Debug\net6.0\Town Info.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Town Info\obj\Debug\net6.0\ref\Town Info.dll

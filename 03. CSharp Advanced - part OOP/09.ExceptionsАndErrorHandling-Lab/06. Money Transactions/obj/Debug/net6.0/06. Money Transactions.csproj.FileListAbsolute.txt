@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\06. Money Transactions\obj\Debug\net6.0\refint\06. Money Transactions.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\06. Money Transactions\obj\Debug\net6.0\ref\06. Money Transactions.dll

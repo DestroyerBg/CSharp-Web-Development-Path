@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Oldest Family Member\bin\Debug\net6.0\Oldest Family Member.exe
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Oldest Family Member\bin\Debug\net6.0\Oldest Family Member.deps.json
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Oldest Family Member\bin\Debug\net6.0\Oldest Family Member.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Oldest Family Member\bin\Debug\net6.0\Oldest Family Member.dll
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Oldest Family Member\bin\Debug\net6.0\Oldest Family Member.pdb
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.dll
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Oldest Family Member\obj\Debug\net6.0\refint\Oldest Family Member.dll
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.pdb
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Oldest Family Member\obj\Debug\net6.0\ref\Oldest Family Member.dll

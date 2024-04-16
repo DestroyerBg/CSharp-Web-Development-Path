@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\13.Custom Doubly Linked List\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\13.Custom Doubly Linked List\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\13.Custom Doubly Linked List\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\13.Custom Doubly Linked List\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\13.Custom Doubly Linked List\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\13.Custom Doubly Linked List\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\13.Custom Doubly Linked List\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\13.Custom Doubly Linked List\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\13.Custom Doubly Linked List\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\13.Custom Doubly Linked List\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\13.Custom Doubly Linked List\CustomDoublyLinkedList\obj\Debug\net6.0\refint\CustomDoublyLinkedList.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\13.Custom Doubly Linked List\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\13.Custom Doubly Linked List\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\13.Custom Doubly Linked List\CustomDoublyLinkedList\obj\Debug\net6.0\ref\CustomDoublyLinkedList.dll

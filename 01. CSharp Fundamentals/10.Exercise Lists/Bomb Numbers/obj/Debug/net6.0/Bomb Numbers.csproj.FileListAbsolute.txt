@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Bomb Numbers\bin\Debug\net6.0\Bomb Numbers.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Bomb Numbers\bin\Debug\net6.0\Bomb Numbers.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Bomb Numbers\bin\Debug\net6.0\Bomb Numbers.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Bomb Numbers\bin\Debug\net6.0\Bomb Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Bomb Numbers\bin\Debug\net6.0\Bomb Numbers.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Bomb Numbers\obj\Debug\net6.0\refint\Bomb Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Bomb Numbers\obj\Debug\net6.0\ref\Bomb Numbers.dll

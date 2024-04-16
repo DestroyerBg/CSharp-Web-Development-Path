@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+}
+
+header,main, body>ul, footer{
+    background-color: skyblue;
+    padding: 2em;
+    border-radius: 0.3em;
+}
+header{
+    flex-basis: 100%;
+}
+
+body > ul{
+    flex: 0 1 100px;
+   color:rgb(64, 19, 106);
+   font-size: 40px;
+}
+
+body > ul li:hover{
+    cursor: pointer;
+}
+
+main{
+    flex: 1 0 auto;
+    font-size: 40px;
+}
+
+footer{
+    flex-basis: 100%;
+    font-size: 30px;
+}
+
+@media(max-width:500px){
+    body{
+        flex-direction: column;
+    }
+}
+

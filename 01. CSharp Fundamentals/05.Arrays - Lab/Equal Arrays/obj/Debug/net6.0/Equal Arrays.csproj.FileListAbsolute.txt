@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Equal Arrays\bin\Debug\net6.0\Equal Arrays.exe
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Equal Arrays\bin\Debug\net6.0\Equal Arrays.deps.json
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Equal Arrays\bin\Debug\net6.0\Equal Arrays.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Equal Arrays\bin\Debug\net6.0\Equal Arrays.dll
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Equal Arrays\bin\Debug\net6.0\Equal Arrays.pdb
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Equal Arrays\obj\Debug\net6.0\Equal Arrays.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Equal Arrays\obj\Debug\net6.0\Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Equal Arrays\obj\Debug\net6.0\Equal Arrays.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Equal Arrays\obj\Debug\net6.0\Equal Arrays.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Equal Arrays\obj\Debug\net6.0\Equal Arrays.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Equal Arrays\obj\Debug\net6.0\Equal Arrays.dll
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Equal Arrays\obj\Debug\net6.0\refint\Equal Arrays.dll
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Equal Arrays\obj\Debug\net6.0\Equal Arrays.pdb
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Equal Arrays\obj\Debug\net6.0\Equal Arrays.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Equal Arrays\obj\Debug\net6.0\ref\Equal Arrays.dll

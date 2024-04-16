@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\03.CustomQueue\bin\Debug\net6.0\03.CustomQueue.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\03.CustomQueue\bin\Debug\net6.0\03.CustomQueue.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\03.CustomQueue\bin\Debug\net6.0\03.CustomQueue.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\03.CustomQueue\bin\Debug\net6.0\03.CustomQueue.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\03.CustomQueue\bin\Debug\net6.0\03.CustomQueue.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\03.CustomQueue\obj\Debug\net6.0\03.CustomQueue.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\03.CustomQueue\obj\Debug\net6.0\03.CustomQueue.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\03.CustomQueue\obj\Debug\net6.0\03.CustomQueue.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\03.CustomQueue\obj\Debug\net6.0\03.CustomQueue.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\03.CustomQueue\obj\Debug\net6.0\03.CustomQueue.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\03.CustomQueue\obj\Debug\net6.0\refint\03.CustomQueue.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\03.CustomQueue\obj\Debug\net6.0\03.CustomQueue.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\03.CustomQueue\obj\Debug\net6.0\03.CustomQueue.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\03.CustomQueue\obj\Debug\net6.0\ref\03.CustomQueue.dll

@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Advertisement Message\bin\Debug\net6.0\Advertisement Message.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Advertisement Message\bin\Debug\net6.0\Advertisement Message.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Advertisement Message\bin\Debug\net6.0\Advertisement Message.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Advertisement Message\bin\Debug\net6.0\Advertisement Message.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Advertisement Message\bin\Debug\net6.0\Advertisement Message.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Advertisement Message\obj\Debug\net6.0\Advertisement Message.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Advertisement Message\obj\Debug\net6.0\Advertisement Message.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Advertisement Message\obj\Debug\net6.0\Advertisement Message.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Advertisement Message\obj\Debug\net6.0\Advertisement Message.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Advertisement Message\obj\Debug\net6.0\Advertisement Message.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Advertisement Message\obj\Debug\net6.0\Advertisement Message.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Advertisement Message\obj\Debug\net6.0\refint\Advertisement Message.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Advertisement Message\obj\Debug\net6.0\Advertisement Message.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Advertisement Message\obj\Debug\net6.0\Advertisement Message.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Advertisement Message\obj\Debug\net6.0\ref\Advertisement Message.dll

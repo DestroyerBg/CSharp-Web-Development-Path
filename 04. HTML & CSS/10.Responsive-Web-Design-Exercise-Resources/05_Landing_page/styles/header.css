@@ -1,0 +1,25 @@
+header.site-title{
+    display: flex;
+    justify-content: space-between;
+}
+
+.site-title nav ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.site-title nav ul li{
+    margin-right: 3em;
+}
+
+.site-title nav ul li:hover{
+    color:blueviolet;
+    cursor: pointer;
+}
+
+.site-title .title h2{
+    font-size: 35px;
+    color:rgb(187, 11, 240);
+    margin-bottom: 0;
+}
+

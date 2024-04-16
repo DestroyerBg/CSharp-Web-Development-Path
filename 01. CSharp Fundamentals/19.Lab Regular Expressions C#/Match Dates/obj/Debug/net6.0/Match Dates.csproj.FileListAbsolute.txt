@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Dates\bin\Debug\net6.0\Match Dates.exe
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Dates\bin\Debug\net6.0\Match Dates.deps.json
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Dates\bin\Debug\net6.0\Match Dates.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Dates\bin\Debug\net6.0\Match Dates.dll
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Dates\bin\Debug\net6.0\Match Dates.pdb
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Dates\obj\Debug\net6.0\Match Dates.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Dates\obj\Debug\net6.0\Match Dates.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Dates\obj\Debug\net6.0\Match Dates.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Dates\obj\Debug\net6.0\Match Dates.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Dates\obj\Debug\net6.0\Match Dates.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Dates\obj\Debug\net6.0\Match Dates.dll
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Dates\obj\Debug\net6.0\refint\Match Dates.dll
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Dates\obj\Debug\net6.0\Match Dates.pdb
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Dates\obj\Debug\net6.0\Match Dates.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Dates\obj\Debug\net6.0\ref\Match Dates.dll

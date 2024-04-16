@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\01. Programming Fundamentals Final Exam Retake\Problem 3 - The Pianist\bin\Debug\net6.0\Problem 3 - The Pianist.exe
+D:\visual studio apps\Program Fundamentals C#\01. Programming Fundamentals Final Exam Retake\Problem 3 - The Pianist\bin\Debug\net6.0\Problem 3 - The Pianist.deps.json
+D:\visual studio apps\Program Fundamentals C#\01. Programming Fundamentals Final Exam Retake\Problem 3 - The Pianist\bin\Debug\net6.0\Problem 3 - The Pianist.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\01. Programming Fundamentals Final Exam Retake\Problem 3 - The Pianist\bin\Debug\net6.0\Problem 3 - The Pianist.dll
+D:\visual studio apps\Program Fundamentals C#\01. Programming Fundamentals Final Exam Retake\Problem 3 - The Pianist\bin\Debug\net6.0\Problem 3 - The Pianist.pdb
+D:\visual studio apps\Program Fundamentals C#\01. Programming Fundamentals Final Exam Retake\Problem 3 - The Pianist\obj\Debug\net6.0\Problem 3 - The Pianist.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\01. Programming Fundamentals Final Exam Retake\Problem 3 - The Pianist\obj\Debug\net6.0\Problem 3 - The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\01. Programming Fundamentals Final Exam Retake\Problem 3 - The Pianist\obj\Debug\net6.0\Problem 3 - The Pianist.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\01. Programming Fundamentals Final Exam Retake\Problem 3 - The Pianist\obj\Debug\net6.0\Problem 3 - The Pianist.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\01. Programming Fundamentals Final Exam Retake\Problem 3 - The Pianist\obj\Debug\net6.0\Problem 3 - The Pianist.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\01. Programming Fundamentals Final Exam Retake\Problem 3 - The Pianist\obj\Debug\net6.0\Problem 3 - The Pianist.dll
+D:\visual studio apps\Program Fundamentals C#\01. Programming Fundamentals Final Exam Retake\Problem 3 - The Pianist\obj\Debug\net6.0\refint\Problem 3 - The Pianist.dll
+D:\visual studio apps\Program Fundamentals C#\01. Programming Fundamentals Final Exam Retake\Problem 3 - The Pianist\obj\Debug\net6.0\Problem 3 - The Pianist.pdb
+D:\visual studio apps\Program Fundamentals C#\01. Programming Fundamentals Final Exam Retake\Problem 3 - The Pianist\obj\Debug\net6.0\Problem 3 - The Pianist.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\01. Programming Fundamentals Final Exam Retake\Problem 3 - The Pianist\obj\Debug\net6.0\ref\Problem 3 - The Pianist.dll

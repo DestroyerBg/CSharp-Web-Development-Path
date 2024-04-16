@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\net6.0\refint\04. Directory Traversal.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\net6.0\ref\04. Directory Traversal.dll

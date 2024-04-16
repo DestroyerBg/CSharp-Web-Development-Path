@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.exe
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.deps.json
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.dll
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.pdb
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.dll
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Condense Array to Number\obj\Debug\net6.0\refint\Condense Array to Number.dll
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.pdb
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Condense Array to Number\obj\Debug\net6.0\ref\Condense Array to Number.dll

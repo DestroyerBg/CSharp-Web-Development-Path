@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net6.0\refint\03. Periodic Table.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net6.0\ref\03. Periodic Table.dll

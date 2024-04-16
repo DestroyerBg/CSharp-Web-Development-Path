@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\refint\01.Persons.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\ref\01.Persons.dll

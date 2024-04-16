@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Even and Odd Subtraction\bin\Debug\net6.0\Even and Odd Subtraction.exe
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Even and Odd Subtraction\bin\Debug\net6.0\Even and Odd Subtraction.deps.json
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Even and Odd Subtraction\bin\Debug\net6.0\Even and Odd Subtraction.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Even and Odd Subtraction\bin\Debug\net6.0\Even and Odd Subtraction.dll
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Even and Odd Subtraction\bin\Debug\net6.0\Even and Odd Subtraction.pdb
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.dll
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Even and Odd Subtraction\obj\Debug\net6.0\refint\Even and Odd Subtraction.dll
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.pdb
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Even and Odd Subtraction\obj\Debug\net6.0\ref\Even and Odd Subtraction.dll

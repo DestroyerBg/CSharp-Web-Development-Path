@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\refint\02. Knights of Honor.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\ref\02. Knights of Honor.dll

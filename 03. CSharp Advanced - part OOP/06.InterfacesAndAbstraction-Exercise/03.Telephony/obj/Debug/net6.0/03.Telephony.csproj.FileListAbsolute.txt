@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\03.Telephony\bin\Debug\net6.0\03.Telephony.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\03.Telephony\bin\Debug\net6.0\03.Telephony.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\03.Telephony\bin\Debug\net6.0\03.Telephony.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\03.Telephony\bin\Debug\net6.0\03.Telephony.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\03.Telephony\bin\Debug\net6.0\03.Telephony.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\03.Telephony\obj\Debug\net6.0\03.Telephony.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\03.Telephony\obj\Debug\net6.0\03.Telephony.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\03.Telephony\obj\Debug\net6.0\03.Telephony.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\03.Telephony\obj\Debug\net6.0\03.Telephony.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\03.Telephony\obj\Debug\net6.0\03.Telephony.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\03.Telephony\obj\Debug\net6.0\refint\03.Telephony.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\03.Telephony\obj\Debug\net6.0\03.Telephony.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\03.Telephony\obj\Debug\net6.0\03.Telephony.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\03.Telephony\obj\Debug\net6.0\ref\03.Telephony.dll

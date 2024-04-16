@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net6.0\refint\2. Sum Matrix Columns.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net6.0\ref\2. Sum Matrix Columns.dll

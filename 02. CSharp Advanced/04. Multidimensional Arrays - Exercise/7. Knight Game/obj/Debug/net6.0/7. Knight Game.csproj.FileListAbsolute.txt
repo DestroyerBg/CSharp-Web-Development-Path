@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net6.0\7. Knight Game.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net6.0\7. Knight Game.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net6.0\7. Knight Game.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net6.0\7. Knight Game.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net6.0\7. Knight Game.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net6.0\7. Knight Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net6.0\7. Knight Game.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net6.0\7. Knight Game.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net6.0\7. Knight Game.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net6.0\7. Knight Game.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net6.0\refint\7. Knight Game.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net6.0\7. Knight Game.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net6.0\7. Knight Game.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net6.0\ref\7. Knight Game.dll

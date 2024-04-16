@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Extract Emails\bin\Debug\net6.0\Extract Emails.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Extract Emails\bin\Debug\net6.0\Extract Emails.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Extract Emails\bin\Debug\net6.0\Extract Emails.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Extract Emails\bin\Debug\net6.0\Extract Emails.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Extract Emails\bin\Debug\net6.0\Extract Emails.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Extract Emails\obj\Debug\net6.0\Extract Emails.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Extract Emails\obj\Debug\net6.0\Extract Emails.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Extract Emails\obj\Debug\net6.0\Extract Emails.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Extract Emails\obj\Debug\net6.0\Extract Emails.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Extract Emails\obj\Debug\net6.0\Extract Emails.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Extract Emails\obj\Debug\net6.0\Extract Emails.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Extract Emails\obj\Debug\net6.0\refint\Extract Emails.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Extract Emails\obj\Debug\net6.0\Extract Emails.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Extract Emails\obj\Debug\net6.0\Extract Emails.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Extract Emails\obj\Debug\net6.0\ref\Extract Emails.dll

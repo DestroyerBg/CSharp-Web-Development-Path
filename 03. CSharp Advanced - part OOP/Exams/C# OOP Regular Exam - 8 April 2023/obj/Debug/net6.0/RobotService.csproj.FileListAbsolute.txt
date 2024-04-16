@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\bin\Debug\net6.0\RobotService.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\bin\Debug\net6.0\RobotService.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\bin\Debug\net6.0\RobotService.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\bin\Debug\net6.0\RobotService.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\bin\Debug\net6.0\RobotService.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\obj\Debug\net6.0\RobotService.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\obj\Debug\net6.0\RobotService.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\obj\Debug\net6.0\RobotService.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\obj\Debug\net6.0\RobotService.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\obj\Debug\net6.0\RobotService.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\obj\Debug\net6.0\refint\RobotService.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\obj\Debug\net6.0\RobotService.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\obj\Debug\net6.0\RobotService.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\obj\Debug\net6.0\ref\RobotService.dll

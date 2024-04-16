@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\02.Animals\bin\Debug\net6.0\02.Animals.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\02.Animals\bin\Debug\net6.0\02.Animals.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\02.Animals\bin\Debug\net6.0\02.Animals.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\02.Animals\bin\Debug\net6.0\02.Animals.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\02.Animals\bin\Debug\net6.0\02.Animals.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\02.Animals\obj\Debug\net6.0\02.Animals.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\02.Animals\obj\Debug\net6.0\02.Animals.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\02.Animals\obj\Debug\net6.0\02.Animals.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\02.Animals\obj\Debug\net6.0\02.Animals.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\02.Animals\obj\Debug\net6.0\02.Animals.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\02.Animals\obj\Debug\net6.0\refint\02.Animals.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\02.Animals\obj\Debug\net6.0\02.Animals.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\02.Animals\obj\Debug\net6.0\02.Animals.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\02.Animals\obj\Debug\net6.0\ref\02.Animals.dll

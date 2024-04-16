@@ -1,0 +1,4 @@
+Name: George Stevenson Stevenson Id: 3 Salary: 100.00
+Privates:
+  Name: Tony Samthon Samthon Id: 222 Salary: 80.08
+  Name: Peter Johnson Johnson Id: 1 Salary: 22.22

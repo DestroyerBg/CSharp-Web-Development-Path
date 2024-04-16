@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net6.0\refint\01. Unique Usernames.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net6.0\ref\01. Unique Usernames.dll

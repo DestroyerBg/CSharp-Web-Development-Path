@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net6.0\04. Fast Food.exe
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net6.0\04. Fast Food.deps.json
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net6.0\04. Fast Food.runtimeconfig.json
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net6.0\04. Fast Food.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net6.0\04. Fast Food.pdb
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.AssemblyInfo.cs
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net6.0\refint\04. Fast Food.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.pdb
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.genruntimeconfig.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net6.0\ref\04. Fast Food.dll

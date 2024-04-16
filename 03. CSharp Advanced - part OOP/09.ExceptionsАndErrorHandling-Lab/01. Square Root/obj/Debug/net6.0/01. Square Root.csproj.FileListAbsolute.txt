@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\01. Square Root\bin\Debug\net6.0\01. Square Root.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\01. Square Root\bin\Debug\net6.0\01. Square Root.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\01. Square Root\bin\Debug\net6.0\01. Square Root.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\01. Square Root\bin\Debug\net6.0\01. Square Root.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\01. Square Root\bin\Debug\net6.0\01. Square Root.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\01. Square Root\obj\Debug\net6.0\refint\01. Square Root.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\01. Square Root\obj\Debug\net6.0\ref\01. Square Root.dll

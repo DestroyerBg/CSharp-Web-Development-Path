@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\refint\06. Wardrobe.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net6.0\ref\06. Wardrobe.dll

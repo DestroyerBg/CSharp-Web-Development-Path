@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Articles\obj\Debug\net6.0\Articles.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Articles\obj\Debug\net6.0\Articles.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Articles\obj\Debug\net6.0\Articles.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Articles\obj\Debug\net6.0\Articles.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Articles\obj\Debug\net6.0\Articles.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Articles\bin\Debug\net6.0\Articles.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Articles\bin\Debug\net6.0\Articles.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Articles\bin\Debug\net6.0\Articles.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Articles\bin\Debug\net6.0\Articles.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Articles\bin\Debug\net6.0\Articles.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Articles\obj\Debug\net6.0\Articles.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Articles\obj\Debug\net6.0\refint\Articles.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Articles\obj\Debug\net6.0\Articles.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Articles\obj\Debug\net6.0\Articles.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Articles\obj\Debug\net6.0\ref\Articles.dll

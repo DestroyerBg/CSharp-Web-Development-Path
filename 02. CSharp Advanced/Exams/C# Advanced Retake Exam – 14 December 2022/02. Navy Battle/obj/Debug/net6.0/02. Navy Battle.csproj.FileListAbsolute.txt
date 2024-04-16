@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\02. Navy Battle\bin\Debug\net6.0\02. Navy Battle.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\02. Navy Battle\bin\Debug\net6.0\02. Navy Battle.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\02. Navy Battle\bin\Debug\net6.0\02. Navy Battle.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\02. Navy Battle\bin\Debug\net6.0\02. Navy Battle.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\02. Navy Battle\bin\Debug\net6.0\02. Navy Battle.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\02. Navy Battle\obj\Debug\net6.0\refint\02. Navy Battle.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\02. Navy Battle\obj\Debug\net6.0\ref\02. Navy Battle.dll

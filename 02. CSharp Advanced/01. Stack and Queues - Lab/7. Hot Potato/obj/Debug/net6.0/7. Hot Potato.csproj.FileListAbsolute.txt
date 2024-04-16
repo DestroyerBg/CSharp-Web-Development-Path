@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net6.0\7. Hot Potato.exe
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net6.0\7. Hot Potato.deps.json
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net6.0\7. Hot Potato.runtimeconfig.json
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net6.0\7. Hot Potato.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net6.0\7. Hot Potato.pdb
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.AssemblyInfo.cs
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net6.0\refint\7. Hot Potato.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.pdb
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.genruntimeconfig.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net6.0\ref\7. Hot Potato.dll

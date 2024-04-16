@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\06.GenericCountMethodDouble\bin\Debug\net6.0\06.GenericCountMethodDouble.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\06.GenericCountMethodDouble\bin\Debug\net6.0\06.GenericCountMethodDouble.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\06.GenericCountMethodDouble\bin\Debug\net6.0\06.GenericCountMethodDouble.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\06.GenericCountMethodDouble\bin\Debug\net6.0\06.GenericCountMethodDouble.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\06.GenericCountMethodDouble\bin\Debug\net6.0\06.GenericCountMethodDouble.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\06.GenericCountMethodDouble\obj\Debug\net6.0\06.GenericCountMethodDouble.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\06.GenericCountMethodDouble\obj\Debug\net6.0\06.GenericCountMethodDouble.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\06.GenericCountMethodDouble\obj\Debug\net6.0\06.GenericCountMethodDouble.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\06.GenericCountMethodDouble\obj\Debug\net6.0\06.GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\06.GenericCountMethodDouble\obj\Debug\net6.0\06.GenericCountMethodDouble.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\06.GenericCountMethodDouble\obj\Debug\net6.0\refint\06.GenericCountMethodDouble.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\06.GenericCountMethodDouble\obj\Debug\net6.0\06.GenericCountMethodDouble.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\06.GenericCountMethodDouble\obj\Debug\net6.0\06.GenericCountMethodDouble.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\06.GenericCountMethodDouble\obj\Debug\net6.0\ref\06.GenericCountMethodDouble.dll

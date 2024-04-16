@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\04.NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\04.NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\04.NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\04.NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\04.NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\04.NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\04.NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\04.NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\04.NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\04.NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\04.NeedForSpeed\obj\Debug\net6.0\refint\NeedForSpeed.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\04.NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\04.NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\04.NeedForSpeed\obj\Debug\net6.0\ref\NeedForSpeed.dll

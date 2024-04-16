@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Digits, Letters and Other\bin\Debug\net6.0\Digits, Letters and Other.exe
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Digits, Letters and Other\bin\Debug\net6.0\Digits, Letters and Other.deps.json
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Digits, Letters and Other\bin\Debug\net6.0\Digits, Letters and Other.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Digits, Letters and Other\bin\Debug\net6.0\Digits, Letters and Other.dll
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Digits, Letters and Other\bin\Debug\net6.0\Digits, Letters and Other.pdb
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Digits, Letters and Other\obj\Debug\net6.0\Digits, Letters and Other.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Digits, Letters and Other\obj\Debug\net6.0\Digits, Letters and Other.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Digits, Letters and Other\obj\Debug\net6.0\Digits, Letters and Other.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Digits, Letters and Other\obj\Debug\net6.0\Digits, Letters and Other.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Digits, Letters and Other\obj\Debug\net6.0\Digits, Letters and Other.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Digits, Letters and Other\obj\Debug\net6.0\Digits, Letters and Other.dll
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Digits, Letters and Other\obj\Debug\net6.0\refint\Digits, Letters and Other.dll
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Digits, Letters and Other\obj\Debug\net6.0\Digits, Letters and Other.pdb
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Digits, Letters and Other\obj\Debug\net6.0\Digits, Letters and Other.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Digits, Letters and Other\obj\Debug\net6.0\ref\Digits, Letters and Other.dll

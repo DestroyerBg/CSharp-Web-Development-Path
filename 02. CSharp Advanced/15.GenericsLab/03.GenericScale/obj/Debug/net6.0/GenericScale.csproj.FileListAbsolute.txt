@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\03.GenericScale\bin\Debug\net6.0\GenericScale.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\03.GenericScale\bin\Debug\net6.0\GenericScale.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\03.GenericScale\bin\Debug\net6.0\GenericScale.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\03.GenericScale\bin\Debug\net6.0\GenericScale.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\03.GenericScale\bin\Debug\net6.0\GenericScale.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\03.GenericScale\obj\Debug\net6.0\GenericScale.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\03.GenericScale\obj\Debug\net6.0\GenericScale.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\03.GenericScale\obj\Debug\net6.0\GenericScale.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\03.GenericScale\obj\Debug\net6.0\GenericScale.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\03.GenericScale\obj\Debug\net6.0\GenericScale.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\03.GenericScale\obj\Debug\net6.0\refint\GenericScale.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\03.GenericScale\obj\Debug\net6.0\GenericScale.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\03.GenericScale\obj\Debug\net6.0\GenericScale.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\03.GenericScale\obj\Debug\net6.0\ref\GenericScale.dll

@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\net6.0\refint\05. Extract Special Bytes.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\net6.0\ref\05. Extract Special Bytes.dll

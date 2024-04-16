@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\08.CarSalesman\bin\Debug\net6.0\08.CarSalesman.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\08.CarSalesman\bin\Debug\net6.0\08.CarSalesman.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\08.CarSalesman\bin\Debug\net6.0\08.CarSalesman.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\08.CarSalesman\bin\Debug\net6.0\08.CarSalesman.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\08.CarSalesman\bin\Debug\net6.0\08.CarSalesman.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\08.CarSalesman\obj\Debug\net6.0\refint\08.CarSalesman.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\08.CarSalesman\obj\Debug\net6.0\ref\08.CarSalesman.dll

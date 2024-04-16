@@ -1,0 +1,14 @@
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\01. Barista Contest\bin\Debug\net6.0\01. Barista Contest.exe
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\01. Barista Contest\bin\Debug\net6.0\01. Barista Contest.deps.json
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\01. Barista Contest\bin\Debug\net6.0\01. Barista Contest.runtimeconfig.json
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\01. Barista Contest\bin\Debug\net6.0\01. Barista Contest.dll
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\01. Barista Contest\bin\Debug\net6.0\01. Barista Contest.pdb
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\01. Barista Contest\obj\Debug\net6.0\01. Barista Contest.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\01. Barista Contest\obj\Debug\net6.0\01. Barista Contest.AssemblyInfoInputs.cache
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\01. Barista Contest\obj\Debug\net6.0\01. Barista Contest.AssemblyInfo.cs
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\01. Barista Contest\obj\Debug\net6.0\01. Barista Contest.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\01. Barista Contest\obj\Debug\net6.0\01. Barista Contest.dll
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\01. Barista Contest\obj\Debug\net6.0\refint\01. Barista Contest.dll
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\01. Barista Contest\obj\Debug\net6.0\01. Barista Contest.pdb
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\01. Barista Contest\obj\Debug\net6.0\01. Barista Contest.genruntimeconfig.cache
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Retake Exam – 18 August 2022\01. Barista Contest\obj\Debug\net6.0\ref\01. Barista Contest.dll

@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\bin\Debug\net6.0\Back in 30 Minutes.exe
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\bin\Debug\net6.0\Back in 30 Minutes.deps.json
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\bin\Debug\net6.0\Back in 30 Minutes.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\bin\Debug\net6.0\Back in 30 Minutes.dll
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\bin\Debug\net6.0\Back in 30 Minutes.pdb
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Debug\net6.0\Back in 30 Minutes.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Debug\net6.0\Back in 30 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Debug\net6.0\Back in 30 Minutes.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Debug\net6.0\Back in 30 Minutes.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Debug\net6.0\Back in 30 Minutes.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Debug\net6.0\Back in 30 Minutes.dll
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Debug\net6.0\refint\Back in 30 Minutes.dll
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Debug\net6.0\Back in 30 Minutes.pdb
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Debug\net6.0\Back in 30 Minutes.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Debug\net6.0\ref\Back in 30 Minutes.dll

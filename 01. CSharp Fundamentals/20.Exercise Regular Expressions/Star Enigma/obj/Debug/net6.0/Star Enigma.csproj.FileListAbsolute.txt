@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Star Enigma\bin\Debug\net6.0\Star Enigma.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Star Enigma\bin\Debug\net6.0\Star Enigma.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Star Enigma\bin\Debug\net6.0\Star Enigma.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Star Enigma\bin\Debug\net6.0\Star Enigma.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Star Enigma\bin\Debug\net6.0\Star Enigma.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Star Enigma\obj\Debug\net6.0\Star Enigma.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Star Enigma\obj\Debug\net6.0\Star Enigma.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Star Enigma\obj\Debug\net6.0\Star Enigma.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Star Enigma\obj\Debug\net6.0\Star Enigma.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Star Enigma\obj\Debug\net6.0\Star Enigma.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Star Enigma\obj\Debug\net6.0\Star Enigma.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Star Enigma\obj\Debug\net6.0\refint\Star Enigma.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Star Enigma\obj\Debug\net6.0\Star Enigma.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Star Enigma\obj\Debug\net6.0\Star Enigma.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Star Enigma\obj\Debug\net6.0\ref\Star Enigma.dll

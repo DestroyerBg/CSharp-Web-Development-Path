@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\01.ListyIterator\obj\Debug\net6.0\refint\01.ListyIterator.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\01.ListyIterator\obj\Debug\net6.0\ref\01.ListyIterator.dll

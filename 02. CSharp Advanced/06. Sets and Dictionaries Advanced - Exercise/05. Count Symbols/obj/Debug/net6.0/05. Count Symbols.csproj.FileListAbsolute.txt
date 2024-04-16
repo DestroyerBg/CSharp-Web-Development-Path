@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\refint\05. Count Symbols.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net6.0\ref\05. Count Symbols.dll

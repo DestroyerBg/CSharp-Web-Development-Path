@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List of Products\bin\Debug\net6.0\List of Products.exe
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List of Products\bin\Debug\net6.0\List of Products.deps.json
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List of Products\bin\Debug\net6.0\List of Products.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List of Products\bin\Debug\net6.0\List of Products.dll
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List of Products\bin\Debug\net6.0\List of Products.pdb
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List of Products\obj\Debug\net6.0\List of Products.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List of Products\obj\Debug\net6.0\List of Products.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List of Products\obj\Debug\net6.0\List of Products.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List of Products\obj\Debug\net6.0\List of Products.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List of Products\obj\Debug\net6.0\List of Products.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List of Products\obj\Debug\net6.0\List of Products.dll
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List of Products\obj\Debug\net6.0\refint\List of Products.dll
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List of Products\obj\Debug\net6.0\List of Products.pdb
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List of Products\obj\Debug\net6.0\List of Products.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List of Products\obj\Debug\net6.0\ref\List of Products.dll

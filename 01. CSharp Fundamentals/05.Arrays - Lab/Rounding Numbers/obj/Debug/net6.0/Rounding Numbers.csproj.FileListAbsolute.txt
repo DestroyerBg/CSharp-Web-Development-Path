@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Rounding Numbers\bin\Debug\net6.0\Rounding Numbers.exe
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Rounding Numbers\bin\Debug\net6.0\Rounding Numbers.deps.json
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Rounding Numbers\bin\Debug\net6.0\Rounding Numbers.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Rounding Numbers\bin\Debug\net6.0\Rounding Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Rounding Numbers\bin\Debug\net6.0\Rounding Numbers.pdb
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Rounding Numbers\obj\Debug\net6.0\Rounding Numbers.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Rounding Numbers\obj\Debug\net6.0\Rounding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Rounding Numbers\obj\Debug\net6.0\Rounding Numbers.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Rounding Numbers\obj\Debug\net6.0\Rounding Numbers.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Rounding Numbers\obj\Debug\net6.0\Rounding Numbers.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Rounding Numbers\obj\Debug\net6.0\Rounding Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Rounding Numbers\obj\Debug\net6.0\refint\Rounding Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Rounding Numbers\obj\Debug\net6.0\Rounding Numbers.pdb
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Rounding Numbers\obj\Debug\net6.0\Rounding Numbers.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Rounding Numbers\obj\Debug\net6.0\ref\Rounding Numbers.dll

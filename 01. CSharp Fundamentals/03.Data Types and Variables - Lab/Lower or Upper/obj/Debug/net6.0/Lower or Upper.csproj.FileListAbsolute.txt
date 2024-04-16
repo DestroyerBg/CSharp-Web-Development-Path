@@ -1,0 +1,29 @@
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Lower or Upper\bin\Debug\net6.0\Lower or Upper.exe
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Lower or Upper\bin\Debug\net6.0\Lower or Upper.deps.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Lower or Upper\bin\Debug\net6.0\Lower or Upper.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Lower or Upper\bin\Debug\net6.0\Lower or Upper.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Lower or Upper\bin\Debug\net6.0\Lower or Upper.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net6.0\Lower or Upper.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net6.0\Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net6.0\Lower or Upper.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net6.0\Lower or Upper.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net6.0\Lower or Upper.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net6.0\Lower or Upper.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net6.0\refint\Lower or Upper.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net6.0\Lower or Upper.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net6.0\Lower or Upper.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Lower or Upper\obj\Debug\net6.0\ref\Lower or Upper.dll
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Lower or Upper\bin\Debug\net6.0\Lower or Upper.exe
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Lower or Upper\bin\Debug\net6.0\Lower or Upper.deps.json
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Lower or Upper\bin\Debug\net6.0\Lower or Upper.runtimeconfig.json
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Lower or Upper\bin\Debug\net6.0\Lower or Upper.dll
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Lower or Upper\bin\Debug\net6.0\Lower or Upper.pdb
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Lower or Upper\obj\Debug\net6.0\Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Lower or Upper\obj\Debug\net6.0\Lower or Upper.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Lower or Upper\obj\Debug\net6.0\Lower or Upper.AssemblyInfo.cs
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Lower or Upper\obj\Debug\net6.0\Lower or Upper.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Lower or Upper\obj\Debug\net6.0\Lower or Upper.dll
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Lower or Upper\obj\Debug\net6.0\refint\Lower or Upper.dll
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Lower or Upper\obj\Debug\net6.0\Lower or Upper.pdb
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Lower or Upper\obj\Debug\net6.0\Lower or Upper.genruntimeconfig.cache
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Lower or Upper\obj\Debug\net6.0\ref\Lower or Upper.dll

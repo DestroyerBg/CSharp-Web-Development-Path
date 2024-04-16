@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\refint\01. Action Print.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\ref\01. Action Print.dll

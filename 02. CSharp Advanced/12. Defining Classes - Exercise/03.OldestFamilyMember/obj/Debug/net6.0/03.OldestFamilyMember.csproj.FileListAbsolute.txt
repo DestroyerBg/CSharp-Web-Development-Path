@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\net6.0\refint\03.OldestFamilyMember.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\03.OldestFamilyMember\obj\Debug\net6.0\ref\03.OldestFamilyMember.dll

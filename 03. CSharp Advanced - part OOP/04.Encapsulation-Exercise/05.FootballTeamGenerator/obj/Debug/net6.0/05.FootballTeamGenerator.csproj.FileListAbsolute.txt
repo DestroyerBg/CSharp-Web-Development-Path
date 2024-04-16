@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\05.FootballTeamGenerator\bin\Debug\net6.0\05.FootballTeamGenerator.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\05.FootballTeamGenerator\bin\Debug\net6.0\05.FootballTeamGenerator.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\05.FootballTeamGenerator\bin\Debug\net6.0\05.FootballTeamGenerator.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\05.FootballTeamGenerator\bin\Debug\net6.0\05.FootballTeamGenerator.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\05.FootballTeamGenerator\bin\Debug\net6.0\05.FootballTeamGenerator.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\05.FootballTeamGenerator\obj\Debug\net6.0\refint\05.FootballTeamGenerator.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\05.FootballTeamGenerator\obj\Debug\net6.0\ref\05.FootballTeamGenerator.dll

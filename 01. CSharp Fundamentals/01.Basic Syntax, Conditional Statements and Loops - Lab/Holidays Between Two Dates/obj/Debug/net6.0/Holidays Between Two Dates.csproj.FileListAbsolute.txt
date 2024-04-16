@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\bin\Debug\net6.0\Holidays Between Two Dates.exe
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\bin\Debug\net6.0\Holidays Between Two Dates.deps.json
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\bin\Debug\net6.0\Holidays Between Two Dates.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\bin\Debug\net6.0\Holidays Between Two Dates.dll
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\bin\Debug\net6.0\Holidays Between Two Dates.pdb
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\net6.0\Holidays Between Two Dates.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\net6.0\Holidays Between Two Dates.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\net6.0\Holidays Between Two Dates.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\net6.0\Holidays Between Two Dates.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\net6.0\Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\net6.0\Holidays Between Two Dates.dll
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\net6.0\refint\Holidays Between Two Dates.dll
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\net6.0\Holidays Between Two Dates.pdb
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\net6.0\Holidays Between Two Dates.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\net6.0\ref\Holidays Between Two Dates.dll

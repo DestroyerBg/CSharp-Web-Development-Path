@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\net6.0\11. Key Revolver.exe
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\net6.0\11. Key Revolver.deps.json
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\net6.0\11. Key Revolver.runtimeconfig.json
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\net6.0\11. Key Revolver.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\net6.0\11. Key Revolver.pdb
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.AssemblyInfo.cs
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\net6.0\refint\11. Key Revolver.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.pdb
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.genruntimeconfig.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\net6.0\ref\11. Key Revolver.dll

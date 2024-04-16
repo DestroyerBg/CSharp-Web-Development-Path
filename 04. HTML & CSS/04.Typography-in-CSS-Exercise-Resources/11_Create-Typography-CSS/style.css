@@ -1,0 +1,39 @@
+body{
+    font: 16px/1.5 Helvetica, sans-serif;
+    margin-left: 50px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: Georgia,serif;
+}
+
+
+table,tr,th{
+    border: 1px solid #dbdbdb;
+    border-collapse: collapse;
+    width: 1500px;
+    text-align: left;
+    font-size: 18px;
+    font-weight: normal;
+}
+tr:first-child th{
+    font-weight: bold;
+    background-color: #dbdbdb;
+}
+table tr:nth-child(even){
+    background-color: #ebeae8;
+}
+
+blockquote{
+    border-left: 2px solid gray;
+    font: italic;
+    margin-left: 15px;
+    height: 150px;
+}
+blockquote p {
+    margin-left: 25px;
+    line-height: 2em;
+}
+
+
+
+

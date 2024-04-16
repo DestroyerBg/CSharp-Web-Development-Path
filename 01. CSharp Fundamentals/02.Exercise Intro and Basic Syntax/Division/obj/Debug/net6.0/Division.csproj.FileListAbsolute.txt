@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Ages\Division\bin\Debug\net6.0\Division.exe
+D:\visual studio apps\Program Fundamentals C#\Ages\Division\bin\Debug\net6.0\Division.deps.json
+D:\visual studio apps\Program Fundamentals C#\Ages\Division\bin\Debug\net6.0\Division.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Ages\Division\bin\Debug\net6.0\Division.dll
+D:\visual studio apps\Program Fundamentals C#\Ages\Division\bin\Debug\net6.0\Division.pdb
+D:\visual studio apps\Program Fundamentals C#\Ages\Division\obj\Debug\net6.0\Division.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Ages\Division\obj\Debug\net6.0\Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Ages\Division\obj\Debug\net6.0\Division.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Ages\Division\obj\Debug\net6.0\Division.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Ages\Division\obj\Debug\net6.0\Division.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Ages\Division\obj\Debug\net6.0\Division.dll
+D:\visual studio apps\Program Fundamentals C#\Ages\Division\obj\Debug\net6.0\refint\Division.dll
+D:\visual studio apps\Program Fundamentals C#\Ages\Division\obj\Debug\net6.0\Division.pdb
+D:\visual studio apps\Program Fundamentals C#\Ages\Division\obj\Debug\net6.0\Division.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Ages\Division\obj\Debug\net6.0\ref\Division.dll

@@ -1,0 +1,11 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\Database\bin\Debug\net6.0\Database.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\Database\bin\Debug\net6.0\Database.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\Database\bin\Debug\net6.0\Database.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\Database\obj\Debug\net6.0\Database.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\Database\obj\Debug\net6.0\refint\Database.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\Database\obj\Debug\net6.0\Database.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\Database\obj\Debug\net6.0\ref\Database.dll

@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\03.Stack\obj\Debug\net6.0\03.Stack.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\03.Stack\obj\Debug\net6.0\03.Stack.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\03.Stack\obj\Debug\net6.0\03.Stack.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\03.Stack\obj\Debug\net6.0\03.Stack.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\03.Stack\bin\Debug\net6.0\03.Stack.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\03.Stack\bin\Debug\net6.0\03.Stack.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\03.Stack\bin\Debug\net6.0\03.Stack.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\03.Stack\bin\Debug\net6.0\03.Stack.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\03.Stack\bin\Debug\net6.0\03.Stack.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\03.Stack\obj\Debug\net6.0\03.Stack.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\03.Stack\obj\Debug\net6.0\refint\03.Stack.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\03.Stack\obj\Debug\net6.0\03.Stack.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\03.Stack\obj\Debug\net6.0\03.Stack.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\03.Stack\obj\Debug\net6.0\ref\03.Stack.dll

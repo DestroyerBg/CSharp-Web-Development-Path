@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Valid Usernames\bin\Debug\net6.0\Valid Usernames.exe
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Valid Usernames\bin\Debug\net6.0\Valid Usernames.deps.json
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Valid Usernames\bin\Debug\net6.0\Valid Usernames.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Valid Usernames\bin\Debug\net6.0\Valid Usernames.dll
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Valid Usernames\bin\Debug\net6.0\Valid Usernames.pdb
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Valid Usernames\obj\Debug\net6.0\Valid Usernames.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Valid Usernames\obj\Debug\net6.0\Valid Usernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Valid Usernames\obj\Debug\net6.0\Valid Usernames.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Valid Usernames\obj\Debug\net6.0\Valid Usernames.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Valid Usernames\obj\Debug\net6.0\Valid Usernames.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Valid Usernames\obj\Debug\net6.0\Valid Usernames.dll
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Valid Usernames\obj\Debug\net6.0\refint\Valid Usernames.dll
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Valid Usernames\obj\Debug\net6.0\Valid Usernames.pdb
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Valid Usernames\obj\Debug\net6.0\Valid Usernames.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Valid Usernames\obj\Debug\net6.0\ref\Valid Usernames.dll

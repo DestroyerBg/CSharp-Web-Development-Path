@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Array Rotation\bin\Debug\net6.0\Array Rotation.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Array Rotation\bin\Debug\net6.0\Array Rotation.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Array Rotation\bin\Debug\net6.0\Array Rotation.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Array Rotation\bin\Debug\net6.0\Array Rotation.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Array Rotation\bin\Debug\net6.0\Array Rotation.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Array Rotation\obj\Debug\net6.0\Array Rotation.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Array Rotation\obj\Debug\net6.0\Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Array Rotation\obj\Debug\net6.0\Array Rotation.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Array Rotation\obj\Debug\net6.0\Array Rotation.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Array Rotation\obj\Debug\net6.0\Array Rotation.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Array Rotation\obj\Debug\net6.0\Array Rotation.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Array Rotation\obj\Debug\net6.0\refint\Array Rotation.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Array Rotation\obj\Debug\net6.0\Array Rotation.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Array Rotation\obj\Debug\net6.0\Array Rotation.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Array Rotation\obj\Debug\net6.0\ref\Array Rotation.dll

@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Student Academy\bin\Debug\net6.0\Student Academy.exe
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Student Academy\bin\Debug\net6.0\Student Academy.deps.json
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Student Academy\bin\Debug\net6.0\Student Academy.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Student Academy\bin\Debug\net6.0\Student Academy.dll
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Student Academy\bin\Debug\net6.0\Student Academy.pdb
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Student Academy\obj\Debug\net6.0\Student Academy.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Student Academy\obj\Debug\net6.0\Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Student Academy\obj\Debug\net6.0\Student Academy.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Student Academy\obj\Debug\net6.0\Student Academy.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Student Academy\obj\Debug\net6.0\Student Academy.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Student Academy\obj\Debug\net6.0\Student Academy.dll
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Student Academy\obj\Debug\net6.0\refint\Student Academy.dll
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Student Academy\obj\Debug\net6.0\Student Academy.pdb
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Student Academy\obj\Debug\net6.0\Student Academy.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Student Academy\obj\Debug\net6.0\ref\Student Academy.dll

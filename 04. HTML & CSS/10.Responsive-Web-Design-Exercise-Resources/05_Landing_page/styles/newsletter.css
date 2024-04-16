@@ -1,0 +1,46 @@
+div.newsletter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(82, 3, 110);
+    padding: 2em;
+}
+
+.newsletter h2{
+    color:white;
+    position: relative;
+    display: inline-block;
+    margin-bottom: 2em;
+    font-size: 28px;
+}
+
+.newsletter h2::after{
+    content: '';
+    position: absolute; 
+    bottom: -50%;
+    left: 40%; 
+    width: 20%; 
+    height: 3px; 
+    background-color: black; 
+    margin: 0 auto; 
+}
+
+.inputs{
+    display: flex;
+    gap:0.5em;
+}
+
+.inputs input{
+    width: 200px;
+    height: 25px;
+}
+
+.inputs a{
+    text-decoration: none;
+    border: 1px solid black;
+    background-color: white;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+

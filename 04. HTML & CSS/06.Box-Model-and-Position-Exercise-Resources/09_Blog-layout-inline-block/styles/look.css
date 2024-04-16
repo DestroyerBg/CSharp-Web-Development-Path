@@ -1,0 +1,47 @@
+body{
+    padding: 2em;
+    display: inline-block;
+}
+article{
+    float: left;
+    width: 70%;
+    box-sizing: border-box;
+}
+header{
+    margin-bottom: 3em;
+}
+
+article header h1{
+    padding-bottom: 0.5em;
+    font-size: 30px;
+}
+
+article section h2,
+article section p {
+    padding-bottom: 1em;
+}
+article section ul{
+    padding-left: 3em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+}
+
+aside{
+    float: right;
+    width: 20%;
+}
+aside ul{
+    margin-left: 2em;
+    margin-top: 0.5em;
+}
+
+aside ul li{
+    text-decoration: underline;
+    color: blue;
+}
+img{
+    width: 75%;
+    display: block;
+    padding-bottom: 0.7em;
+}
+

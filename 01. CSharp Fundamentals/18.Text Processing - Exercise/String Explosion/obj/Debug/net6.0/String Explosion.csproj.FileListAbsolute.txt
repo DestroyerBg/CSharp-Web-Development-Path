@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\String Explosion\bin\Debug\net6.0\String Explosion.exe
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\String Explosion\bin\Debug\net6.0\String Explosion.deps.json
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\String Explosion\bin\Debug\net6.0\String Explosion.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\String Explosion\bin\Debug\net6.0\String Explosion.dll
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\String Explosion\bin\Debug\net6.0\String Explosion.pdb
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\String Explosion\obj\Debug\net6.0\String Explosion.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\String Explosion\obj\Debug\net6.0\String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\String Explosion\obj\Debug\net6.0\String Explosion.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\String Explosion\obj\Debug\net6.0\String Explosion.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\String Explosion\obj\Debug\net6.0\String Explosion.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\String Explosion\obj\Debug\net6.0\String Explosion.dll
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\String Explosion\obj\Debug\net6.0\refint\String Explosion.dll
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\String Explosion\obj\Debug\net6.0\String Explosion.pdb
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\String Explosion\obj\Debug\net6.0\String Explosion.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\String Explosion\obj\Debug\net6.0\ref\String Explosion.dll

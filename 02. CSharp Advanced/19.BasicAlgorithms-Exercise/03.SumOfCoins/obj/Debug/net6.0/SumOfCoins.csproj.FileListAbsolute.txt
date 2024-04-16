@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\03.SumOfCoins\bin\Debug\net6.0\SumOfCoins.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\03.SumOfCoins\bin\Debug\net6.0\SumOfCoins.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\03.SumOfCoins\bin\Debug\net6.0\SumOfCoins.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\03.SumOfCoins\bin\Debug\net6.0\SumOfCoins.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\03.SumOfCoins\bin\Debug\net6.0\SumOfCoins.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\03.SumOfCoins\obj\Debug\net6.0\SumOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\03.SumOfCoins\obj\Debug\net6.0\SumOfCoins.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\03.SumOfCoins\obj\Debug\net6.0\SumOfCoins.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\03.SumOfCoins\obj\Debug\net6.0\SumOfCoins.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\03.SumOfCoins\obj\Debug\net6.0\SumOfCoins.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\03.SumOfCoins\obj\Debug\net6.0\refint\SumOfCoins.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\03.SumOfCoins\obj\Debug\net6.0\SumOfCoins.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\03.SumOfCoins\obj\Debug\net6.0\SumOfCoins.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\03.SumOfCoins\obj\Debug\net6.0\ref\SumOfCoins.dll

@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\06.SpeedRacing\obj\Debug\net6.0\refint\06.SpeedRacing.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\06.SpeedRacing\obj\Debug\net6.0\ref\06.SpeedRacing.dll

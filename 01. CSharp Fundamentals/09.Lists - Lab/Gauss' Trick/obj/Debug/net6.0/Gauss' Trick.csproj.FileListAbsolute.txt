@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Gauss' Trick\bin\Debug\net6.0\Gauss' Trick.exe
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Gauss' Trick\bin\Debug\net6.0\Gauss' Trick.deps.json
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Gauss' Trick\bin\Debug\net6.0\Gauss' Trick.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Gauss' Trick\bin\Debug\net6.0\Gauss' Trick.dll
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Gauss' Trick\bin\Debug\net6.0\Gauss' Trick.pdb
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Gauss' Trick\obj\Debug\net6.0\Gauss' Trick.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Gauss' Trick\obj\Debug\net6.0\Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Gauss' Trick\obj\Debug\net6.0\Gauss' Trick.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Gauss' Trick\obj\Debug\net6.0\Gauss' Trick.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Gauss' Trick\obj\Debug\net6.0\Gauss' Trick.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Gauss' Trick\obj\Debug\net6.0\Gauss' Trick.dll
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Gauss' Trick\obj\Debug\net6.0\refint\Gauss' Trick.dll
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Gauss' Trick\obj\Debug\net6.0\Gauss' Trick.pdb
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Gauss' Trick\obj\Debug\net6.0\Gauss' Trick.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Gauss' Trick\obj\Debug\net6.0\ref\Gauss' Trick.dll

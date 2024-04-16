@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\refint\09.ExplicitInterfaces.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\ref\09.ExplicitInterfaces.dll

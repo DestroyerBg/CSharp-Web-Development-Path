@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\01. Climb The Peaks\obj\Debug\net6.0\01. Climb The Peaks.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\01. Climb The Peaks\obj\Debug\net6.0\01. Climb The Peaks.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\01. Climb The Peaks\obj\Debug\net6.0\01. Climb The Peaks.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\01. Climb The Peaks\obj\Debug\net6.0\01. Climb The Peaks.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\01. Climb The Peaks\bin\Debug\net6.0\01. Climb The Peaks.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\01. Climb The Peaks\bin\Debug\net6.0\01. Climb The Peaks.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\01. Climb The Peaks\bin\Debug\net6.0\01. Climb The Peaks.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\01. Climb The Peaks\bin\Debug\net6.0\01. Climb The Peaks.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\01. Climb The Peaks\bin\Debug\net6.0\01. Climb The Peaks.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\01. Climb The Peaks\obj\Debug\net6.0\01. Climb The Peaks.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\01. Climb The Peaks\obj\Debug\net6.0\refint\01. Climb The Peaks.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\01. Climb The Peaks\obj\Debug\net6.0\01. Climb The Peaks.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\01. Climb The Peaks\obj\Debug\net6.0\01. Climb The Peaks.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\01. Climb The Peaks\obj\Debug\net6.0\ref\01. Climb The Peaks.dll

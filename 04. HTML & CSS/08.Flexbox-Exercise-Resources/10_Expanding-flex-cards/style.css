@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(238, 238, 238);
+}
+
+.list{
+    display: flex;
+    gap:2em;
+    background: radial-gradient(circle at 100% 100%, #ffffff 0, #ffffff 18px, transparent 18px) 0% 0%/26px 26px no-repeat,
+            radial-gradient(circle at 0 100%, #ffffff 0, #ffffff 18px, transparent 18px) 100% 0%/26px 26px no-repeat,
+            radial-gradient(circle at 100% 0, #ffffff 0, #ffffff 18px, transparent 18px) 0% 100%/26px 26px no-repeat,
+            radial-gradient(circle at 0 0, #ffffff 0, #ffffff 18px, transparent 18px) 100% 100%/26px 26px no-repeat,
+            linear-gradient(#ffffff, #ffffff) 50% 50%/calc(100% - 16px) calc(100% - 52px) no-repeat,
+            linear-gradient(#ffffff, #ffffff) 50% 50%/calc(100% - 52px) calc(100% - 16px) no-repeat,
+            linear-gradient(90deg, #ec0000 0%, #48abe0 100%);
+            border-radius: 26px;
+            padding: 8em;
+}
+
+
+img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.card{
+    flex: 0 0 60px;
+    overflow: hidden;
+    width: 80px;
+    height: 300px;
+    position: relative;
+    border-radius: 0.5em;
+    transition: all 0.3s ease-in-out;
+}
+
+.card:hover{
+    width: 450px;
+    flex: 0 0 400px;
+    cursor: pointer;
+}
+
+img{
+    width: auto;
+    height: 100%;
+    position: absolute;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+}

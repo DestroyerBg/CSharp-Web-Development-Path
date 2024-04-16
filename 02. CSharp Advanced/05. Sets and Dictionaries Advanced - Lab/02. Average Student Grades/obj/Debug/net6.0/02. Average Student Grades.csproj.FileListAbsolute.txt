@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\refint\02. Average Student Grades.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\ref\02. Average Student Grades.dll

@@ -1,0 +1,110 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+
+/* Fake image, just for this example */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+
+body {
+  display: block;
+}
+
+header { 
+  background-color: #1abc9c;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color:white;
+}
+
+header h1,
+header p{
+  padding-top: 0.8em;
+  padding-bottom: 0.8em;
+}
+
+nav {
+  background-color: #333;
+  padding: 0.8em;
+}
+
+nav a {
+  color:white;
+  text-decoration: none;
+  margin-right: 2em;
+}
+
+.content{
+  display: flex;
+  flex-wrap: wrap;
+}
+aside {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: 30%;
+  background-color: #f1f1f1;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+aside >*{
+  margin-bottom: 0.8em;
+}
+
+aside > h2{
+  padding-top: 1.5em;
+}
+
+main {
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 70%;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+main > *{
+  margin-bottom: 0.8em;
+}
+
+main > h2{
+  padding-top: 1.5em;
+}
+
+footer{
+  background-color: #ddd;
+  flex-basis: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 2em;
+}
+
+footer > h2{
+  font-weight: 900;
+}
+
+@media (max-width:700px){
+   nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   }
+
+   nav a{
+    margin-bottom: 1em;
+   }
+
+   .content{
+    flex-direction: column;
+   }
+}
+
+

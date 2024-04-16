@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\03.PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\03.PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\03.PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\03.PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\03.PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\03.PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\03.PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\03.PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\03.PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\03.PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\03.PlayersAndMonsters\obj\Debug\net6.0\refint\PlayersAndMonsters.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\03.PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\03.PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\03.PlayersAndMonsters\obj\Debug\net6.0\ref\PlayersAndMonsters.dll

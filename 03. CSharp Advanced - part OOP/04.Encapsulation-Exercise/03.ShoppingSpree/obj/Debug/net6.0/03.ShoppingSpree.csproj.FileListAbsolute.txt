@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\03.ShoppingSpree\bin\Debug\net6.0\03.ShoppingSpree.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\03.ShoppingSpree\bin\Debug\net6.0\03.ShoppingSpree.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\03.ShoppingSpree\bin\Debug\net6.0\03.ShoppingSpree.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\03.ShoppingSpree\bin\Debug\net6.0\03.ShoppingSpree.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\03.ShoppingSpree\bin\Debug\net6.0\03.ShoppingSpree.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\03.ShoppingSpree\obj\Debug\net6.0\refint\03.ShoppingSpree.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\03.ShoppingSpree\obj\Debug\net6.0\ref\03.ShoppingSpree.dll

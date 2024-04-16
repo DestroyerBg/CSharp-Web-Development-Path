@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net6.0\Beer Kegs.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net6.0\Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net6.0\Beer Kegs.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net6.0\Beer Kegs.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net6.0\Beer Kegs.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Beer Kegs\bin\Debug\net6.0\Beer Kegs.exe
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Beer Kegs\bin\Debug\net6.0\Beer Kegs.deps.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Beer Kegs\bin\Debug\net6.0\Beer Kegs.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Beer Kegs\bin\Debug\net6.0\Beer Kegs.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Beer Kegs\bin\Debug\net6.0\Beer Kegs.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net6.0\Beer Kegs.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net6.0\refint\Beer Kegs.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net6.0\Beer Kegs.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net6.0\Beer Kegs.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Beer Kegs\obj\Debug\net6.0\ref\Beer Kegs.dll

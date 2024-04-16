@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Teamwork Projects\obj\Debug\net6.0\refint\Teamwork Projects.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Teamwork Projects\obj\Debug\net6.0\ref\Teamwork Projects.dll

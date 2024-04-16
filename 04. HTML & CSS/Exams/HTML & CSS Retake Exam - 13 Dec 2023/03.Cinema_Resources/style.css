@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.css');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font: 14px/1.5  Ubuntu;
+}
+
+div.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.container header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+    margin-bottom: 30px;
+    margin-left: 67px;
+    margin-right: 60px;
+}
+
+.container header .align-left{
+    display: flex;
+    align-items: baseline;
+    gap: 2em;
+}
+
+.align-left h1{
+    font-size: 40px;
+    text-transform: uppercase;
+    border-right: 3px solid #DBDBDB;
+    padding-right: 31px;
+}
+
+.align-left p{
+    opacity: 0.4;
+}
+
+.container nav ul{
+    list-style-type: none;
+}
+
+.container nav ul li {
+    display: inline;
+    background-color: #ECECEC;
+    padding: 22px 30px;
+    font-size: 17px;
+    opacity: 0.7;
+}
+
+.container nav ul > li:first-child{
+    background-color: #56DBB1;
+    opacity: 1;
+}
+
+.container img{
+    height: 630px;
+}
+
+.container section.content{
+    background-color: #56DBB1;
+    padding: 90px 211px;
+    text-align: center;
+}
+
+.content p{
+    font-size: 20px;
+}
+
+.container div.attributes{
+    background-color: #353434;
+    color:white;
+    display: flex;
+    padding: 150px 70px;
+    justify-content: space-between;
+}
+
+.attributes .attribute{
+    display: flex;
+    flex-direction: column;
+    gap:1em;
+    position: relative;
+    width: 350px;
+}
+
+span.icon{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 80px; 
+    height: 80px;
+    background-color: #56DBB1;
+    margin: 0 auto;
+}
+
+.icon i{
+    font-size: 2.8em;
+}
+
+.attribute h3,
+.attribute p{
+    margin: 0 auto;
+}
+
+.attribute hr{
+    background-color: #eee;
+}
+.attribute p{
+    opacity: 0.3;
+}
+
+section.contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact h2{
+    color: #5F5F5F;
+    margin-top: 70px;
+    font-size: 40px;
+}
+
+.contact p{
+    opacity: 0.5;
+    font-size: 19px;
+    width: 910px;
+}
+
+.contact a{
+    margin-top: 2em;
+    background-color: #974D1B;
+    text-decoration: none;
+    color:white;
+    padding: 0.8em 1.6em;
+    margin-bottom: 5em;
+}
+
+div.bottom-section{
+    display: flex;
+    padding: 180px;
+    background-color: #353434;
+    color:white;
+    justify-content: space-around;
+}
+
+.bottom-section section{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+    width: 400px;
+}
+
+.bottom-section section h3{
+    font-size: 32px;
+    margin-bottom: 34px;
+
+}
+
+.bottom-section section p{
+    opacity:0.2;
+    font-size: 15px;
+    width: 80%;
+    text-align: center;
+}
+
+.container footer {
+    background-color: #1B9772;
+    padding: 50px 400px;
+    text-align: center;
+}
+
+.container footer p{
+    color:#56DBB1;
+}
+
+.highlight{
+    color:white;
+}

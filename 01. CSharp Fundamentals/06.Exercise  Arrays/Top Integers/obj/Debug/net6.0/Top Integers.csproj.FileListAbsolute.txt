@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Top Integers\bin\Debug\net6.0\Top Integers.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Top Integers\bin\Debug\net6.0\Top Integers.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Top Integers\bin\Debug\net6.0\Top Integers.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Top Integers\bin\Debug\net6.0\Top Integers.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Top Integers\bin\Debug\net6.0\Top Integers.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Top Integers\obj\Debug\net6.0\Top Integers.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Top Integers\obj\Debug\net6.0\Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Top Integers\obj\Debug\net6.0\Top Integers.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Top Integers\obj\Debug\net6.0\Top Integers.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Top Integers\obj\Debug\net6.0\Top Integers.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Top Integers\obj\Debug\net6.0\Top Integers.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Top Integers\obj\Debug\net6.0\refint\Top Integers.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Top Integers\obj\Debug\net6.0\Top Integers.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Top Integers\obj\Debug\net6.0\Top Integers.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Top Integers\obj\Debug\net6.0\ref\Top Integers.dll

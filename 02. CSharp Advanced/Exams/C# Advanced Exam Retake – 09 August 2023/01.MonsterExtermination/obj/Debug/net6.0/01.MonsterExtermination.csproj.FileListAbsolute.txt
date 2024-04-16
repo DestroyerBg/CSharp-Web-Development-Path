@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\01.MonsterExtermination\obj\Debug\net6.0\refint\01.MonsterExtermination.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\01.MonsterExtermination\obj\Debug\net6.0\ref\01.MonsterExtermination.dll

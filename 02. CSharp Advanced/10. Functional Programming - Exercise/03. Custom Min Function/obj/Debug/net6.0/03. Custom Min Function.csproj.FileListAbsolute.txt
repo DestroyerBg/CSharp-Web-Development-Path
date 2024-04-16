@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net6.0\03. Custom Min Function.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net6.0\03. Custom Min Function.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net6.0\03. Custom Min Function.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net6.0\03. Custom Min Function.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net6.0\03. Custom Min Function.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net6.0\03. Custom Min Function.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net6.0\03. Custom Min Function.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net6.0\03. Custom Min Function.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net6.0\03. Custom Min Function.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net6.0\03. Custom Min Function.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net6.0\refint\03. Custom Min Function.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net6.0\03. Custom Min Function.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net6.0\03. Custom Min Function.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net6.0\ref\03. Custom Min Function.dll

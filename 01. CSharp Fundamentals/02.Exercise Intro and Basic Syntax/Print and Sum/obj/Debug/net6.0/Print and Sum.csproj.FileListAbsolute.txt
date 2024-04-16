@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Ages\Print and Sum\bin\Debug\net6.0\Print and Sum.exe
+D:\visual studio apps\Program Fundamentals C#\Ages\Print and Sum\bin\Debug\net6.0\Print and Sum.deps.json
+D:\visual studio apps\Program Fundamentals C#\Ages\Print and Sum\bin\Debug\net6.0\Print and Sum.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Ages\Print and Sum\bin\Debug\net6.0\Print and Sum.dll
+D:\visual studio apps\Program Fundamentals C#\Ages\Print and Sum\bin\Debug\net6.0\Print and Sum.pdb
+D:\visual studio apps\Program Fundamentals C#\Ages\Print and Sum\obj\Debug\net6.0\Print and Sum.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Ages\Print and Sum\obj\Debug\net6.0\Print and Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Ages\Print and Sum\obj\Debug\net6.0\Print and Sum.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Ages\Print and Sum\obj\Debug\net6.0\Print and Sum.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Ages\Print and Sum\obj\Debug\net6.0\Print and Sum.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Ages\Print and Sum\obj\Debug\net6.0\Print and Sum.dll
+D:\visual studio apps\Program Fundamentals C#\Ages\Print and Sum\obj\Debug\net6.0\refint\Print and Sum.dll
+D:\visual studio apps\Program Fundamentals C#\Ages\Print and Sum\obj\Debug\net6.0\Print and Sum.pdb
+D:\visual studio apps\Program Fundamentals C#\Ages\Print and Sum\obj\Debug\net6.0\Print and Sum.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Ages\Print and Sum\obj\Debug\net6.0\ref\Print and Sum.dll

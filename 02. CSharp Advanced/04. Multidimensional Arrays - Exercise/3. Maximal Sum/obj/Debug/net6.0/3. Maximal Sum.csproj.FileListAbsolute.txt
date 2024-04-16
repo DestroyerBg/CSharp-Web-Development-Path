@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net6.0\refint\3. Maximal Sum.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net6.0\ref\3. Maximal Sum.dll

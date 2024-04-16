@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\05. Play Catch\bin\Debug\net6.0\05. Play Catch.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\05. Play Catch\bin\Debug\net6.0\05. Play Catch.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\05. Play Catch\bin\Debug\net6.0\05. Play Catch.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\05. Play Catch\bin\Debug\net6.0\05. Play Catch.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\05. Play Catch\bin\Debug\net6.0\05. Play Catch.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\05. Play Catch\obj\Debug\net6.0\05. Play Catch.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\05. Play Catch\obj\Debug\net6.0\05. Play Catch.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\05. Play Catch\obj\Debug\net6.0\05. Play Catch.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\05. Play Catch\obj\Debug\net6.0\05. Play Catch.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\05. Play Catch\obj\Debug\net6.0\05. Play Catch.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\05. Play Catch\obj\Debug\net6.0\refint\05. Play Catch.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\05. Play Catch\obj\Debug\net6.0\05. Play Catch.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\05. Play Catch\obj\Debug\net6.0\05. Play Catch.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\05. Play Catch\obj\Debug\net6.0\ref\05. Play Catch.dll

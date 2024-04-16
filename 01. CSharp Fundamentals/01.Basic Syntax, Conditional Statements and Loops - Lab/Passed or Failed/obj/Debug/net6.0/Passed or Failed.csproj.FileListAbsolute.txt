@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\bin\Debug\net6.0\Passed or Failed.exe
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\bin\Debug\net6.0\Passed or Failed.deps.json
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\bin\Debug\net6.0\Passed or Failed.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\bin\Debug\net6.0\Passed or Failed.dll
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\bin\Debug\net6.0\Passed or Failed.pdb
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\obj\Debug\net6.0\Passed or Failed.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\obj\Debug\net6.0\Passed or Failed.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\obj\Debug\net6.0\Passed or Failed.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\obj\Debug\net6.0\Passed or Failed.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\obj\Debug\net6.0\Passed or Failed.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\obj\Debug\net6.0\Passed or Failed.dll
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\obj\Debug\net6.0\refint\Passed or Failed.dll
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\obj\Debug\net6.0\Passed or Failed.pdb
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\obj\Debug\net6.0\Passed or Failed.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\obj\Debug\net6.0\ref\Passed or Failed.dll

@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Elevator\bin\Debug\net6.0\Elevator.exe
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Elevator\bin\Debug\net6.0\Elevator.deps.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Elevator\bin\Debug\net6.0\Elevator.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Elevator\bin\Debug\net6.0\Elevator.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Elevator\bin\Debug\net6.0\Elevator.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Elevator\obj\Debug\net6.0\Elevator.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Elevator\obj\Debug\net6.0\Elevator.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Elevator\obj\Debug\net6.0\Elevator.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Elevator\obj\Debug\net6.0\Elevator.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Elevator\obj\Debug\net6.0\Elevator.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Elevator\obj\Debug\net6.0\Elevator.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Elevator\obj\Debug\net6.0\refint\Elevator.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Elevator\obj\Debug\net6.0\Elevator.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Elevator\obj\Debug\net6.0\Elevator.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Elevator\obj\Debug\net6.0\ref\Elevator.dll

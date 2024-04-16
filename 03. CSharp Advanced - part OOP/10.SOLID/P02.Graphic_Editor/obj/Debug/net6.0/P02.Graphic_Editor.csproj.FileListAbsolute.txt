@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P02.Graphic_Editor\bin\Debug\net6.0\P02.Graphic_Editor.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P02.Graphic_Editor\bin\Debug\net6.0\P02.Graphic_Editor.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P02.Graphic_Editor\bin\Debug\net6.0\P02.Graphic_Editor.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P02.Graphic_Editor\bin\Debug\net6.0\P02.Graphic_Editor.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P02.Graphic_Editor\bin\Debug\net6.0\P02.Graphic_Editor.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P02.Graphic_Editor\obj\Debug\net6.0\refint\P02.Graphic_Editor.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P02.Graphic_Editor\obj\Debug\net6.0\ref\P02.Graphic_Editor.dll

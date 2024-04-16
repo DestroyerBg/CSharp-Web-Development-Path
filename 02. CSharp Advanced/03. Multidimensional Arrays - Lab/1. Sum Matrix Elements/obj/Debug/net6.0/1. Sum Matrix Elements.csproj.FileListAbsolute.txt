@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net6.0\1. Sum Matrix Elements.exe
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net6.0\1. Sum Matrix Elements.deps.json
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net6.0\1. Sum Matrix Elements.runtimeconfig.json
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net6.0\1. Sum Matrix Elements.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net6.0\1. Sum Matrix Elements.pdb
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.AssemblyInfo.cs
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net6.0\refint\1. Sum Matrix Elements.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.pdb
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.genruntimeconfig.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net6.0\ref\1. Sum Matrix Elements.dll

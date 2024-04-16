@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\01.DefineAClassPerson\bin\Debug\net6.0\01.DefineAClassPerson.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\01.DefineAClassPerson\bin\Debug\net6.0\01.DefineAClassPerson.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\01.DefineAClassPerson\bin\Debug\net6.0\01.DefineAClassPerson.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\01.DefineAClassPerson\bin\Debug\net6.0\01.DefineAClassPerson.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\01.DefineAClassPerson\bin\Debug\net6.0\01.DefineAClassPerson.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\01.DefineAClassPerson\obj\Debug\net6.0\01.DefineAClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\01.DefineAClassPerson\obj\Debug\net6.0\01.DefineAClassPerson.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\01.DefineAClassPerson\obj\Debug\net6.0\01.DefineAClassPerson.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\01.DefineAClassPerson\obj\Debug\net6.0\01.DefineAClassPerson.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\01.DefineAClassPerson\obj\Debug\net6.0\01.DefineAClassPerson.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\01.DefineAClassPerson\obj\Debug\net6.0\refint\01.DefineAClassPerson.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\01.DefineAClassPerson\obj\Debug\net6.0\01.DefineAClassPerson.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\01.DefineAClassPerson\obj\Debug\net6.0\01.DefineAClassPerson.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\01.DefineAClassPerson\obj\Debug\net6.0\ref\01.DefineAClassPerson.dll

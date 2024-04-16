@@ -1,0 +1,4 @@
+Paladin - Mike healed for 100
+Druid - Josh healed for 80
+Warrior - Scott hit for 100 damage
+Victory!

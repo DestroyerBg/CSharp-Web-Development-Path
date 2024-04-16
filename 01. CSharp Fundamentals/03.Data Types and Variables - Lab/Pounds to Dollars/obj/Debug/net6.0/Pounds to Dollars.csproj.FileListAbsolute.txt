@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Pounds to Dollars\bin\Debug\net6.0\Pounds to Dollars.exe
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Pounds to Dollars\bin\Debug\net6.0\Pounds to Dollars.deps.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Pounds to Dollars\bin\Debug\net6.0\Pounds to Dollars.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Pounds to Dollars\bin\Debug\net6.0\Pounds to Dollars.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Pounds to Dollars\bin\Debug\net6.0\Pounds to Dollars.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Pounds to Dollars\obj\Debug\net6.0\Pounds to Dollars.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Pounds to Dollars\obj\Debug\net6.0\Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Pounds to Dollars\obj\Debug\net6.0\Pounds to Dollars.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Pounds to Dollars\obj\Debug\net6.0\Pounds to Dollars.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Pounds to Dollars\obj\Debug\net6.0\Pounds to Dollars.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Pounds to Dollars\obj\Debug\net6.0\Pounds to Dollars.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Pounds to Dollars\obj\Debug\net6.0\refint\Pounds to Dollars.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Pounds to Dollars\obj\Debug\net6.0\Pounds to Dollars.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Pounds to Dollars\obj\Debug\net6.0\Pounds to Dollars.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Pounds to Dollars\obj\Debug\net6.0\ref\Pounds to Dollars.dll

@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\refint\7. Pascal Triangle.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\ref\7. Pascal Triangle.dll

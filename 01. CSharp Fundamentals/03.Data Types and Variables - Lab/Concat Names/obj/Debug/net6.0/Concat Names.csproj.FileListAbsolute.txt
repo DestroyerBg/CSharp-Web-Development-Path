@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Concat Names\bin\Debug\net6.0\Concat Names.exe
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Concat Names\bin\Debug\net6.0\Concat Names.deps.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Concat Names\bin\Debug\net6.0\Concat Names.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Concat Names\bin\Debug\net6.0\Concat Names.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Concat Names\bin\Debug\net6.0\Concat Names.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Concat Names\obj\Debug\net6.0\Concat Names.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Concat Names\obj\Debug\net6.0\Concat Names.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Concat Names\obj\Debug\net6.0\Concat Names.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Concat Names\obj\Debug\net6.0\Concat Names.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Concat Names\obj\Debug\net6.0\Concat Names.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Concat Names\obj\Debug\net6.0\Concat Names.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Concat Names\obj\Debug\net6.0\refint\Concat Names.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Concat Names\obj\Debug\net6.0\Concat Names.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Concat Names\obj\Debug\net6.0\Concat Names.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Concat Names\obj\Debug\net6.0\ref\Concat Names.dll

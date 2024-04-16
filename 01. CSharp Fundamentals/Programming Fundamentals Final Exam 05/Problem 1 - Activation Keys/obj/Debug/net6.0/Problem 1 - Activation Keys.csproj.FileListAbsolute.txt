@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 1 - Activation Keys\bin\Debug\net6.0\Problem 1 - Activation Keys.exe
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 1 - Activation Keys\bin\Debug\net6.0\Problem 1 - Activation Keys.deps.json
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 1 - Activation Keys\bin\Debug\net6.0\Problem 1 - Activation Keys.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 1 - Activation Keys\bin\Debug\net6.0\Problem 1 - Activation Keys.dll
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 1 - Activation Keys\bin\Debug\net6.0\Problem 1 - Activation Keys.pdb
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 1 - Activation Keys\obj\Debug\net6.0\Problem 1 - Activation Keys.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 1 - Activation Keys\obj\Debug\net6.0\Problem 1 - Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 1 - Activation Keys\obj\Debug\net6.0\Problem 1 - Activation Keys.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 1 - Activation Keys\obj\Debug\net6.0\Problem 1 - Activation Keys.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 1 - Activation Keys\obj\Debug\net6.0\Problem 1 - Activation Keys.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 1 - Activation Keys\obj\Debug\net6.0\Problem 1 - Activation Keys.dll
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 1 - Activation Keys\obj\Debug\net6.0\refint\Problem 1 - Activation Keys.dll
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 1 - Activation Keys\obj\Debug\net6.0\Problem 1 - Activation Keys.pdb
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 1 - Activation Keys\obj\Debug\net6.0\Problem 1 - Activation Keys.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 1 - Activation Keys\obj\Debug\net6.0\ref\Problem 1 - Activation Keys.dll

@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\06.FoodShortage\bin\Debug\net6.0\06.FoodShortage.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\06.FoodShortage\bin\Debug\net6.0\06.FoodShortage.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\06.FoodShortage\bin\Debug\net6.0\06.FoodShortage.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\06.FoodShortage\bin\Debug\net6.0\06.FoodShortage.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\06.FoodShortage\bin\Debug\net6.0\06.FoodShortage.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\net6.0\06.FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\net6.0\06.FoodShortage.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\net6.0\06.FoodShortage.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\net6.0\06.FoodShortage.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\net6.0\06.FoodShortage.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\net6.0\refint\06.FoodShortage.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\net6.0\06.FoodShortage.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\net6.0\06.FoodShortage.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\net6.0\ref\06.FoodShortage.dll

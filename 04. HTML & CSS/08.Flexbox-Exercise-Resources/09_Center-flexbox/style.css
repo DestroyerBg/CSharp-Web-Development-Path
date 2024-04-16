@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2em;
+    min-height: 100vh;
+    background-color: rgb(238, 238, 238);
+}
+
+.card{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 0.5em;
+    width: 400px;
+    height: 120px;
+    box-shadow: 0 0 0.8em 0.3em rgb(0,0,0,0.3);
+}
+
+.card h1{
+    padding-left: 0.6em;
+    padding-top: 0.3em;
+    font-size: 25px;
+}
+
+.card p{
+    padding-left: 1em;
+    padding-top: 0.3em;
+    padding-bottom: 1.5em;
+    width: 90%;
+}
+
+

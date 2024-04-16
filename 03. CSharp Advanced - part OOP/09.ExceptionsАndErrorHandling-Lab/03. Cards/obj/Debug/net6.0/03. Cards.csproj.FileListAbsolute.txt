@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\03. Cards\bin\Debug\net6.0\03. Cards.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\03. Cards\bin\Debug\net6.0\03. Cards.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\03. Cards\bin\Debug\net6.0\03. Cards.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\03. Cards\bin\Debug\net6.0\03. Cards.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\03. Cards\bin\Debug\net6.0\03. Cards.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\03. Cards\obj\Debug\net6.0\03. Cards.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\03. Cards\obj\Debug\net6.0\03. Cards.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\03. Cards\obj\Debug\net6.0\03. Cards.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\03. Cards\obj\Debug\net6.0\03. Cards.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\03. Cards\obj\Debug\net6.0\03. Cards.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\03. Cards\obj\Debug\net6.0\refint\03. Cards.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\03. Cards\obj\Debug\net6.0\03. Cards.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\03. Cards\obj\Debug\net6.0\03. Cards.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\03. Cards\obj\Debug\net6.0\ref\03. Cards.dll

@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net6.0\4. Matrix Shuffling.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net6.0\4. Matrix Shuffling.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net6.0\4. Matrix Shuffling.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net6.0\4. Matrix Shuffling.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net6.0\4. Matrix Shuffling.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net6.0\refint\4. Matrix Shuffling.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net6.0\4. Matrix Shuffling.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net6.0\ref\4. Matrix Shuffling.dll

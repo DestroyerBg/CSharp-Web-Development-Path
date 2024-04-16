@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\06.Animals\bin\Debug\net6.0\Animals.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\06.Animals\bin\Debug\net6.0\Animals.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\06.Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\06.Animals\bin\Debug\net6.0\Animals.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\06.Animals\bin\Debug\net6.0\Animals.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\06.Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\06.Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\06.Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\06.Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\06.Animals\obj\Debug\net6.0\Animals.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\06.Animals\obj\Debug\net6.0\refint\Animals.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\06.Animals\obj\Debug\net6.0\Animals.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\06.Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\06.Animals\obj\Debug\net6.0\ref\Animals.dll

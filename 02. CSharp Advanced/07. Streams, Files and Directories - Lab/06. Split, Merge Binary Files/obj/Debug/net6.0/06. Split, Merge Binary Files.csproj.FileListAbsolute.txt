@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\bin\Debug\net6.0\06. Split, Merge Binary Files.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\bin\Debug\net6.0\06. Split, Merge Binary Files.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\bin\Debug\net6.0\06. Split, Merge Binary Files.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\bin\Debug\net6.0\06. Split, Merge Binary Files.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\bin\Debug\net6.0\06. Split, Merge Binary Files.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\net6.0\06. Split, Merge Binary Files.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\net6.0\06. Split, Merge Binary Files.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\net6.0\06. Split, Merge Binary Files.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\net6.0\06. Split, Merge Binary Files.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\net6.0\06. Split, Merge Binary Files.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\net6.0\refint\06. Split, Merge Binary Files.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\net6.0\06. Split, Merge Binary Files.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\net6.0\06. Split, Merge Binary Files.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\net6.0\ref\06. Split, Merge Binary Files.dll

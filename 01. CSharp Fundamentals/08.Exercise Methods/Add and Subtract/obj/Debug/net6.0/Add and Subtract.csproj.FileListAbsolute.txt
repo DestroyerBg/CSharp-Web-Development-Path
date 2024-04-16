@@ -1,0 +1,15 @@
+D:\visual studio apps\Exercise Methods\Add and Subtract\bin\Debug\net6.0\Add and Subtract.exe
+D:\visual studio apps\Exercise Methods\Add and Subtract\bin\Debug\net6.0\Add and Subtract.deps.json
+D:\visual studio apps\Exercise Methods\Add and Subtract\bin\Debug\net6.0\Add and Subtract.runtimeconfig.json
+D:\visual studio apps\Exercise Methods\Add and Subtract\bin\Debug\net6.0\Add and Subtract.dll
+D:\visual studio apps\Exercise Methods\Add and Subtract\bin\Debug\net6.0\Add and Subtract.pdb
+D:\visual studio apps\Exercise Methods\Add and Subtract\obj\Debug\net6.0\Add and Subtract.csproj.AssemblyReference.cache
+D:\visual studio apps\Exercise Methods\Add and Subtract\obj\Debug\net6.0\Add and Subtract.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Exercise Methods\Add and Subtract\obj\Debug\net6.0\Add and Subtract.AssemblyInfoInputs.cache
+D:\visual studio apps\Exercise Methods\Add and Subtract\obj\Debug\net6.0\Add and Subtract.AssemblyInfo.cs
+D:\visual studio apps\Exercise Methods\Add and Subtract\obj\Debug\net6.0\Add and Subtract.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Exercise Methods\Add and Subtract\obj\Debug\net6.0\Add and Subtract.dll
+D:\visual studio apps\Exercise Methods\Add and Subtract\obj\Debug\net6.0\refint\Add and Subtract.dll
+D:\visual studio apps\Exercise Methods\Add and Subtract\obj\Debug\net6.0\Add and Subtract.pdb
+D:\visual studio apps\Exercise Methods\Add and Subtract\obj\Debug\net6.0\Add and Subtract.genruntimeconfig.cache
+D:\visual studio apps\Exercise Methods\Add and Subtract\obj\Debug\net6.0\ref\Add and Subtract.dll

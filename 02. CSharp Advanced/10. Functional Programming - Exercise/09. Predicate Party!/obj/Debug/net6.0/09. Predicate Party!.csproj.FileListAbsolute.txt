@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net6.0\refint\09. Predicate Party!.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net6.0\ref\09. Predicate Party!.dll

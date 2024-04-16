@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Sum Even Numbers\bin\Debug\net6.0\Sum Even Numbers.exe
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Sum Even Numbers\bin\Debug\net6.0\Sum Even Numbers.deps.json
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Sum Even Numbers\bin\Debug\net6.0\Sum Even Numbers.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Sum Even Numbers\bin\Debug\net6.0\Sum Even Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Sum Even Numbers\bin\Debug\net6.0\Sum Even Numbers.pdb
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Sum Even Numbers\obj\Debug\net6.0\Sum Even Numbers.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Sum Even Numbers\obj\Debug\net6.0\Sum Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Sum Even Numbers\obj\Debug\net6.0\Sum Even Numbers.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Sum Even Numbers\obj\Debug\net6.0\Sum Even Numbers.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Sum Even Numbers\obj\Debug\net6.0\Sum Even Numbers.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Sum Even Numbers\obj\Debug\net6.0\Sum Even Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Sum Even Numbers\obj\Debug\net6.0\refint\Sum Even Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Sum Even Numbers\obj\Debug\net6.0\Sum Even Numbers.pdb
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Sum Even Numbers\obj\Debug\net6.0\Sum Even Numbers.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Sum Even Numbers\obj\Debug\net6.0\ref\Sum Even Numbers.dll

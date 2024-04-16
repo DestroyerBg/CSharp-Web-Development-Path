@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 2 - Emoji Detector\bin\Debug\net6.0\Problem 2 - Emoji Detector.exe
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 2 - Emoji Detector\bin\Debug\net6.0\Problem 2 - Emoji Detector.deps.json
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 2 - Emoji Detector\bin\Debug\net6.0\Problem 2 - Emoji Detector.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 2 - Emoji Detector\bin\Debug\net6.0\Problem 2 - Emoji Detector.dll
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 2 - Emoji Detector\bin\Debug\net6.0\Problem 2 - Emoji Detector.pdb
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 2 - Emoji Detector\obj\Debug\net6.0\Problem 2 - Emoji Detector.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 2 - Emoji Detector\obj\Debug\net6.0\Problem 2 - Emoji Detector.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 2 - Emoji Detector\obj\Debug\net6.0\Problem 2 - Emoji Detector.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 2 - Emoji Detector\obj\Debug\net6.0\Problem 2 - Emoji Detector.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 2 - Emoji Detector\obj\Debug\net6.0\Problem 2 - Emoji Detector.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 2 - Emoji Detector\obj\Debug\net6.0\Problem 2 - Emoji Detector.dll
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 2 - Emoji Detector\obj\Debug\net6.0\refint\Problem 2 - Emoji Detector.dll
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 2 - Emoji Detector\obj\Debug\net6.0\Problem 2 - Emoji Detector.pdb
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 2 - Emoji Detector\obj\Debug\net6.0\Problem 2 - Emoji Detector.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\05. Programming Fundamentals Final Exam\Problem 2 - Emoji Detector\obj\Debug\net6.0\ref\Problem 2 - Emoji Detector.dll

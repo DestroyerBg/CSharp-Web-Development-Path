@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\04.OpinionPoll\bin\Debug\net6.0\04.OpinionPoll.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\04.OpinionPoll\bin\Debug\net6.0\04.OpinionPoll.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\04.OpinionPoll\bin\Debug\net6.0\04.OpinionPoll.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\04.OpinionPoll\bin\Debug\net6.0\04.OpinionPoll.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\04.OpinionPoll\bin\Debug\net6.0\04.OpinionPoll.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\04.OpinionPoll\obj\Debug\net6.0\04.OpinionPoll.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\04.OpinionPoll\obj\Debug\net6.0\04.OpinionPoll.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\04.OpinionPoll\obj\Debug\net6.0\04.OpinionPoll.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\04.OpinionPoll\obj\Debug\net6.0\04.OpinionPoll.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\04.OpinionPoll\obj\Debug\net6.0\04.OpinionPoll.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\04.OpinionPoll\obj\Debug\net6.0\refint\04.OpinionPoll.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\04.OpinionPoll\obj\Debug\net6.0\04.OpinionPoll.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\04.OpinionPoll\obj\Debug\net6.0\04.OpinionPoll.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\04.OpinionPoll\obj\Debug\net6.0\ref\04.OpinionPoll.dll

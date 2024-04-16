@@ -1,0 +1,29 @@
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Convert Meters to Kilometers\bin\Debug\net6.0\Convert Meters to Kilometers.exe
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Convert Meters to Kilometers\bin\Debug\net6.0\Convert Meters to Kilometers.deps.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Convert Meters to Kilometers\bin\Debug\net6.0\Convert Meters to Kilometers.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Convert Meters to Kilometers\bin\Debug\net6.0\Convert Meters to Kilometers.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Convert Meters to Kilometers\bin\Debug\net6.0\Convert Meters to Kilometers.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Convert Meters to Kilometers\obj\Debug\net6.0\Convert Meters to Kilometers.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Convert Meters to Kilometers\obj\Debug\net6.0\Convert Meters to Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Convert Meters to Kilometers\obj\Debug\net6.0\Convert Meters to Kilometers.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Convert Meters to Kilometers\obj\Debug\net6.0\Convert Meters to Kilometers.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Convert Meters to Kilometers\obj\Debug\net6.0\Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Convert Meters to Kilometers\obj\Debug\net6.0\Convert Meters to Kilometers.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Convert Meters to Kilometers\obj\Debug\net6.0\refint\Convert Meters to Kilometers.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Convert Meters to Kilometers\obj\Debug\net6.0\Convert Meters to Kilometers.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Convert Meters to Kilometers\obj\Debug\net6.0\Convert Meters to Kilometers.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Convert Meters to Kilometers\obj\Debug\net6.0\ref\Convert Meters to Kilometers.dll
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Convert Meters to Kilometers\bin\Debug\net6.0\Convert Meters to Kilometers.exe
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Convert Meters to Kilometers\bin\Debug\net6.0\Convert Meters to Kilometers.deps.json
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Convert Meters to Kilometers\bin\Debug\net6.0\Convert Meters to Kilometers.runtimeconfig.json
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Convert Meters to Kilometers\bin\Debug\net6.0\Convert Meters to Kilometers.dll
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Convert Meters to Kilometers\bin\Debug\net6.0\Convert Meters to Kilometers.pdb
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Convert Meters to Kilometers\obj\Debug\net6.0\Convert Meters to Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Convert Meters to Kilometers\obj\Debug\net6.0\Convert Meters to Kilometers.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Convert Meters to Kilometers\obj\Debug\net6.0\Convert Meters to Kilometers.AssemblyInfo.cs
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Convert Meters to Kilometers\obj\Debug\net6.0\Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Convert Meters to Kilometers\obj\Debug\net6.0\Convert Meters to Kilometers.dll
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Convert Meters to Kilometers\obj\Debug\net6.0\refint\Convert Meters to Kilometers.dll
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Convert Meters to Kilometers\obj\Debug\net6.0\Convert Meters to Kilometers.pdb
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Convert Meters to Kilometers\obj\Debug\net6.0\Convert Meters to Kilometers.genruntimeconfig.cache
+E:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\03.Data Types and Variables - Lab\Convert Meters to Kilometers\obj\Debug\net6.0\ref\Convert Meters to Kilometers.dll

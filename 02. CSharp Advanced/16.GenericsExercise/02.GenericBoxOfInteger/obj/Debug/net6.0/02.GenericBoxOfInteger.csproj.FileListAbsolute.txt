@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\02.GenericBoxOfInteger\bin\Debug\net6.0\02.GenericBoxOfInteger.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\02.GenericBoxOfInteger\bin\Debug\net6.0\02.GenericBoxOfInteger.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\02.GenericBoxOfInteger\bin\Debug\net6.0\02.GenericBoxOfInteger.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\02.GenericBoxOfInteger\bin\Debug\net6.0\02.GenericBoxOfInteger.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\02.GenericBoxOfInteger\bin\Debug\net6.0\02.GenericBoxOfInteger.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\02.GenericBoxOfInteger\obj\Debug\net6.0\refint\02.GenericBoxOfInteger.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\02.GenericBoxOfInteger\obj\Debug\net6.0\ref\02.GenericBoxOfInteger.dll

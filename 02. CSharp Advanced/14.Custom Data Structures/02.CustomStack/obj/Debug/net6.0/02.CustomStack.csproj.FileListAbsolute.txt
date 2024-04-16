@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\02.CustomStack\bin\Debug\net6.0\02.CustomStack.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\02.CustomStack\bin\Debug\net6.0\02.CustomStack.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\02.CustomStack\bin\Debug\net6.0\02.CustomStack.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\02.CustomStack\bin\Debug\net6.0\02.CustomStack.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\02.CustomStack\bin\Debug\net6.0\02.CustomStack.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\02.CustomStack\obj\Debug\net6.0\02.CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\02.CustomStack\obj\Debug\net6.0\02.CustomStack.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\02.CustomStack\obj\Debug\net6.0\02.CustomStack.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\02.CustomStack\obj\Debug\net6.0\02.CustomStack.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\02.CustomStack\obj\Debug\net6.0\02.CustomStack.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\02.CustomStack\obj\Debug\net6.0\refint\02.CustomStack.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\02.CustomStack\obj\Debug\net6.0\02.CustomStack.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\02.CustomStack\obj\Debug\net6.0\02.CustomStack.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\02.CustomStack\obj\Debug\net6.0\ref\02.CustomStack.dll

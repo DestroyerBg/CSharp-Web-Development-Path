@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\02.RecursiveFactorial\bin\Debug\net6.0\02.RecursiveFactorial.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\02.RecursiveFactorial\bin\Debug\net6.0\02.RecursiveFactorial.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\02.RecursiveFactorial\bin\Debug\net6.0\02.RecursiveFactorial.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\02.RecursiveFactorial\bin\Debug\net6.0\02.RecursiveFactorial.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\02.RecursiveFactorial\bin\Debug\net6.0\02.RecursiveFactorial.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\02.RecursiveFactorial\obj\Debug\net6.0\02.RecursiveFactorial.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\02.RecursiveFactorial\obj\Debug\net6.0\02.RecursiveFactorial.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\02.RecursiveFactorial\obj\Debug\net6.0\02.RecursiveFactorial.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\02.RecursiveFactorial\obj\Debug\net6.0\02.RecursiveFactorial.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\02.RecursiveFactorial\obj\Debug\net6.0\02.RecursiveFactorial.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\02.RecursiveFactorial\obj\Debug\net6.0\refint\02.RecursiveFactorial.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\02.RecursiveFactorial\obj\Debug\net6.0\02.RecursiveFactorial.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\02.RecursiveFactorial\obj\Debug\net6.0\02.RecursiveFactorial.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\02.RecursiveFactorial\obj\Debug\net6.0\ref\02.RecursiveFactorial.dll

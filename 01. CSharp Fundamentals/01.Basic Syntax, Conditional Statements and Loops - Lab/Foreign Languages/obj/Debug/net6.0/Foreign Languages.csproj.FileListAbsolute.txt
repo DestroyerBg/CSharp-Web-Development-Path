@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\bin\Debug\net6.0\Foreign Languages.exe
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\bin\Debug\net6.0\Foreign Languages.deps.json
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\bin\Debug\net6.0\Foreign Languages.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\bin\Debug\net6.0\Foreign Languages.dll
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\bin\Debug\net6.0\Foreign Languages.pdb
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\obj\Debug\net6.0\Foreign Languages.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\obj\Debug\net6.0\Foreign Languages.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\obj\Debug\net6.0\Foreign Languages.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\obj\Debug\net6.0\Foreign Languages.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\obj\Debug\net6.0\Foreign Languages.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\obj\Debug\net6.0\Foreign Languages.dll
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\obj\Debug\net6.0\refint\Foreign Languages.dll
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\obj\Debug\net6.0\Foreign Languages.pdb
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\obj\Debug\net6.0\Foreign Languages.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\obj\Debug\net6.0\ref\Foreign Languages.dll

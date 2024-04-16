@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\5.InterfacesAndAbstraction-Lab\01.Shapes\bin\Debug\net6.0\01.Shapes.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\5.InterfacesAndAbstraction-Lab\01.Shapes\bin\Debug\net6.0\01.Shapes.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\5.InterfacesAndAbstraction-Lab\01.Shapes\bin\Debug\net6.0\01.Shapes.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\5.InterfacesAndAbstraction-Lab\01.Shapes\bin\Debug\net6.0\01.Shapes.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\5.InterfacesAndAbstraction-Lab\01.Shapes\bin\Debug\net6.0\01.Shapes.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\5.InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\01.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\5.InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\01.Shapes.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\5.InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\01.Shapes.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\5.InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\01.Shapes.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\5.InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\01.Shapes.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\5.InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\refint\01.Shapes.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\5.InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\01.Shapes.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\5.InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\01.Shapes.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\5.InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\ref\01.Shapes.dll

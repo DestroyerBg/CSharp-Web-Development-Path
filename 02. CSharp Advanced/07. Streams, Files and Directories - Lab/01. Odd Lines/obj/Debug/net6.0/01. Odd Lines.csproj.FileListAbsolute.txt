@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net6.0\refint\01. Odd Lines.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net6.0\ref\01. Odd Lines.dll

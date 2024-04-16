@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Shopping Spree\obj\Debug\net6.0\Shopping Spree.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Shopping Spree\obj\Debug\net6.0\Shopping Spree.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Shopping Spree\obj\Debug\net6.0\Shopping Spree.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Shopping Spree\obj\Debug\net6.0\Shopping Spree.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Shopping Spree\obj\Debug\net6.0\Shopping Spree.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Shopping Spree\bin\Debug\net6.0\Shopping Spree.exe
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Shopping Spree\bin\Debug\net6.0\Shopping Spree.deps.json
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Shopping Spree\bin\Debug\net6.0\Shopping Spree.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Shopping Spree\bin\Debug\net6.0\Shopping Spree.dll
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Shopping Spree\bin\Debug\net6.0\Shopping Spree.pdb
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Shopping Spree\obj\Debug\net6.0\Shopping Spree.dll
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Shopping Spree\obj\Debug\net6.0\refint\Shopping Spree.dll
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Shopping Spree\obj\Debug\net6.0\Shopping Spree.pdb
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Shopping Spree\obj\Debug\net6.0\Shopping Spree.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Shopping Spree\obj\Debug\net6.0\ref\Shopping Spree.dll

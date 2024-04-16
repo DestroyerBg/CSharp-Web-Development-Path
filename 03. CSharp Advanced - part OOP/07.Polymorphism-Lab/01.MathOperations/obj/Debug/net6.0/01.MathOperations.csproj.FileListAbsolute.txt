@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\01.MathOperations\bin\Debug\net6.0\01.MathOperations.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\01.MathOperations\bin\Debug\net6.0\01.MathOperations.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\01.MathOperations\bin\Debug\net6.0\01.MathOperations.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\01.MathOperations\bin\Debug\net6.0\01.MathOperations.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\01.MathOperations\bin\Debug\net6.0\01.MathOperations.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\01.MathOperations\obj\Debug\net6.0\01.MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\01.MathOperations\obj\Debug\net6.0\01.MathOperations.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\01.MathOperations\obj\Debug\net6.0\01.MathOperations.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\01.MathOperations\obj\Debug\net6.0\01.MathOperations.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\01.MathOperations\obj\Debug\net6.0\01.MathOperations.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\01.MathOperations\obj\Debug\net6.0\refint\01.MathOperations.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\01.MathOperations\obj\Debug\net6.0\01.MathOperations.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\01.MathOperations\obj\Debug\net6.0\01.MathOperations.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\01.MathOperations\obj\Debug\net6.0\ref\01.MathOperations.dll

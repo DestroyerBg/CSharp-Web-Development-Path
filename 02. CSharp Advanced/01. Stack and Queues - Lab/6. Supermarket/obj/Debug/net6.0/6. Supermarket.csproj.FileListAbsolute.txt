@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\6. Supermarket\bin\Debug\net6.0\6. Supermarket.exe
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\6. Supermarket\bin\Debug\net6.0\6. Supermarket.deps.json
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\6. Supermarket\bin\Debug\net6.0\6. Supermarket.runtimeconfig.json
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\6. Supermarket\bin\Debug\net6.0\6. Supermarket.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\6. Supermarket\bin\Debug\net6.0\6. Supermarket.pdb
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\6. Supermarket\obj\Debug\net6.0\6. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\6. Supermarket\obj\Debug\net6.0\6. Supermarket.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\6. Supermarket\obj\Debug\net6.0\6. Supermarket.AssemblyInfo.cs
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\6. Supermarket\obj\Debug\net6.0\6. Supermarket.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\6. Supermarket\obj\Debug\net6.0\6. Supermarket.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\6. Supermarket\obj\Debug\net6.0\refint\6. Supermarket.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\6. Supermarket\obj\Debug\net6.0\6. Supermarket.pdb
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\6. Supermarket\obj\Debug\net6.0\6. Supermarket.genruntimeconfig.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\1.Stacks and Queues - Lab\6. Supermarket\obj\Debug\net6.0\ref\6. Supermarket.dll

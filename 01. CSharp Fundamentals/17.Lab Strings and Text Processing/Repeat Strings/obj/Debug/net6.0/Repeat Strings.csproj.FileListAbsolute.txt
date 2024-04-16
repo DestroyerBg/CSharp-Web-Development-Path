@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Repeat Strings\bin\Debug\net6.0\Repeat Strings.exe
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Repeat Strings\bin\Debug\net6.0\Repeat Strings.deps.json
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Repeat Strings\bin\Debug\net6.0\Repeat Strings.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Repeat Strings\bin\Debug\net6.0\Repeat Strings.dll
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Repeat Strings\bin\Debug\net6.0\Repeat Strings.pdb
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Repeat Strings\obj\Debug\net6.0\Repeat Strings.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Repeat Strings\obj\Debug\net6.0\Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Repeat Strings\obj\Debug\net6.0\Repeat Strings.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Repeat Strings\obj\Debug\net6.0\Repeat Strings.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Repeat Strings\obj\Debug\net6.0\Repeat Strings.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Repeat Strings\obj\Debug\net6.0\Repeat Strings.dll
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Repeat Strings\obj\Debug\net6.0\refint\Repeat Strings.dll
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Repeat Strings\obj\Debug\net6.0\Repeat Strings.pdb
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Repeat Strings\obj\Debug\net6.0\Repeat Strings.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Repeat Strings\obj\Debug\net6.0\ref\Repeat Strings.dll

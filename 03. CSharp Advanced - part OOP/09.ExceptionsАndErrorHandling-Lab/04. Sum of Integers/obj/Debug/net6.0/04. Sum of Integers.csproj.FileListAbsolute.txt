@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\04. Sum of Integers\bin\Debug\net6.0\04. Sum of Integers.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\04. Sum of Integers\obj\Debug\net6.0\refint\04. Sum of Integers.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\04. Sum of Integers\obj\Debug\net6.0\04. Sum of Integers.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\9.ExceptionsАndErrorHandling-Lab\04. Sum of Integers\obj\Debug\net6.0\ref\04. Sum of Integers.dll

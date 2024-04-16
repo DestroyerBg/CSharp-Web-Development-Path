@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\07.Tuple\bin\Debug\net6.0\07.Tuple.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\07.Tuple\bin\Debug\net6.0\07.Tuple.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\07.Tuple\bin\Debug\net6.0\07.Tuple.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\07.Tuple\bin\Debug\net6.0\07.Tuple.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\07.Tuple\bin\Debug\net6.0\07.Tuple.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\07.Tuple\obj\Debug\net6.0\07.Tuple.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\07.Tuple\obj\Debug\net6.0\07.Tuple.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\07.Tuple\obj\Debug\net6.0\07.Tuple.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\07.Tuple\obj\Debug\net6.0\07.Tuple.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\07.Tuple\obj\Debug\net6.0\07.Tuple.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\07.Tuple\obj\Debug\net6.0\refint\07.Tuple.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\07.Tuple\obj\Debug\net6.0\07.Tuple.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\07.Tuple\obj\Debug\net6.0\07.Tuple.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\07.Tuple\obj\Debug\net6.0\ref\07.Tuple.dll

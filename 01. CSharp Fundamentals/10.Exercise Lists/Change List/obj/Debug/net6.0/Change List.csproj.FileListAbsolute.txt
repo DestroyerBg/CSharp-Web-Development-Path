@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Change List\bin\Debug\net6.0\Change List.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Change List\bin\Debug\net6.0\Change List.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Change List\bin\Debug\net6.0\Change List.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Change List\bin\Debug\net6.0\Change List.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Change List\bin\Debug\net6.0\Change List.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Change List\obj\Debug\net6.0\Change List.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Change List\obj\Debug\net6.0\Change List.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Change List\obj\Debug\net6.0\Change List.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Change List\obj\Debug\net6.0\Change List.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Change List\obj\Debug\net6.0\Change List.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Change List\obj\Debug\net6.0\Change List.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Change List\obj\Debug\net6.0\refint\Change List.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Change List\obj\Debug\net6.0\Change List.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Change List\obj\Debug\net6.0\Change List.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Change List\obj\Debug\net6.0\ref\Change List.dll

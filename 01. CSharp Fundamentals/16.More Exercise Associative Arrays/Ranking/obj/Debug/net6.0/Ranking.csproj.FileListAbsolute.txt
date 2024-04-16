@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Ranking\bin\Debug\net6.0\Ranking.exe
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Ranking\bin\Debug\net6.0\Ranking.deps.json
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Ranking\bin\Debug\net6.0\Ranking.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Ranking\bin\Debug\net6.0\Ranking.dll
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Ranking\bin\Debug\net6.0\Ranking.pdb
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Ranking\obj\Debug\net6.0\Ranking.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Ranking\obj\Debug\net6.0\Ranking.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Ranking\obj\Debug\net6.0\Ranking.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Ranking\obj\Debug\net6.0\Ranking.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Ranking\obj\Debug\net6.0\Ranking.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Ranking\obj\Debug\net6.0\Ranking.dll
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Ranking\obj\Debug\net6.0\refint\Ranking.dll
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Ranking\obj\Debug\net6.0\Ranking.pdb
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Ranking\obj\Debug\net6.0\Ranking.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Ranking\obj\Debug\net6.0\ref\Ranking.dll

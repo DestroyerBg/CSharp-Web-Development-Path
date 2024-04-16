@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net6.0\refint\2. Squares in Matrix.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net6.0\ref\2. Squares in Matrix.dll

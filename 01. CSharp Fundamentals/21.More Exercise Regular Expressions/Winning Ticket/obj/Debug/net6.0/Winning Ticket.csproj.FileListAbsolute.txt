@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\More Exercise Regular Expressions\Winning Ticket\bin\Debug\net6.0\Winning Ticket.exe
+D:\visual studio apps\Program Fundamentals C#\More Exercise Regular Expressions\Winning Ticket\bin\Debug\net6.0\Winning Ticket.deps.json
+D:\visual studio apps\Program Fundamentals C#\More Exercise Regular Expressions\Winning Ticket\bin\Debug\net6.0\Winning Ticket.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\More Exercise Regular Expressions\Winning Ticket\bin\Debug\net6.0\Winning Ticket.dll
+D:\visual studio apps\Program Fundamentals C#\More Exercise Regular Expressions\Winning Ticket\bin\Debug\net6.0\Winning Ticket.pdb
+D:\visual studio apps\Program Fundamentals C#\More Exercise Regular Expressions\Winning Ticket\obj\Debug\net6.0\Winning Ticket.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\More Exercise Regular Expressions\Winning Ticket\obj\Debug\net6.0\Winning Ticket.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\More Exercise Regular Expressions\Winning Ticket\obj\Debug\net6.0\Winning Ticket.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\More Exercise Regular Expressions\Winning Ticket\obj\Debug\net6.0\Winning Ticket.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\More Exercise Regular Expressions\Winning Ticket\obj\Debug\net6.0\Winning Ticket.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\More Exercise Regular Expressions\Winning Ticket\obj\Debug\net6.0\Winning Ticket.dll
+D:\visual studio apps\Program Fundamentals C#\More Exercise Regular Expressions\Winning Ticket\obj\Debug\net6.0\refint\Winning Ticket.dll
+D:\visual studio apps\Program Fundamentals C#\More Exercise Regular Expressions\Winning Ticket\obj\Debug\net6.0\Winning Ticket.pdb
+D:\visual studio apps\Program Fundamentals C#\More Exercise Regular Expressions\Winning Ticket\obj\Debug\net6.0\Winning Ticket.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\More Exercise Regular Expressions\Winning Ticket\obj\Debug\net6.0\ref\Winning Ticket.dll

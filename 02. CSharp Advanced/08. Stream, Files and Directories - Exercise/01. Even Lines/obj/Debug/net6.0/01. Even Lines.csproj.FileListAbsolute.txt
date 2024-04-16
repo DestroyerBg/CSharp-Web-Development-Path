@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\01. Even Lines\bin\Debug\net6.0\01. Even Lines.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\01. Even Lines\bin\Debug\net6.0\01. Even Lines.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\01. Even Lines\bin\Debug\net6.0\01. Even Lines.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\01. Even Lines\bin\Debug\net6.0\01. Even Lines.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\01. Even Lines\bin\Debug\net6.0\01. Even Lines.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\net6.0\01. Even Lines.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\net6.0\01. Even Lines.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\net6.0\01. Even Lines.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\net6.0\01. Even Lines.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\net6.0\01. Even Lines.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\net6.0\refint\01. Even Lines.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\net6.0\01. Even Lines.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\net6.0\01. Even Lines.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\net6.0\ref\01. Even Lines.dll

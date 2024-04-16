@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Computer Store\bin\Debug\net6.0\Computer Store.exe
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Computer Store\bin\Debug\net6.0\Computer Store.deps.json
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Computer Store\bin\Debug\net6.0\Computer Store.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Computer Store\bin\Debug\net6.0\Computer Store.dll
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Computer Store\bin\Debug\net6.0\Computer Store.pdb
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Computer Store\obj\Debug\net6.0\Computer Store.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Computer Store\obj\Debug\net6.0\Computer Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Computer Store\obj\Debug\net6.0\Computer Store.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Computer Store\obj\Debug\net6.0\Computer Store.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Computer Store\obj\Debug\net6.0\Computer Store.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Computer Store\obj\Debug\net6.0\Computer Store.dll
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Computer Store\obj\Debug\net6.0\refint\Computer Store.dll
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Computer Store\obj\Debug\net6.0\Computer Store.pdb
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Computer Store\obj\Debug\net6.0\Computer Store.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Computer Store\obj\Debug\net6.0\ref\Computer Store.dll

@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Judge\bin\Debug\net6.0\Judge.exe
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Judge\bin\Debug\net6.0\Judge.deps.json
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Judge\bin\Debug\net6.0\Judge.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Judge\bin\Debug\net6.0\Judge.dll
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Judge\bin\Debug\net6.0\Judge.pdb
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Judge\obj\Debug\net6.0\Judge.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Judge\obj\Debug\net6.0\Judge.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Judge\obj\Debug\net6.0\Judge.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Judge\obj\Debug\net6.0\Judge.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Judge\obj\Debug\net6.0\Judge.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Judge\obj\Debug\net6.0\Judge.dll
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Judge\obj\Debug\net6.0\refint\Judge.dll
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Judge\obj\Debug\net6.0\Judge.pdb
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Judge\obj\Debug\net6.0\Judge.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\More Exercise Associative Arrays\Judge\obj\Debug\net6.0\ref\Judge.dll

@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\05.Restaurant\bin\Debug\net6.0\Restaurant.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\05.Restaurant\bin\Debug\net6.0\Restaurant.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\05.Restaurant\bin\Debug\net6.0\Restaurant.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\05.Restaurant\bin\Debug\net6.0\Restaurant.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\05.Restaurant\bin\Debug\net6.0\Restaurant.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\05.Restaurant\obj\Debug\net6.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\05.Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\05.Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\05.Restaurant\obj\Debug\net6.0\Restaurant.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\05.Restaurant\obj\Debug\net6.0\Restaurant.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\05.Restaurant\obj\Debug\net6.0\refint\Restaurant.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\05.Restaurant\obj\Debug\net6.0\Restaurant.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\05.Restaurant\obj\Debug\net6.0\Restaurant.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\05.Restaurant\obj\Debug\net6.0\ref\Restaurant.dll

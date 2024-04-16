@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Nether Realms\bin\Debug\net6.0\Nether Realms.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Nether Realms\bin\Debug\net6.0\Nether Realms.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Nether Realms\bin\Debug\net6.0\Nether Realms.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Nether Realms\bin\Debug\net6.0\Nether Realms.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Nether Realms\bin\Debug\net6.0\Nether Realms.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Nether Realms\obj\Debug\net6.0\Nether Realms.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Nether Realms\obj\Debug\net6.0\Nether Realms.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Nether Realms\obj\Debug\net6.0\Nether Realms.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Nether Realms\obj\Debug\net6.0\Nether Realms.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Nether Realms\obj\Debug\net6.0\Nether Realms.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Nether Realms\obj\Debug\net6.0\Nether Realms.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Nether Realms\obj\Debug\net6.0\refint\Nether Realms.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Nether Realms\obj\Debug\net6.0\Nether Realms.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Nether Realms\obj\Debug\net6.0\Nether Realms.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Nether Realms\obj\Debug\net6.0\ref\Nether Realms.dll

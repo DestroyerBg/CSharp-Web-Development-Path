@@ -1,0 +1,15 @@
+D:\visual studio apps\Exercise Methods\Vowels Count\bin\Debug\net6.0\Vowels Count.exe
+D:\visual studio apps\Exercise Methods\Vowels Count\bin\Debug\net6.0\Vowels Count.deps.json
+D:\visual studio apps\Exercise Methods\Vowels Count\bin\Debug\net6.0\Vowels Count.runtimeconfig.json
+D:\visual studio apps\Exercise Methods\Vowels Count\bin\Debug\net6.0\Vowels Count.dll
+D:\visual studio apps\Exercise Methods\Vowels Count\bin\Debug\net6.0\Vowels Count.pdb
+D:\visual studio apps\Exercise Methods\Vowels Count\obj\Debug\net6.0\Vowels Count.csproj.AssemblyReference.cache
+D:\visual studio apps\Exercise Methods\Vowels Count\obj\Debug\net6.0\Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Exercise Methods\Vowels Count\obj\Debug\net6.0\Vowels Count.AssemblyInfoInputs.cache
+D:\visual studio apps\Exercise Methods\Vowels Count\obj\Debug\net6.0\Vowels Count.AssemblyInfo.cs
+D:\visual studio apps\Exercise Methods\Vowels Count\obj\Debug\net6.0\Vowels Count.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Exercise Methods\Vowels Count\obj\Debug\net6.0\Vowels Count.dll
+D:\visual studio apps\Exercise Methods\Vowels Count\obj\Debug\net6.0\refint\Vowels Count.dll
+D:\visual studio apps\Exercise Methods\Vowels Count\obj\Debug\net6.0\Vowels Count.pdb
+D:\visual studio apps\Exercise Methods\Vowels Count\obj\Debug\net6.0\Vowels Count.genruntimeconfig.cache
+D:\visual studio apps\Exercise Methods\Vowels Count\obj\Debug\net6.0\ref\Vowels Count.dll

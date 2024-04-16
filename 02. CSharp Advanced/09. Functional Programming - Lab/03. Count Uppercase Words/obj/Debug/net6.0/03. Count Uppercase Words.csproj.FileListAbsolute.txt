@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net6.0\refint\03. Count Uppercase Words.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net6.0\ref\03. Count Uppercase Words.dll

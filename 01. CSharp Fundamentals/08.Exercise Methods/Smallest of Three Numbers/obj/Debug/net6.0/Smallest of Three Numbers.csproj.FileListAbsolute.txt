@@ -1,0 +1,29 @@
+D:\visual studio apps\Exercise Methods\Smallest of Three Numbers\bin\Debug\net6.0\Smallest of Three Numbers.exe
+D:\visual studio apps\Exercise Methods\Smallest of Three Numbers\bin\Debug\net6.0\Smallest of Three Numbers.deps.json
+D:\visual studio apps\Exercise Methods\Smallest of Three Numbers\bin\Debug\net6.0\Smallest of Three Numbers.runtimeconfig.json
+D:\visual studio apps\Exercise Methods\Smallest of Three Numbers\bin\Debug\net6.0\Smallest of Three Numbers.dll
+D:\visual studio apps\Exercise Methods\Smallest of Three Numbers\bin\Debug\net6.0\Smallest of Three Numbers.pdb
+D:\visual studio apps\Exercise Methods\Smallest of Three Numbers\obj\Debug\net6.0\Smallest of Three Numbers.csproj.AssemblyReference.cache
+D:\visual studio apps\Exercise Methods\Smallest of Three Numbers\obj\Debug\net6.0\Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Exercise Methods\Smallest of Three Numbers\obj\Debug\net6.0\Smallest of Three Numbers.AssemblyInfoInputs.cache
+D:\visual studio apps\Exercise Methods\Smallest of Three Numbers\obj\Debug\net6.0\Smallest of Three Numbers.AssemblyInfo.cs
+D:\visual studio apps\Exercise Methods\Smallest of Three Numbers\obj\Debug\net6.0\Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Exercise Methods\Smallest of Three Numbers\obj\Debug\net6.0\Smallest of Three Numbers.dll
+D:\visual studio apps\Exercise Methods\Smallest of Three Numbers\obj\Debug\net6.0\refint\Smallest of Three Numbers.dll
+D:\visual studio apps\Exercise Methods\Smallest of Three Numbers\obj\Debug\net6.0\Smallest of Three Numbers.pdb
+D:\visual studio apps\Exercise Methods\Smallest of Three Numbers\obj\Debug\net6.0\Smallest of Three Numbers.genruntimeconfig.cache
+D:\visual studio apps\Exercise Methods\Smallest of Three Numbers\obj\Debug\net6.0\ref\Smallest of Three Numbers.dll
+F:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\08.Exercise Methods\Smallest of Three Numbers\bin\Debug\net6.0\Smallest of Three Numbers.exe
+F:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\08.Exercise Methods\Smallest of Three Numbers\bin\Debug\net6.0\Smallest of Three Numbers.deps.json
+F:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\08.Exercise Methods\Smallest of Three Numbers\bin\Debug\net6.0\Smallest of Three Numbers.runtimeconfig.json
+F:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\08.Exercise Methods\Smallest of Three Numbers\bin\Debug\net6.0\Smallest of Three Numbers.dll
+F:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\08.Exercise Methods\Smallest of Three Numbers\bin\Debug\net6.0\Smallest of Three Numbers.pdb
+F:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\08.Exercise Methods\Smallest of Three Numbers\obj\Debug\net6.0\Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\08.Exercise Methods\Smallest of Three Numbers\obj\Debug\net6.0\Smallest of Three Numbers.AssemblyInfoInputs.cache
+F:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\08.Exercise Methods\Smallest of Three Numbers\obj\Debug\net6.0\Smallest of Three Numbers.AssemblyInfo.cs
+F:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\08.Exercise Methods\Smallest of Three Numbers\obj\Debug\net6.0\Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+F:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\08.Exercise Methods\Smallest of Three Numbers\obj\Debug\net6.0\Smallest of Three Numbers.dll
+F:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\08.Exercise Methods\Smallest of Three Numbers\obj\Debug\net6.0\refint\Smallest of Three Numbers.dll
+F:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\08.Exercise Methods\Smallest of Three Numbers\obj\Debug\net6.0\Smallest of Three Numbers.pdb
+F:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\08.Exercise Methods\Smallest of Three Numbers\obj\Debug\net6.0\Smallest of Three Numbers.genruntimeconfig.cache
+F:\visual studio apps\Programing Fundamentals CSharp May 2023\Programing-Fundamentals-CSharp-May-2023\08.Exercise Methods\Smallest of Three Numbers\obj\Debug\net6.0\ref\Smallest of Three Numbers.dll

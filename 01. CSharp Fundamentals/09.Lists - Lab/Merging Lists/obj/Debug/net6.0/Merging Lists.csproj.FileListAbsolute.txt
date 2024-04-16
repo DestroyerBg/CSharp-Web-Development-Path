@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Merging Lists\bin\Debug\net6.0\Merging Lists.exe
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Merging Lists\bin\Debug\net6.0\Merging Lists.deps.json
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Merging Lists\bin\Debug\net6.0\Merging Lists.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Merging Lists\bin\Debug\net6.0\Merging Lists.dll
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Merging Lists\bin\Debug\net6.0\Merging Lists.pdb
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Merging Lists\obj\Debug\net6.0\Merging Lists.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Merging Lists\obj\Debug\net6.0\Merging Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Merging Lists\obj\Debug\net6.0\Merging Lists.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Merging Lists\obj\Debug\net6.0\Merging Lists.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Merging Lists\obj\Debug\net6.0\Merging Lists.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Merging Lists\obj\Debug\net6.0\Merging Lists.dll
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Merging Lists\obj\Debug\net6.0\refint\Merging Lists.dll
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Merging Lists\obj\Debug\net6.0\Merging Lists.pdb
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Merging Lists\obj\Debug\net6.0\Merging Lists.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\Merging Lists\obj\Debug\net6.0\ref\Merging Lists.dll

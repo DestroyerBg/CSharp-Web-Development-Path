@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\01.Vehicles.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\01.Vehicles.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\01.Vehicles.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\01.Vehicles.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\01.Vehicles.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\refint\01.Vehicles.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\ref\01.Vehicles.dll

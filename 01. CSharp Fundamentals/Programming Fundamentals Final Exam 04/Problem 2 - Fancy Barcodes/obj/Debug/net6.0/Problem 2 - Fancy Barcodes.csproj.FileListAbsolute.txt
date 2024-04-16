@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\04. Programming Fundamentals Final Exam\Problem 2 - Fancy Barcodes\obj\Debug\net6.0\Problem 2 - Fancy Barcodes.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\04. Programming Fundamentals Final Exam\Problem 2 - Fancy Barcodes\obj\Debug\net6.0\Problem 2 - Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\04. Programming Fundamentals Final Exam\Problem 2 - Fancy Barcodes\obj\Debug\net6.0\Problem 2 - Fancy Barcodes.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\04. Programming Fundamentals Final Exam\Problem 2 - Fancy Barcodes\obj\Debug\net6.0\Problem 2 - Fancy Barcodes.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\04. Programming Fundamentals Final Exam\Problem 2 - Fancy Barcodes\obj\Debug\net6.0\Problem 2 - Fancy Barcodes.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\04. Programming Fundamentals Final Exam\Problem 2 - Fancy Barcodes\bin\Debug\net6.0\Problem 2 - Fancy Barcodes.exe
+D:\visual studio apps\Program Fundamentals C#\04. Programming Fundamentals Final Exam\Problem 2 - Fancy Barcodes\bin\Debug\net6.0\Problem 2 - Fancy Barcodes.deps.json
+D:\visual studio apps\Program Fundamentals C#\04. Programming Fundamentals Final Exam\Problem 2 - Fancy Barcodes\bin\Debug\net6.0\Problem 2 - Fancy Barcodes.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\04. Programming Fundamentals Final Exam\Problem 2 - Fancy Barcodes\bin\Debug\net6.0\Problem 2 - Fancy Barcodes.dll
+D:\visual studio apps\Program Fundamentals C#\04. Programming Fundamentals Final Exam\Problem 2 - Fancy Barcodes\bin\Debug\net6.0\Problem 2 - Fancy Barcodes.pdb
+D:\visual studio apps\Program Fundamentals C#\04. Programming Fundamentals Final Exam\Problem 2 - Fancy Barcodes\obj\Debug\net6.0\Problem 2 - Fancy Barcodes.dll
+D:\visual studio apps\Program Fundamentals C#\04. Programming Fundamentals Final Exam\Problem 2 - Fancy Barcodes\obj\Debug\net6.0\refint\Problem 2 - Fancy Barcodes.dll
+D:\visual studio apps\Program Fundamentals C#\04. Programming Fundamentals Final Exam\Problem 2 - Fancy Barcodes\obj\Debug\net6.0\Problem 2 - Fancy Barcodes.pdb
+D:\visual studio apps\Program Fundamentals C#\04. Programming Fundamentals Final Exam\Problem 2 - Fancy Barcodes\obj\Debug\net6.0\Problem 2 - Fancy Barcodes.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\04. Programming Fundamentals Final Exam\Problem 2 - Fancy Barcodes\obj\Debug\net6.0\ref\Problem 2 - Fancy Barcodes.dll

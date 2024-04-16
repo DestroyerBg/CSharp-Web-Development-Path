@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Magic Sum\bin\Debug\net6.0\Magic Sum.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Magic Sum\bin\Debug\net6.0\Magic Sum.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Magic Sum\bin\Debug\net6.0\Magic Sum.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Magic Sum\bin\Debug\net6.0\Magic Sum.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Magic Sum\bin\Debug\net6.0\Magic Sum.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Magic Sum\obj\Debug\net6.0\Magic Sum.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Magic Sum\obj\Debug\net6.0\Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Magic Sum\obj\Debug\net6.0\Magic Sum.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Magic Sum\obj\Debug\net6.0\Magic Sum.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Magic Sum\obj\Debug\net6.0\Magic Sum.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Magic Sum\obj\Debug\net6.0\Magic Sum.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Magic Sum\obj\Debug\net6.0\refint\Magic Sum.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Magic Sum\obj\Debug\net6.0\Magic Sum.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Magic Sum\obj\Debug\net6.0\Magic Sum.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise  Arrays\Magic Sum\obj\Debug\net6.0\ref\Magic Sum.dll

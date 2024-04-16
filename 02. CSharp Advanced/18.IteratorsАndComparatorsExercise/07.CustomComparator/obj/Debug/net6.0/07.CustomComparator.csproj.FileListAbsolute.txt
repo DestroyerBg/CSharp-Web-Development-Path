@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\07.CustomComparator\bin\Debug\net6.0\07.CustomComparator.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\07.CustomComparator\bin\Debug\net6.0\07.CustomComparator.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\07.CustomComparator\bin\Debug\net6.0\07.CustomComparator.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\07.CustomComparator\bin\Debug\net6.0\07.CustomComparator.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\07.CustomComparator\bin\Debug\net6.0\07.CustomComparator.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\07.CustomComparator\obj\Debug\net6.0\07.CustomComparator.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\07.CustomComparator\obj\Debug\net6.0\07.CustomComparator.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\07.CustomComparator\obj\Debug\net6.0\07.CustomComparator.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\07.CustomComparator\obj\Debug\net6.0\07.CustomComparator.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\07.CustomComparator\obj\Debug\net6.0\07.CustomComparator.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\07.CustomComparator\obj\Debug\net6.0\refint\07.CustomComparator.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\07.CustomComparator\obj\Debug\net6.0\07.CustomComparator.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\07.CustomComparator\obj\Debug\net6.0\07.CustomComparator.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\07.CustomComparator\obj\Debug\net6.0\ref\07.CustomComparator.dll

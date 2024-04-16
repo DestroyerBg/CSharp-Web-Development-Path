@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum Digits\bin\Debug\net6.0\Sum Digits.exe
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum Digits\bin\Debug\net6.0\Sum Digits.deps.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum Digits\bin\Debug\net6.0\Sum Digits.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum Digits\bin\Debug\net6.0\Sum Digits.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum Digits\bin\Debug\net6.0\Sum Digits.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net6.0\Sum Digits.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net6.0\Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net6.0\Sum Digits.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net6.0\Sum Digits.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net6.0\Sum Digits.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net6.0\Sum Digits.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net6.0\refint\Sum Digits.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net6.0\Sum Digits.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net6.0\Sum Digits.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum Digits\obj\Debug\net6.0\ref\Sum Digits.dll

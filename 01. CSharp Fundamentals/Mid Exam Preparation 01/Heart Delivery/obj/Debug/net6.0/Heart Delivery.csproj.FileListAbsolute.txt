@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Heart Delivery\bin\Debug\net6.0\Heart Delivery.exe
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Heart Delivery\bin\Debug\net6.0\Heart Delivery.deps.json
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Heart Delivery\bin\Debug\net6.0\Heart Delivery.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Heart Delivery\bin\Debug\net6.0\Heart Delivery.dll
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Heart Delivery\bin\Debug\net6.0\Heart Delivery.pdb
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Heart Delivery\obj\Debug\net6.0\Heart Delivery.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Heart Delivery\obj\Debug\net6.0\Heart Delivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Heart Delivery\obj\Debug\net6.0\Heart Delivery.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Heart Delivery\obj\Debug\net6.0\Heart Delivery.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Heart Delivery\obj\Debug\net6.0\Heart Delivery.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Heart Delivery\obj\Debug\net6.0\Heart Delivery.dll
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Heart Delivery\obj\Debug\net6.0\refint\Heart Delivery.dll
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Heart Delivery\obj\Debug\net6.0\Heart Delivery.pdb
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Heart Delivery\obj\Debug\net6.0\Heart Delivery.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Mid Exam Preparation 1\Heart Delivery\obj\Debug\net6.0\ref\Heart Delivery.dll

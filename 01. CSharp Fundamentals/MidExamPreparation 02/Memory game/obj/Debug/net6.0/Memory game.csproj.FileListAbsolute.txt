@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Memory game\bin\Debug\net6.0\Memory game.exe
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Memory game\bin\Debug\net6.0\Memory game.deps.json
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Memory game\bin\Debug\net6.0\Memory game.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Memory game\bin\Debug\net6.0\Memory game.dll
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Memory game\bin\Debug\net6.0\Memory game.pdb
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Memory game\obj\Debug\net6.0\Memory game.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Memory game\obj\Debug\net6.0\Memory game.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Memory game\obj\Debug\net6.0\Memory game.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Memory game\obj\Debug\net6.0\Memory game.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Memory game\obj\Debug\net6.0\Memory game.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Memory game\obj\Debug\net6.0\Memory game.dll
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Memory game\obj\Debug\net6.0\refint\Memory game.dll
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Memory game\obj\Debug\net6.0\Memory game.pdb
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Memory game\obj\Debug\net6.0\Memory game.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\MidExamPreparation2\Memory game\obj\Debug\net6.0\ref\Memory game.dll

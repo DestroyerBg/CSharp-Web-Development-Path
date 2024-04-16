@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Append Arrays\bin\Debug\net6.0\Append Arrays.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Append Arrays\bin\Debug\net6.0\Append Arrays.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Append Arrays\bin\Debug\net6.0\Append Arrays.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Append Arrays\bin\Debug\net6.0\Append Arrays.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Append Arrays\bin\Debug\net6.0\Append Arrays.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Append Arrays\obj\Debug\net6.0\Append Arrays.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Append Arrays\obj\Debug\net6.0\Append Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Append Arrays\obj\Debug\net6.0\Append Arrays.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Append Arrays\obj\Debug\net6.0\Append Arrays.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Append Arrays\obj\Debug\net6.0\Append Arrays.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Append Arrays\obj\Debug\net6.0\Append Arrays.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Append Arrays\obj\Debug\net6.0\refint\Append Arrays.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Append Arrays\obj\Debug\net6.0\Append Arrays.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Append Arrays\obj\Debug\net6.0\Append Arrays.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Append Arrays\obj\Debug\net6.0\ref\Append Arrays.dll

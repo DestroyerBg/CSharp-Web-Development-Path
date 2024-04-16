@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Plant Discovery\bin\Debug\net6.0\Plant Discovery.exe
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Plant Discovery\bin\Debug\net6.0\Plant Discovery.deps.json
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Plant Discovery\bin\Debug\net6.0\Plant Discovery.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Plant Discovery\bin\Debug\net6.0\Plant Discovery.dll
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Plant Discovery\bin\Debug\net6.0\Plant Discovery.pdb
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Plant Discovery\obj\Debug\net6.0\Plant Discovery.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Plant Discovery\obj\Debug\net6.0\Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Plant Discovery\obj\Debug\net6.0\Plant Discovery.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Plant Discovery\obj\Debug\net6.0\Plant Discovery.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Plant Discovery\obj\Debug\net6.0\Plant Discovery.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Plant Discovery\obj\Debug\net6.0\Plant Discovery.dll
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Plant Discovery\obj\Debug\net6.0\refint\Plant Discovery.dll
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Plant Discovery\obj\Debug\net6.0\Plant Discovery.pdb
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Plant Discovery\obj\Debug\net6.0\Plant Discovery.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Plant Discovery\obj\Debug\net6.0\ref\Plant Discovery.dll

@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\refint\03.Shapes.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\7.Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\ref\03.Shapes.dll

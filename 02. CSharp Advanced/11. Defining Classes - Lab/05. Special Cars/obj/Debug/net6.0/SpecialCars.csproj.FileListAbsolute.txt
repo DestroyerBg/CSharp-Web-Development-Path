@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\05. Special Cars\bin\Debug\net6.0\SpecialCars.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\05. Special Cars\bin\Debug\net6.0\SpecialCars.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\05. Special Cars\bin\Debug\net6.0\SpecialCars.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\05. Special Cars\bin\Debug\net6.0\SpecialCars.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\05. Special Cars\bin\Debug\net6.0\SpecialCars.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\SpecialCars.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\SpecialCars.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\SpecialCars.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\SpecialCars.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\SpecialCars.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\refint\SpecialCars.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\SpecialCars.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\SpecialCars.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\ref\SpecialCars.dll

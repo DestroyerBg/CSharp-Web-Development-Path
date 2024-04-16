@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\02.HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\02.HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\02.HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\02.HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\02.HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\02.HighQualityMistakes\obj\Debug\net6.0\refint\02.HighQualityMistakes.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\02.HighQualityMistakes\obj\Debug\net6.0\ref\02.HighQualityMistakes.dll

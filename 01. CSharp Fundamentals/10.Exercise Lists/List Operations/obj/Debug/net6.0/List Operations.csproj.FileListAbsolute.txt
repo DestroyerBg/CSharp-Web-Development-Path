@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\List Operations\bin\Debug\net6.0\List Operations.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\List Operations\bin\Debug\net6.0\List Operations.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\List Operations\bin\Debug\net6.0\List Operations.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\List Operations\bin\Debug\net6.0\List Operations.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\List Operations\bin\Debug\net6.0\List Operations.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\List Operations\obj\Debug\net6.0\List Operations.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\List Operations\obj\Debug\net6.0\List Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\List Operations\obj\Debug\net6.0\List Operations.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\List Operations\obj\Debug\net6.0\List Operations.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\List Operations\obj\Debug\net6.0\List Operations.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\List Operations\obj\Debug\net6.0\List Operations.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\List Operations\obj\Debug\net6.0\refint\List Operations.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\List Operations\obj\Debug\net6.0\List Operations.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\List Operations\obj\Debug\net6.0\List Operations.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\List Operations\obj\Debug\net6.0\ref\List Operations.dll

@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\04.PizzaCalories\obj\Debug\net6.0\refint\04.PizzaCalories.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\04.PizzaCalories\obj\Debug\net6.0\ref\04.PizzaCalories.dll

@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Replace Repeating Chars\bin\Debug\net6.0\Replace Repeating Chars.exe
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Replace Repeating Chars\bin\Debug\net6.0\Replace Repeating Chars.deps.json
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Replace Repeating Chars\bin\Debug\net6.0\Replace Repeating Chars.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Replace Repeating Chars\bin\Debug\net6.0\Replace Repeating Chars.dll
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Replace Repeating Chars\bin\Debug\net6.0\Replace Repeating Chars.pdb
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Replace Repeating Chars\obj\Debug\net6.0\Replace Repeating Chars.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Replace Repeating Chars\obj\Debug\net6.0\Replace Repeating Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Replace Repeating Chars\obj\Debug\net6.0\Replace Repeating Chars.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Replace Repeating Chars\obj\Debug\net6.0\Replace Repeating Chars.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Replace Repeating Chars\obj\Debug\net6.0\Replace Repeating Chars.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Replace Repeating Chars\obj\Debug\net6.0\Replace Repeating Chars.dll
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Replace Repeating Chars\obj\Debug\net6.0\refint\Replace Repeating Chars.dll
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Replace Repeating Chars\obj\Debug\net6.0\Replace Repeating Chars.pdb
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Replace Repeating Chars\obj\Debug\net6.0\Replace Repeating Chars.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Valid Usernames\Replace Repeating Chars\obj\Debug\net6.0\ref\Replace Repeating Chars.dll

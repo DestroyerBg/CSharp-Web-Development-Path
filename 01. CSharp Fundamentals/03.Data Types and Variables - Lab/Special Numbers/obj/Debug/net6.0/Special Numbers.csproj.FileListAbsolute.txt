@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Special Numbers\bin\Debug\net6.0\Special Numbers.exe
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Special Numbers\bin\Debug\net6.0\Special Numbers.deps.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Special Numbers\bin\Debug\net6.0\Special Numbers.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Special Numbers\bin\Debug\net6.0\Special Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Special Numbers\bin\Debug\net6.0\Special Numbers.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Special Numbers\obj\Debug\net6.0\Special Numbers.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Special Numbers\obj\Debug\net6.0\Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Special Numbers\obj\Debug\net6.0\Special Numbers.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Special Numbers\obj\Debug\net6.0\Special Numbers.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Special Numbers\obj\Debug\net6.0\Special Numbers.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Special Numbers\obj\Debug\net6.0\Special Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Special Numbers\obj\Debug\net6.0\refint\Special Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Special Numbers\obj\Debug\net6.0\Special Numbers.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Special Numbers\obj\Debug\net6.0\Special Numbers.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Lab\Special Numbers\obj\Debug\net6.0\ref\Special Numbers.dll

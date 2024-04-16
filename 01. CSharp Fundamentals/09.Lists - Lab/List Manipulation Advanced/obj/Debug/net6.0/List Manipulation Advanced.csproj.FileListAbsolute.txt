@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Advanced\bin\Debug\net6.0\List Manipulation Advanced.exe
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Advanced\bin\Debug\net6.0\List Manipulation Advanced.deps.json
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Advanced\bin\Debug\net6.0\List Manipulation Advanced.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Advanced\bin\Debug\net6.0\List Manipulation Advanced.dll
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Advanced\bin\Debug\net6.0\List Manipulation Advanced.pdb
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Advanced\obj\Debug\net6.0\List Manipulation Advanced.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Advanced\obj\Debug\net6.0\List Manipulation Advanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Advanced\obj\Debug\net6.0\List Manipulation Advanced.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Advanced\obj\Debug\net6.0\List Manipulation Advanced.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Advanced\obj\Debug\net6.0\List Manipulation Advanced.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Advanced\obj\Debug\net6.0\List Manipulation Advanced.dll
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Advanced\obj\Debug\net6.0\refint\List Manipulation Advanced.dll
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Advanced\obj\Debug\net6.0\List Manipulation Advanced.pdb
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Advanced\obj\Debug\net6.0\List Manipulation Advanced.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Advanced\obj\Debug\net6.0\ref\List Manipulation Advanced.dll

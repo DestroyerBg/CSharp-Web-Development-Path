@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\01.Stealer\bin\Debug\net6.0\01.Stealer.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\01.Stealer\bin\Debug\net6.0\01.Stealer.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\01.Stealer\bin\Debug\net6.0\01.Stealer.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\01.Stealer\bin\Debug\net6.0\01.Stealer.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\01.Stealer\bin\Debug\net6.0\01.Stealer.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\01.Stealer\obj\Debug\net6.0\refint\01.Stealer.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\01.Stealer\obj\Debug\net6.0\ref\01.Stealer.dll

@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\01.GenericBoxOfString\obj\Debug\net6.0\refint\01.GenericBoxOfString.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\01.GenericBoxOfString\obj\Debug\net6.0\ref\01.GenericBoxOfString.dll

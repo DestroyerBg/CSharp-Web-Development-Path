@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\refint\3. Primary Diagonal.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\3. Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\ref\3. Primary Diagonal.dll

@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Print Numbers in Reverse Order\bin\Debug\net6.0\Print Numbers in Reverse Order.exe
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Print Numbers in Reverse Order\bin\Debug\net6.0\Print Numbers in Reverse Order.deps.json
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Print Numbers in Reverse Order\bin\Debug\net6.0\Print Numbers in Reverse Order.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Print Numbers in Reverse Order\bin\Debug\net6.0\Print Numbers in Reverse Order.dll
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Print Numbers in Reverse Order\bin\Debug\net6.0\Print Numbers in Reverse Order.pdb
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Print Numbers in Reverse Order\obj\Debug\net6.0\Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Print Numbers in Reverse Order\obj\Debug\net6.0\Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Print Numbers in Reverse Order\obj\Debug\net6.0\Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Print Numbers in Reverse Order\obj\Debug\net6.0\Print Numbers in Reverse Order.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Print Numbers in Reverse Order\obj\Debug\net6.0\Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Print Numbers in Reverse Order\obj\Debug\net6.0\Print Numbers in Reverse Order.dll
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Print Numbers in Reverse Order\obj\Debug\net6.0\refint\Print Numbers in Reverse Order.dll
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Print Numbers in Reverse Order\obj\Debug\net6.0\Print Numbers in Reverse Order.pdb
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Print Numbers in Reverse Order\obj\Debug\net6.0\Print Numbers in Reverse Order.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Arrays - Lab\Print Numbers in Reverse Order\obj\Debug\net6.0\ref\Print Numbers in Reverse Order.dll

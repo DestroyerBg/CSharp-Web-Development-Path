@@ -1,0 +1,15 @@
+D:\visual studio apps\Methods - Lab\Calculations\bin\Debug\net6.0\Calculations.exe
+D:\visual studio apps\Methods - Lab\Calculations\bin\Debug\net6.0\Calculations.deps.json
+D:\visual studio apps\Methods - Lab\Calculations\bin\Debug\net6.0\Calculations.runtimeconfig.json
+D:\visual studio apps\Methods - Lab\Calculations\bin\Debug\net6.0\Calculations.dll
+D:\visual studio apps\Methods - Lab\Calculations\bin\Debug\net6.0\Calculations.pdb
+D:\visual studio apps\Methods - Lab\Calculations\obj\Debug\net6.0\Calculations.csproj.AssemblyReference.cache
+D:\visual studio apps\Methods - Lab\Calculations\obj\Debug\net6.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Methods - Lab\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfoInputs.cache
+D:\visual studio apps\Methods - Lab\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfo.cs
+D:\visual studio apps\Methods - Lab\Calculations\obj\Debug\net6.0\Calculations.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Methods - Lab\Calculations\obj\Debug\net6.0\Calculations.dll
+D:\visual studio apps\Methods - Lab\Calculations\obj\Debug\net6.0\refint\Calculations.dll
+D:\visual studio apps\Methods - Lab\Calculations\obj\Debug\net6.0\Calculations.pdb
+D:\visual studio apps\Methods - Lab\Calculations\obj\Debug\net6.0\Calculations.genruntimeconfig.cache
+D:\visual studio apps\Methods - Lab\Calculations\obj\Debug\net6.0\ref\Calculations.dll

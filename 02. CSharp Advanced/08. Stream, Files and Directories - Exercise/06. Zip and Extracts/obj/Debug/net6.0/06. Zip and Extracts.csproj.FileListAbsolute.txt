@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\refint\06. Zip and Extracts.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\ref\06. Zip and Extracts.dll

@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Padawan Equipment\bin\Debug\net6.0\Padawan Equipment.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Padawan Equipment\bin\Debug\net6.0\Padawan Equipment.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Padawan Equipment\bin\Debug\net6.0\Padawan Equipment.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Padawan Equipment\bin\Debug\net6.0\Padawan Equipment.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Padawan Equipment\bin\Debug\net6.0\Padawan Equipment.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Padawan Equipment\obj\Debug\net6.0\Padawan Equipment.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Padawan Equipment\obj\Debug\net6.0\Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Padawan Equipment\obj\Debug\net6.0\Padawan Equipment.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Padawan Equipment\obj\Debug\net6.0\Padawan Equipment.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Padawan Equipment\obj\Debug\net6.0\Padawan Equipment.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Padawan Equipment\obj\Debug\net6.0\Padawan Equipment.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Padawan Equipment\obj\Debug\net6.0\refint\Padawan Equipment.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Padawan Equipment\obj\Debug\net6.0\Padawan Equipment.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Padawan Equipment\obj\Debug\net6.0\Padawan Equipment.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Padawan Equipment\obj\Debug\net6.0\ref\Padawan Equipment.dll

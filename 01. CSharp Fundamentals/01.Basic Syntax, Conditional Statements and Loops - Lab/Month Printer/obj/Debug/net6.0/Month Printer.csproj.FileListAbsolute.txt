@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Debug\net6.0\Month Printer.exe
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Debug\net6.0\Month Printer.deps.json
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Debug\net6.0\Month Printer.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Debug\net6.0\Month Printer.dll
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Debug\net6.0\Month Printer.pdb
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\net6.0\Month Printer.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\net6.0\Month Printer.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\net6.0\Month Printer.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\net6.0\Month Printer.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\net6.0\Month Printer.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\net6.0\Month Printer.dll
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\net6.0\refint\Month Printer.dll
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\net6.0\Month Printer.pdb
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\net6.0\Month Printer.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\net6.0\ref\Month Printer.dll

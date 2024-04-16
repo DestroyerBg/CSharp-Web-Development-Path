@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\bin\Debug\net6.0\Poke Mon.exe
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\bin\Debug\net6.0\Poke Mon.deps.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\bin\Debug\net6.0\Poke Mon.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\bin\Debug\net6.0\Poke Mon.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\bin\Debug\net6.0\Poke Mon.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\obj\Debug\net6.0\Poke Mon.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\obj\Debug\net6.0\Poke Mon.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\obj\Debug\net6.0\Poke Mon.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\obj\Debug\net6.0\Poke Mon.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\obj\Debug\net6.0\Poke Mon.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\obj\Debug\net6.0\Poke Mon.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\obj\Debug\net6.0\refint\Poke Mon.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\obj\Debug\net6.0\Poke Mon.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\obj\Debug\net6.0\Poke Mon.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\obj\Debug\net6.0\ref\Poke Mon.dll

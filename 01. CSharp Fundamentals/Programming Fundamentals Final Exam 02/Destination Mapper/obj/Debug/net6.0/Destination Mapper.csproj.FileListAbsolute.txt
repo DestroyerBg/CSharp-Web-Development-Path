@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Destination Mapper\bin\Debug\net6.0\Destination Mapper.exe
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Destination Mapper\bin\Debug\net6.0\Destination Mapper.deps.json
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Destination Mapper\bin\Debug\net6.0\Destination Mapper.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Destination Mapper\bin\Debug\net6.0\Destination Mapper.dll
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Destination Mapper\bin\Debug\net6.0\Destination Mapper.pdb
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Destination Mapper\obj\Debug\net6.0\Destination Mapper.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Destination Mapper\obj\Debug\net6.0\Destination Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Destination Mapper\obj\Debug\net6.0\Destination Mapper.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Destination Mapper\obj\Debug\net6.0\Destination Mapper.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Destination Mapper\obj\Debug\net6.0\Destination Mapper.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Destination Mapper\obj\Debug\net6.0\Destination Mapper.dll
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Destination Mapper\obj\Debug\net6.0\refint\Destination Mapper.dll
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Destination Mapper\obj\Debug\net6.0\Destination Mapper.pdb
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Destination Mapper\obj\Debug\net6.0\Destination Mapper.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\02. Programming Fundamentals Final Exam\Destination Mapper\obj\Debug\net6.0\ref\Destination Mapper.dll

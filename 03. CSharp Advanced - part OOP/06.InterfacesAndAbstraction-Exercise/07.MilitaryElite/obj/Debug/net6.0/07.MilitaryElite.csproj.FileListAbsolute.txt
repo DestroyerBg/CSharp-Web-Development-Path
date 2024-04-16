@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\07.MilitaryElite\bin\Debug\net6.0\07.MilitaryElite.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\07.MilitaryElite\bin\Debug\net6.0\07.MilitaryElite.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\07.MilitaryElite\bin\Debug\net6.0\07.MilitaryElite.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\07.MilitaryElite\bin\Debug\net6.0\07.MilitaryElite.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\07.MilitaryElite\bin\Debug\net6.0\07.MilitaryElite.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\07.MilitaryElite\obj\Debug\net6.0\07.MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\07.MilitaryElite\obj\Debug\net6.0\07.MilitaryElite.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\07.MilitaryElite\obj\Debug\net6.0\07.MilitaryElite.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\07.MilitaryElite\obj\Debug\net6.0\07.MilitaryElite.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\07.MilitaryElite\obj\Debug\net6.0\07.MilitaryElite.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\07.MilitaryElite\obj\Debug\net6.0\refint\07.MilitaryElite.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\07.MilitaryElite\obj\Debug\net6.0\07.MilitaryElite.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\07.MilitaryElite\obj\Debug\net6.0\07.MilitaryElite.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\07.MilitaryElite\obj\Debug\net6.0\ref\07.MilitaryElite.dll

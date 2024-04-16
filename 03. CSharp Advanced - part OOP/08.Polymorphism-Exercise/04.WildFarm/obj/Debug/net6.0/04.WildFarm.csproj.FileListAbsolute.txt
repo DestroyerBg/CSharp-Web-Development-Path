@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\refint\04.WildFarm.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\8.Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\ref\04.WildFarm.dll

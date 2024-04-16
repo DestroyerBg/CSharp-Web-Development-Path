@@ -1,0 +1,14 @@
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\04. Word Filter\bin\Debug\net6.0\04. Word Filter.exe
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\04. Word Filter\bin\Debug\net6.0\04. Word Filter.deps.json
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\04. Word Filter\bin\Debug\net6.0\04. Word Filter.runtimeconfig.json
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\04. Word Filter\bin\Debug\net6.0\04. Word Filter.dll
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\04. Word Filter\bin\Debug\net6.0\04. Word Filter.pdb
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.AssemblyInfoInputs.cache
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.AssemblyInfo.cs
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.csproj.CoreCompileInputs.cache
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.dll
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\04. Word Filter\obj\Debug\net6.0\refint\04. Word Filter.dll
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.pdb
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\04. Word Filter\obj\Debug\net6.0\04. Word Filter.genruntimeconfig.cache
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\04. Word Filter\obj\Debug\net6.0\ref\04. Word Filter.dll

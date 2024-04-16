@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net6.0\10. ForceBook.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net6.0\10. ForceBook.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net6.0\10. ForceBook.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net6.0\10. ForceBook.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net6.0\10. ForceBook.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net6.0\10. ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net6.0\10. ForceBook.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net6.0\10. ForceBook.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net6.0\10. ForceBook.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net6.0\10. ForceBook.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net6.0\refint\10. ForceBook.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net6.0\10. ForceBook.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net6.0\10. ForceBook.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net6.0\ref\10. ForceBook.dll

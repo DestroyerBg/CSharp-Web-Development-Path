@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\09.PokemonTrainer\obj\Debug\net6.0\refint\09.PokemonTrainer.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\09.PokemonTrainer\obj\Debug\net6.0\ref\09.PokemonTrainer.dll

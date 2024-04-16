@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Courses\bin\Debug\net6.0\Courses.exe
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Courses\bin\Debug\net6.0\Courses.deps.json
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Courses\bin\Debug\net6.0\Courses.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Courses\bin\Debug\net6.0\Courses.dll
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Courses\bin\Debug\net6.0\Courses.pdb
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Courses\obj\Debug\net6.0\Courses.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Courses\obj\Debug\net6.0\Courses.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Courses\obj\Debug\net6.0\Courses.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Courses\obj\Debug\net6.0\Courses.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Courses\obj\Debug\net6.0\Courses.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Courses\obj\Debug\net6.0\Courses.dll
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Courses\obj\Debug\net6.0\refint\Courses.dll
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Courses\obj\Debug\net6.0\Courses.pdb
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Courses\obj\Debug\net6.0\Courses.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Associative Arrays - Exercise\Courses\obj\Debug\net6.0\ref\Courses.dll

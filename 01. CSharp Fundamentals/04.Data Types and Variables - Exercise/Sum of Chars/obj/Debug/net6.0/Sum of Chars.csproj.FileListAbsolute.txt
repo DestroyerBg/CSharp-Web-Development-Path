@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum of Chars\bin\Debug\net6.0\Sum of Chars.exe
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum of Chars\bin\Debug\net6.0\Sum of Chars.deps.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum of Chars\bin\Debug\net6.0\Sum of Chars.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum of Chars\bin\Debug\net6.0\Sum of Chars.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum of Chars\bin\Debug\net6.0\Sum of Chars.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum of Chars\obj\Debug\net6.0\Sum of Chars.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum of Chars\obj\Debug\net6.0\Sum of Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum of Chars\obj\Debug\net6.0\Sum of Chars.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum of Chars\obj\Debug\net6.0\Sum of Chars.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum of Chars\obj\Debug\net6.0\Sum of Chars.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum of Chars\obj\Debug\net6.0\Sum of Chars.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum of Chars\obj\Debug\net6.0\refint\Sum of Chars.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum of Chars\obj\Debug\net6.0\Sum of Chars.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum of Chars\obj\Debug\net6.0\Sum of Chars.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Sum of Chars\obj\Debug\net6.0\ref\Sum of Chars.dll

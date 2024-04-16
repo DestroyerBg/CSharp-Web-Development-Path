@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\11. TriFunction\bin\Debug\net6.0\11. TriFunction.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\11. TriFunction\bin\Debug\net6.0\11. TriFunction.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\11. TriFunction\bin\Debug\net6.0\11. TriFunction.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\11. TriFunction\bin\Debug\net6.0\11. TriFunction.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\11. TriFunction\bin\Debug\net6.0\11. TriFunction.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\refint\11. TriFunction.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\10. Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\ref\11. TriFunction.dll

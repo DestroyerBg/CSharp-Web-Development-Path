@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\03.GenericSwapMethodString\bin\Debug\net6.0\03.GenericSwapMethodString.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\03.GenericSwapMethodString\bin\Debug\net6.0\03.GenericSwapMethodString.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\03.GenericSwapMethodString\bin\Debug\net6.0\03.GenericSwapMethodString.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\03.GenericSwapMethodString\bin\Debug\net6.0\03.GenericSwapMethodString.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\03.GenericSwapMethodString\bin\Debug\net6.0\03.GenericSwapMethodString.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\03.GenericSwapMethodString\obj\Debug\net6.0\refint\03.GenericSwapMethodString.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\16.GenericsExercise\03.GenericSwapMethodString\obj\Debug\net6.0\ref\03.GenericSwapMethodString.dll

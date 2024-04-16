@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net6.0\09. SoftUni Exam Results.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net6.0\09. SoftUni Exam Results.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net6.0\09. SoftUni Exam Results.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net6.0\09. SoftUni Exam Results.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net6.0\09. SoftUni Exam Results.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net6.0\refint\09. SoftUni Exam Results.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net6.0\ref\09. SoftUni Exam Results.dll

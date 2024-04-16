@@ -1,0 +1,11 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\FightingArena\bin\Debug\net6.0\FightingArena.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\FightingArena\bin\Debug\net6.0\FightingArena.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\FightingArena\bin\Debug\net6.0\FightingArena.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\FightingArena\obj\Debug\net6.0\FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\FightingArena\obj\Debug\net6.0\FightingArena.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\FightingArena\obj\Debug\net6.0\FightingArena.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\FightingArena\obj\Debug\net6.0\FightingArena.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\FightingArena\obj\Debug\net6.0\FightingArena.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\FightingArena\obj\Debug\net6.0\refint\FightingArena.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\FightingArena\obj\Debug\net6.0\FightingArena.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\15.UnitTesting-Exercise\FightingArena\obj\Debug\net6.0\ref\FightingArena.dll

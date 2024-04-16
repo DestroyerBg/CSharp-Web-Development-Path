@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\04. Car Engine And Tires\bin\Debug\net6.0\04. Car Engine And Tires.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\04. Car Engine And Tires\bin\Debug\net6.0\04. Car Engine And Tires.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\04. Car Engine And Tires\bin\Debug\net6.0\04. Car Engine And Tires.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\04. Car Engine And Tires\bin\Debug\net6.0\04. Car Engine And Tires.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\04. Car Engine And Tires\bin\Debug\net6.0\04. Car Engine And Tires.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net6.0\refint\04. Car Engine And Tires.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net6.0\ref\04. Car Engine And Tires.dll

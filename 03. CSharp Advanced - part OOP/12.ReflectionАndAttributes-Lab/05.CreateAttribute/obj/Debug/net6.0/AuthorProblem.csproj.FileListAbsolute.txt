@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\05.CreateAttribute\bin\Debug\net6.0\AuthorProblem.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\05.CreateAttribute\bin\Debug\net6.0\AuthorProblem.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\05.CreateAttribute\bin\Debug\net6.0\AuthorProblem.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\05.CreateAttribute\bin\Debug\net6.0\AuthorProblem.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\05.CreateAttribute\bin\Debug\net6.0\AuthorProblem.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\AuthorProblem.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\AuthorProblem.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\AuthorProblem.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\AuthorProblem.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\refint\AuthorProblem.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\AuthorProblem.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\AuthorProblem.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\ref\AuthorProblem.dll

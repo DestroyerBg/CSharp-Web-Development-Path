@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Rage Expenses\bin\Debug\net6.0\Rage Expenses.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Rage Expenses\bin\Debug\net6.0\Rage Expenses.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Rage Expenses\bin\Debug\net6.0\Rage Expenses.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Rage Expenses\bin\Debug\net6.0\Rage Expenses.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Rage Expenses\bin\Debug\net6.0\Rage Expenses.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Rage Expenses\obj\Debug\net6.0\Rage Expenses.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Rage Expenses\obj\Debug\net6.0\Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Rage Expenses\obj\Debug\net6.0\Rage Expenses.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Rage Expenses\obj\Debug\net6.0\Rage Expenses.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Rage Expenses\obj\Debug\net6.0\Rage Expenses.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Rage Expenses\obj\Debug\net6.0\Rage Expenses.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Rage Expenses\obj\Debug\net6.0\refint\Rage Expenses.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Rage Expenses\obj\Debug\net6.0\Rage Expenses.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Rage Expenses\obj\Debug\net6.0\Rage Expenses.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Rage Expenses\obj\Debug\net6.0\ref\Rage Expenses.dll

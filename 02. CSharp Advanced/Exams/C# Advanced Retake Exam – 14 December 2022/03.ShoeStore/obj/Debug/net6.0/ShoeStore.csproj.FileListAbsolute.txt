@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\03.ShoeStore\bin\Debug\net6.0\ShoeStore.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\03.ShoeStore\bin\Debug\net6.0\ShoeStore.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\03.ShoeStore\bin\Debug\net6.0\ShoeStore.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\03.ShoeStore\bin\Debug\net6.0\ShoeStore.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\03.ShoeStore\bin\Debug\net6.0\ShoeStore.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\03.ShoeStore\obj\Debug\net6.0\ShoeStore.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\03.ShoeStore\obj\Debug\net6.0\ShoeStore.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\03.ShoeStore\obj\Debug\net6.0\ShoeStore.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\03.ShoeStore\obj\Debug\net6.0\ShoeStore.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\03.ShoeStore\obj\Debug\net6.0\ShoeStore.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\03.ShoeStore\obj\Debug\net6.0\refint\ShoeStore.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\03.ShoeStore\obj\Debug\net6.0\ShoeStore.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\03.ShoeStore\obj\Debug\net6.0\ShoeStore.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Retake Exam – 14 December 2022\03.ShoeStore\obj\Debug\net6.0\ref\ShoeStore.dll

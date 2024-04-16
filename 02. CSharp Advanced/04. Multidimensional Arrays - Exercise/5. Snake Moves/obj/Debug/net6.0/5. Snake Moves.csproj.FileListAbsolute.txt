@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net6.0\5. Snake Moves.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net6.0\5. Snake Moves.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net6.0\5. Snake Moves.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net6.0\5. Snake Moves.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net6.0\5. Snake Moves.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net6.0\5. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net6.0\5. Snake Moves.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net6.0\5. Snake Moves.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net6.0\5. Snake Moves.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net6.0\5. Snake Moves.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net6.0\refint\5. Snake Moves.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net6.0\5. Snake Moves.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net6.0\5. Snake Moves.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net6.0\ref\5. Snake Moves.dll

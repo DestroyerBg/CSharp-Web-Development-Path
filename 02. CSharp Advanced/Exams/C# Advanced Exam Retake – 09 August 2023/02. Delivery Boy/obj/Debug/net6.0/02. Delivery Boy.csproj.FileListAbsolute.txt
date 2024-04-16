@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\02. Delivery Boy\bin\Debug\net6.0\02. Delivery Boy.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\02. Delivery Boy\bin\Debug\net6.0\02. Delivery Boy.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\02. Delivery Boy\bin\Debug\net6.0\02. Delivery Boy.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\02. Delivery Boy\bin\Debug\net6.0\02. Delivery Boy.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\02. Delivery Boy\bin\Debug\net6.0\02. Delivery Boy.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\02. Delivery Boy\obj\Debug\net6.0\02. Delivery Boy.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\02. Delivery Boy\obj\Debug\net6.0\02. Delivery Boy.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\02. Delivery Boy\obj\Debug\net6.0\02. Delivery Boy.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\02. Delivery Boy\obj\Debug\net6.0\02. Delivery Boy.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\02. Delivery Boy\obj\Debug\net6.0\02. Delivery Boy.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\02. Delivery Boy\obj\Debug\net6.0\refint\02. Delivery Boy.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\02. Delivery Boy\obj\Debug\net6.0\02. Delivery Boy.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\02. Delivery Boy\obj\Debug\net6.0\02. Delivery Boy.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\Advanced Exams\C# Advanced Exam Retake – 09 August 2023\02. Delivery Boy\obj\Debug\net6.0\ref\02. Delivery Boy.dll

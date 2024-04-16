@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\02.ArrayCreator\bin\Debug\net6.0\02.ArrayCreator.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\02.ArrayCreator\bin\Debug\net6.0\02.ArrayCreator.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\02.ArrayCreator\bin\Debug\net6.0\02.ArrayCreator.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\02.ArrayCreator\bin\Debug\net6.0\02.ArrayCreator.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\02.ArrayCreator\bin\Debug\net6.0\02.ArrayCreator.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\02.ArrayCreator\obj\Debug\net6.0\02.ArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\02.ArrayCreator\obj\Debug\net6.0\02.ArrayCreator.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\02.ArrayCreator\obj\Debug\net6.0\02.ArrayCreator.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\02.ArrayCreator\obj\Debug\net6.0\02.ArrayCreator.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\02.ArrayCreator\obj\Debug\net6.0\02.ArrayCreator.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\02.ArrayCreator\obj\Debug\net6.0\refint\02.ArrayCreator.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\02.ArrayCreator\obj\Debug\net6.0\02.ArrayCreator.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\02.ArrayCreator\obj\Debug\net6.0\02.ArrayCreator.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\15.GenericsLab\02.ArrayCreator\obj\Debug\net6.0\ref\02.ArrayCreator.dll

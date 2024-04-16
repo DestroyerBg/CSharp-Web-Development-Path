@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Spice Must Flow\bin\Debug\net6.0\Spice Must Flow.exe
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Spice Must Flow\bin\Debug\net6.0\Spice Must Flow.deps.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Spice Must Flow\bin\Debug\net6.0\Spice Must Flow.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Spice Must Flow\bin\Debug\net6.0\Spice Must Flow.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Spice Must Flow\bin\Debug\net6.0\Spice Must Flow.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net6.0\Spice Must Flow.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net6.0\Spice Must Flow.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net6.0\Spice Must Flow.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net6.0\Spice Must Flow.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net6.0\Spice Must Flow.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net6.0\Spice Must Flow.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net6.0\refint\Spice Must Flow.dll
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net6.0\Spice Must Flow.pdb
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net6.0\Spice Must Flow.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Data Types and Variables - Exercise\Spice Must Flow\obj\Debug\net6.0\ref\Spice Must Flow.dll

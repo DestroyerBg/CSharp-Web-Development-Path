@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\refint\01.SingleInheritance.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\ref\01.SingleInheritance.dll

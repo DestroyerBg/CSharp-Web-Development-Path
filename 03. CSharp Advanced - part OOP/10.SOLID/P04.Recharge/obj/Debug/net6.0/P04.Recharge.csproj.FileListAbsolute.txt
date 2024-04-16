@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P04.Recharge\bin\Debug\net6.0\P04.Recharge.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P04.Recharge\bin\Debug\net6.0\P04.Recharge.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P04.Recharge\bin\Debug\net6.0\P04.Recharge.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P04.Recharge\bin\Debug\net6.0\P04.Recharge.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P04.Recharge\bin\Debug\net6.0\P04.Recharge.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P04.Recharge\obj\Debug\net6.0\P04.Recharge.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P04.Recharge\obj\Debug\net6.0\P04.Recharge.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P04.Recharge\obj\Debug\net6.0\P04.Recharge.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P04.Recharge\obj\Debug\net6.0\P04.Recharge.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P04.Recharge\obj\Debug\net6.0\P04.Recharge.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P04.Recharge\obj\Debug\net6.0\refint\P04.Recharge.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P04.Recharge\obj\Debug\net6.0\P04.Recharge.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P04.Recharge\obj\Debug\net6.0\P04.Recharge.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P04.Recharge\obj\Debug\net6.0\ref\P04.Recharge.dll

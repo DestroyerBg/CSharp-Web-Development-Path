@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Cards Game\bin\Debug\net6.0\Cards Game.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Cards Game\bin\Debug\net6.0\Cards Game.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Cards Game\bin\Debug\net6.0\Cards Game.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Cards Game\bin\Debug\net6.0\Cards Game.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Cards Game\bin\Debug\net6.0\Cards Game.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Cards Game\obj\Debug\net6.0\Cards Game.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Cards Game\obj\Debug\net6.0\Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Cards Game\obj\Debug\net6.0\Cards Game.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Cards Game\obj\Debug\net6.0\Cards Game.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Cards Game\obj\Debug\net6.0\Cards Game.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Cards Game\obj\Debug\net6.0\Cards Game.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Cards Game\obj\Debug\net6.0\refint\Cards Game.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Cards Game\obj\Debug\net6.0\Cards Game.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Cards Game\obj\Debug\net6.0\Cards Game.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Lists\Cards Game\obj\Debug\net6.0\ref\Cards Game.dll

@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\14. Create Custom Data Structures\bin\Debug\net6.0\01.CustomList.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\14. Create Custom Data Structures\bin\Debug\net6.0\01.CustomList.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\14. Create Custom Data Structures\bin\Debug\net6.0\01.CustomList.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\14. Create Custom Data Structures\bin\Debug\net6.0\01.CustomList.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\14. Create Custom Data Structures\bin\Debug\net6.0\01.CustomList.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\14. Create Custom Data Structures\obj\Debug\net6.0\01.CustomList.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\14. Create Custom Data Structures\obj\Debug\net6.0\01.CustomList.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\14. Create Custom Data Structures\obj\Debug\net6.0\01.CustomList.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\14. Create Custom Data Structures\obj\Debug\net6.0\01.CustomList.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\14. Create Custom Data Structures\obj\Debug\net6.0\01.CustomList.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\14. Create Custom Data Structures\obj\Debug\net6.0\refint\01.CustomList.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\14. Create Custom Data Structures\obj\Debug\net6.0\01.CustomList.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\14. Create Custom Data Structures\obj\Debug\net6.0\01.CustomList.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\01.CustomList\14. Create Custom Data Structures\obj\Debug\net6.0\ref\01.CustomList.dll

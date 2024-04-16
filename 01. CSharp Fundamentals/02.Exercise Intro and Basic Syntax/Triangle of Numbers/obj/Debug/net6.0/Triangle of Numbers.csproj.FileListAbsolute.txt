@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Triangle of Numbers\bin\Debug\net6.0\Triangle of Numbers.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Triangle of Numbers\bin\Debug\net6.0\Triangle of Numbers.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Triangle of Numbers\bin\Debug\net6.0\Triangle of Numbers.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Triangle of Numbers\bin\Debug\net6.0\Triangle of Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Triangle of Numbers\bin\Debug\net6.0\Triangle of Numbers.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Triangle of Numbers\obj\Debug\net6.0\Triangle of Numbers.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Triangle of Numbers\obj\Debug\net6.0\Triangle of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Triangle of Numbers\obj\Debug\net6.0\Triangle of Numbers.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Triangle of Numbers\obj\Debug\net6.0\Triangle of Numbers.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Triangle of Numbers\obj\Debug\net6.0\Triangle of Numbers.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Triangle of Numbers\obj\Debug\net6.0\Triangle of Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Triangle of Numbers\obj\Debug\net6.0\refint\Triangle of Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Triangle of Numbers\obj\Debug\net6.0\Triangle of Numbers.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Triangle of Numbers\obj\Debug\net6.0\Triangle of Numbers.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Triangle of Numbers\obj\Debug\net6.0\ref\Triangle of Numbers.dll

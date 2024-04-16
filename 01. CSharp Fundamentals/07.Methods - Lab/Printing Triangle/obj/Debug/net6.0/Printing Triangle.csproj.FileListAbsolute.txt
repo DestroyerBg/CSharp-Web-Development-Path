@@ -1,0 +1,15 @@
+D:\visual studio apps\Methods - Lab\Printing Triangle\bin\Debug\net6.0\Printing Triangle.exe
+D:\visual studio apps\Methods - Lab\Printing Triangle\bin\Debug\net6.0\Printing Triangle.deps.json
+D:\visual studio apps\Methods - Lab\Printing Triangle\bin\Debug\net6.0\Printing Triangle.runtimeconfig.json
+D:\visual studio apps\Methods - Lab\Printing Triangle\bin\Debug\net6.0\Printing Triangle.dll
+D:\visual studio apps\Methods - Lab\Printing Triangle\bin\Debug\net6.0\Printing Triangle.pdb
+D:\visual studio apps\Methods - Lab\Printing Triangle\obj\Debug\net6.0\Printing Triangle.csproj.AssemblyReference.cache
+D:\visual studio apps\Methods - Lab\Printing Triangle\obj\Debug\net6.0\Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Methods - Lab\Printing Triangle\obj\Debug\net6.0\Printing Triangle.AssemblyInfoInputs.cache
+D:\visual studio apps\Methods - Lab\Printing Triangle\obj\Debug\net6.0\Printing Triangle.AssemblyInfo.cs
+D:\visual studio apps\Methods - Lab\Printing Triangle\obj\Debug\net6.0\Printing Triangle.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Methods - Lab\Printing Triangle\obj\Debug\net6.0\Printing Triangle.dll
+D:\visual studio apps\Methods - Lab\Printing Triangle\obj\Debug\net6.0\refint\Printing Triangle.dll
+D:\visual studio apps\Methods - Lab\Printing Triangle\obj\Debug\net6.0\Printing Triangle.pdb
+D:\visual studio apps\Methods - Lab\Printing Triangle\obj\Debug\net6.0\Printing Triangle.genruntimeconfig.cache
+D:\visual studio apps\Methods - Lab\Printing Triangle\obj\Debug\net6.0\ref\Printing Triangle.dll

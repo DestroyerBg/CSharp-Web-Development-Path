@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P01.Stream_Progress\obj\Debug\net6.0\refint\P01.Stream_Progress.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\10.SOLID\P01.Stream_Progress\obj\Debug\net6.0\ref\P01.Stream_Progress.dll

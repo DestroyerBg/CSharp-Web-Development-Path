@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\10.SoftUniParking\bin\Debug\net6.0\SoftUniParking.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\10.SoftUniParking\bin\Debug\net6.0\SoftUniParking.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\10.SoftUniParking\bin\Debug\net6.0\SoftUniParking.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\10.SoftUniParking\bin\Debug\net6.0\SoftUniParking.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\10.SoftUniParking\bin\Debug\net6.0\SoftUniParking.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\10.SoftUniParking\obj\Debug\net6.0\refint\SoftUniParking.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\12. Defining Classes - Exercise\10.SoftUniParking\obj\Debug\net6.0\ref\SoftUniParking.dll

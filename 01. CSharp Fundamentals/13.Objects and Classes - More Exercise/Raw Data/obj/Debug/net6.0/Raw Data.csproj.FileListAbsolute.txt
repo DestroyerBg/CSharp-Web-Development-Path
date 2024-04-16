@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Raw Data\bin\Debug\net6.0\Raw Data.exe
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Raw Data\bin\Debug\net6.0\Raw Data.deps.json
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Raw Data\bin\Debug\net6.0\Raw Data.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Raw Data\bin\Debug\net6.0\Raw Data.dll
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Raw Data\bin\Debug\net6.0\Raw Data.pdb
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Raw Data\obj\Debug\net6.0\Raw Data.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Raw Data\obj\Debug\net6.0\Raw Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Raw Data\obj\Debug\net6.0\Raw Data.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Raw Data\obj\Debug\net6.0\Raw Data.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Raw Data\obj\Debug\net6.0\Raw Data.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Raw Data\obj\Debug\net6.0\Raw Data.dll
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Raw Data\obj\Debug\net6.0\refint\Raw Data.dll
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Raw Data\obj\Debug\net6.0\Raw Data.pdb
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Raw Data\obj\Debug\net6.0\Raw Data.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - More Exercise\Raw Data\obj\Debug\net6.0\ref\Raw Data.dll

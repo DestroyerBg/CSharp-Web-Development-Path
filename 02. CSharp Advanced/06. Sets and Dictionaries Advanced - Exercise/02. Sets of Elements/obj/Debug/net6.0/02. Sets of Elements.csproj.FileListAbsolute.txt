@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net6.0\02. Sets of Elements.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net6.0\02. Sets of Elements.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net6.0\02. Sets of Elements.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net6.0\02. Sets of Elements.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net6.0\02. Sets of Elements.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net6.0\02. Sets of Elements.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net6.0\02. Sets of Elements.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net6.0\02. Sets of Elements.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net6.0\02. Sets of Elements.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net6.0\02. Sets of Elements.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net6.0\refint\02. Sets of Elements.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net6.0\02. Sets of Elements.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net6.0\02. Sets of Elements.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\6. Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net6.0\ref\02. Sets of Elements.dll

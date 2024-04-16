@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\13.ReflectionAndAttributes-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\13.ReflectionAndAttributes-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\13.ReflectionAndAttributes-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\13.ReflectionAndAttributes-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\13.ReflectionAndAttributes-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\13.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\13.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\13.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\13.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\13.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\13.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\refint\CommandPattern.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\13.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\13.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\13.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll

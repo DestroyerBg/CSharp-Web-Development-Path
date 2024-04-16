@@ -1,0 +1,51 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5em;
+    align-items: center;
+    background-color: whitesmoke;
+    box-shadow: 0 0 0.5em 0 black inset;
+}
+
+footer .footer-map{
+    display: flex;
+    gap: 12em;
+    justify-content: baseline;
+}
+footer div.footer-title h4{
+    font-size: 20px;
+    width: 400;
+}
+
+footer div.footer-title p{
+    font-size: 18px;
+    width: 300px;
+}
+
+footer > h3{
+    margin-top: 1em;
+    position: relative;
+    left: -8%;
+    font-size: 23px;
+}
+
+.sitemap1 nav ul li,
+.sitemap2 nav ul li{
+    list-style-type: none;
+    font-size: 17px;
+}
+
+
+.sitemap1 nav ul li:hover,
+.sitemap2 nav ul li:hover{
+    color:blueviolet;
+    cursor: pointer;
+}
+
+.contacts ul li{
+    list-style-type: none;
+}
+
+.contacts i{
+    margin-right: 0.8em;
+}

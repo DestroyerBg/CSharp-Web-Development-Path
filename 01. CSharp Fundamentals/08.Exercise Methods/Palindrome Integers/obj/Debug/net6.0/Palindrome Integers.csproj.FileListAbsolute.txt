@@ -1,0 +1,15 @@
+D:\visual studio apps\Exercise Methods\Palindrome Integers\bin\Debug\net6.0\Palindrome Integers.exe
+D:\visual studio apps\Exercise Methods\Palindrome Integers\bin\Debug\net6.0\Palindrome Integers.deps.json
+D:\visual studio apps\Exercise Methods\Palindrome Integers\bin\Debug\net6.0\Palindrome Integers.runtimeconfig.json
+D:\visual studio apps\Exercise Methods\Palindrome Integers\bin\Debug\net6.0\Palindrome Integers.dll
+D:\visual studio apps\Exercise Methods\Palindrome Integers\bin\Debug\net6.0\Palindrome Integers.pdb
+D:\visual studio apps\Exercise Methods\Palindrome Integers\obj\Debug\net6.0\Palindrome Integers.csproj.AssemblyReference.cache
+D:\visual studio apps\Exercise Methods\Palindrome Integers\obj\Debug\net6.0\Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Exercise Methods\Palindrome Integers\obj\Debug\net6.0\Palindrome Integers.AssemblyInfoInputs.cache
+D:\visual studio apps\Exercise Methods\Palindrome Integers\obj\Debug\net6.0\Palindrome Integers.AssemblyInfo.cs
+D:\visual studio apps\Exercise Methods\Palindrome Integers\obj\Debug\net6.0\Palindrome Integers.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Exercise Methods\Palindrome Integers\obj\Debug\net6.0\Palindrome Integers.dll
+D:\visual studio apps\Exercise Methods\Palindrome Integers\obj\Debug\net6.0\refint\Palindrome Integers.dll
+D:\visual studio apps\Exercise Methods\Palindrome Integers\obj\Debug\net6.0\Palindrome Integers.pdb
+D:\visual studio apps\Exercise Methods\Palindrome Integers\obj\Debug\net6.0\Palindrome Integers.genruntimeconfig.cache
+D:\visual studio apps\Exercise Methods\Palindrome Integers\obj\Debug\net6.0\ref\Palindrome Integers.dll

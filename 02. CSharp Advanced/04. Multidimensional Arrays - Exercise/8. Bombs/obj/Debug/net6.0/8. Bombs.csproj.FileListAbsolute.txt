@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\net6.0\8. Bombs.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\net6.0\8. Bombs.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\net6.0\8. Bombs.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\net6.0\8. Bombs.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\net6.0\8. Bombs.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net6.0\8. Bombs.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net6.0\8. Bombs.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net6.0\8. Bombs.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net6.0\8. Bombs.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net6.0\8. Bombs.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net6.0\refint\8. Bombs.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net6.0\8. Bombs.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net6.0\8. Bombs.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\4. Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net6.0\ref\8. Bombs.dll

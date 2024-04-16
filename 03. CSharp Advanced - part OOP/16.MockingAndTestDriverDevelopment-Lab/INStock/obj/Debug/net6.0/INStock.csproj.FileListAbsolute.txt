@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\16.MockingAndTestDriverDevelopment-Lab\INStock\bin\Debug\net6.0\INStock.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\16.MockingAndTestDriverDevelopment-Lab\INStock\bin\Debug\net6.0\INStock.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\16.MockingAndTestDriverDevelopment-Lab\INStock\bin\Debug\net6.0\INStock.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\16.MockingAndTestDriverDevelopment-Lab\INStock\bin\Debug\net6.0\INStock.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\16.MockingAndTestDriverDevelopment-Lab\INStock\bin\Debug\net6.0\INStock.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\16.MockingAndTestDriverDevelopment-Lab\INStock\obj\Debug\net6.0\INStock.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\16.MockingAndTestDriverDevelopment-Lab\INStock\obj\Debug\net6.0\INStock.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\16.MockingAndTestDriverDevelopment-Lab\INStock\obj\Debug\net6.0\INStock.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\16.MockingAndTestDriverDevelopment-Lab\INStock\obj\Debug\net6.0\INStock.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\16.MockingAndTestDriverDevelopment-Lab\INStock\obj\Debug\net6.0\INStock.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\16.MockingAndTestDriverDevelopment-Lab\INStock\obj\Debug\net6.0\refint\INStock.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\16.MockingAndTestDriverDevelopment-Lab\INStock\obj\Debug\net6.0\INStock.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\16.MockingAndTestDriverDevelopment-Lab\INStock\obj\Debug\net6.0\INStock.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\16.MockingAndTestDriverDevelopment-Lab\INStock\obj\Debug\net6.0\ref\INStock.dll

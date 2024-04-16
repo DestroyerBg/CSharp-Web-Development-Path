@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\02.Salary\bin\Debug\net6.0\02.Salary.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\02.Salary\bin\Debug\net6.0\02.Salary.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\02.Salary\bin\Debug\net6.0\02.Salary.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\02.Salary\bin\Debug\net6.0\02.Salary.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\02.Salary\bin\Debug\net6.0\02.Salary.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\02.Salary\obj\Debug\net6.0\02.Salary.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\02.Salary\obj\Debug\net6.0\02.Salary.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\02.Salary\obj\Debug\net6.0\02.Salary.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\02.Salary\obj\Debug\net6.0\02.Salary.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\02.Salary\obj\Debug\net6.0\02.Salary.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\02.Salary\obj\Debug\net6.0\refint\02.Salary.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\02.Salary\obj\Debug\net6.0\02.Salary.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\02.Salary\obj\Debug\net6.0\02.Salary.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\02.Salary\obj\Debug\net6.0\ref\02.Salary.dll

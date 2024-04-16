@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Sum of Odd Numbers\bin\Debug\net6.0\Sum of Odd Numbers.exe
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Sum of Odd Numbers\bin\Debug\net6.0\Sum of Odd Numbers.deps.json
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Sum of Odd Numbers\bin\Debug\net6.0\Sum of Odd Numbers.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Sum of Odd Numbers\bin\Debug\net6.0\Sum of Odd Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Sum of Odd Numbers\bin\Debug\net6.0\Sum of Odd Numbers.pdb
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Sum of Odd Numbers\obj\Debug\net6.0\Sum of Odd Numbers.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Sum of Odd Numbers\obj\Debug\net6.0\Sum of Odd Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Sum of Odd Numbers\obj\Debug\net6.0\Sum of Odd Numbers.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Sum of Odd Numbers\obj\Debug\net6.0\Sum of Odd Numbers.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Sum of Odd Numbers\obj\Debug\net6.0\Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Sum of Odd Numbers\obj\Debug\net6.0\Sum of Odd Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Sum of Odd Numbers\obj\Debug\net6.0\refint\Sum of Odd Numbers.dll
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Sum of Odd Numbers\obj\Debug\net6.0\Sum of Odd Numbers.pdb
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Sum of Odd Numbers\obj\Debug\net6.0\Sum of Odd Numbers.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Basic Syntax, Conditional Statements and Loops - Lab\Sum of Odd Numbers\obj\Debug\net6.0\ref\Sum of Odd Numbers.dll

@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\bin\Debug\net6.0\08.CollectionHierarchy.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\bin\Debug\net6.0\08.CollectionHierarchy.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\bin\Debug\net6.0\08.CollectionHierarchy.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\bin\Debug\net6.0\08.CollectionHierarchy.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\bin\Debug\net6.0\08.CollectionHierarchy.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\net6.0\08.CollectionHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\net6.0\08.CollectionHierarchy.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\net6.0\08.CollectionHierarchy.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\net6.0\08.CollectionHierarchy.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\net6.0\08.CollectionHierarchy.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\net6.0\refint\08.CollectionHierarchy.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\net6.0\08.CollectionHierarchy.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\net6.0\08.CollectionHierarchy.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\6.InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\net6.0\ref\08.CollectionHierarchy.dll

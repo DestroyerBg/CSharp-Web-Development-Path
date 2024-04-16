@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\RobotFactory\bin\Debug\net6.0\RobotFactory.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\RobotFactory\bin\Debug\net6.0\RobotFactory.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\RobotFactory\bin\Debug\net6.0\RobotFactory.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\RobotFactory\bin\Debug\net6.0\RobotFactory.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\RobotFactory\bin\Debug\net6.0\RobotFactory.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\RobotFactory\obj\Debug\net6.0\RobotFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\RobotFactory\obj\Debug\net6.0\RobotFactory.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\RobotFactory\obj\Debug\net6.0\refint\RobotFactory.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\RobotFactory\obj\Debug\net6.0\RobotFactory.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\RobotFactory\obj\Debug\net6.0\RobotFactory.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\Exams\C# OOP Regular Exam - 8 April 2023\RobotFactory\obj\Debug\net6.0\ref\RobotFactory.dll

@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 2em;
+    background-color: rgb(238, 238, 238);
+}
+
+div.page{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+    margin-top: 2em;
+    max-width: 80em;
+    margin: 0 auto;
+}
+
+.page header{
+    flex: 0 0 100%;
+    border-bottom: 2px solid black;
+}
+
+.page main{
+    flex: 1 0 60%;
+}
+
+.page main h1,
+.page main h2,
+.page main img,
+.page main p{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+img.align-right{
+    float: right;
+    margin-left: 2em;
+}
+
+img.align-left{
+    float: left;
+    margin-right: 2em;
+}
+
+img[class^="align"]{
+    border: 3px solid black;
+    padding: 0.5em;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 0.8em 0.3em rgb(0,0,0,0.5);
+}
+
+.page aside{
+    flex: 1 0 auto;
+    margin-left: 10em;
+}
+
+.page aside h2
+{
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+}
+
+ul li{
+    margin-bottom: 0.3em;
+    font-size: 18px;
+    padding-left: 1em;
+    list-style-position: inside;
+    color: rgb(0, 153, 0);
+}
+
+header h1{
+    font-size: 40px;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+}
+
+
+section.blockquote{
+    display: block;
+    width: 100%;
+    margin-bottom: 2em;
+}
+
+.blockquote blockquote{
+    font-family: Georgia, serif;
+    float: right;
+    font-style: italic;
+    width: 40%;
+    margin-left: 2em;
+    border-left: 2px solid gray;
+    padding-left: 2em;
+}
+
+blockquote > p.author{
+    float: right;
+}
+
+

@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net6.0\03. Largest 3 Numbers.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net6.0\03. Largest 3 Numbers.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net6.0\03. Largest 3 Numbers.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net6.0\03. Largest 3 Numbers.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net6.0\03. Largest 3 Numbers.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net6.0\refint\03. Largest 3 Numbers.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net6.0\03. Largest 3 Numbers.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\5. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net6.0\ref\03. Largest 3 Numbers.dll

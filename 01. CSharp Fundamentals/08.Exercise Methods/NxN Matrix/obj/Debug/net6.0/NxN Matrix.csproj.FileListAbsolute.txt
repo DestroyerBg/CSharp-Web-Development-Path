@@ -1,0 +1,15 @@
+D:\visual studio apps\Exercise Methods\NxN Matrix\bin\Debug\net6.0\NxN Matrix.exe
+D:\visual studio apps\Exercise Methods\NxN Matrix\bin\Debug\net6.0\NxN Matrix.deps.json
+D:\visual studio apps\Exercise Methods\NxN Matrix\bin\Debug\net6.0\NxN Matrix.runtimeconfig.json
+D:\visual studio apps\Exercise Methods\NxN Matrix\bin\Debug\net6.0\NxN Matrix.dll
+D:\visual studio apps\Exercise Methods\NxN Matrix\bin\Debug\net6.0\NxN Matrix.pdb
+D:\visual studio apps\Exercise Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.csproj.AssemblyReference.cache
+D:\visual studio apps\Exercise Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Exercise Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.AssemblyInfoInputs.cache
+D:\visual studio apps\Exercise Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.AssemblyInfo.cs
+D:\visual studio apps\Exercise Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Exercise Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.dll
+D:\visual studio apps\Exercise Methods\NxN Matrix\obj\Debug\net6.0\refint\NxN Matrix.dll
+D:\visual studio apps\Exercise Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.pdb
+D:\visual studio apps\Exercise Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.genruntimeconfig.cache
+D:\visual studio apps\Exercise Methods\NxN Matrix\obj\Debug\net6.0\ref\NxN Matrix.dll

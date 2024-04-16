@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\03.MissionPrivateImpossible\bin\Debug\net6.0\03.MissionPrivateImpossible.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\03.MissionPrivateImpossible\bin\Debug\net6.0\03.MissionPrivateImpossible.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\03.MissionPrivateImpossible\bin\Debug\net6.0\03.MissionPrivateImpossible.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\03.MissionPrivateImpossible\bin\Debug\net6.0\03.MissionPrivateImpossible.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\03.MissionPrivateImpossible\bin\Debug\net6.0\03.MissionPrivateImpossible.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\net6.0\refint\03.MissionPrivateImpossible.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\12.ReflectionАndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\net6.0\ref\03.MissionPrivateImpossible.dll

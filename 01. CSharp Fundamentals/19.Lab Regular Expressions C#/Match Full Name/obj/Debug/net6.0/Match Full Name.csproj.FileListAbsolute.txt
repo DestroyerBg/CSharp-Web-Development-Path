@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Full Name\bin\Debug\net6.0\Match Full Name.exe
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Full Name\bin\Debug\net6.0\Match Full Name.deps.json
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Full Name\bin\Debug\net6.0\Match Full Name.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Full Name\bin\Debug\net6.0\Match Full Name.dll
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Full Name\bin\Debug\net6.0\Match Full Name.pdb
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Full Name\obj\Debug\net6.0\Match Full Name.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Full Name\obj\Debug\net6.0\Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Full Name\obj\Debug\net6.0\Match Full Name.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Full Name\obj\Debug\net6.0\Match Full Name.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Full Name\obj\Debug\net6.0\Match Full Name.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Full Name\obj\Debug\net6.0\Match Full Name.dll
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Full Name\obj\Debug\net6.0\refint\Match Full Name.dll
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Full Name\obj\Debug\net6.0\Match Full Name.pdb
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Full Name\obj\Debug\net6.0\Match Full Name.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Regular Expressions C#\Match Full Name\obj\Debug\net6.0\ref\Match Full Name.dll

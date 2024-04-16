@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Race\bin\Debug\net6.0\Race.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Race\bin\Debug\net6.0\Race.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Race\bin\Debug\net6.0\Race.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Race\bin\Debug\net6.0\Race.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Race\bin\Debug\net6.0\Race.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Race\obj\Debug\net6.0\Race.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Race\obj\Debug\net6.0\Race.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Race\obj\Debug\net6.0\Race.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Race\obj\Debug\net6.0\Race.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Race\obj\Debug\net6.0\Race.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Race\obj\Debug\net6.0\Race.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Race\obj\Debug\net6.0\refint\Race.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Race\obj\Debug\net6.0\Race.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Race\obj\Debug\net6.0\Race.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Regular Expressions\Race\obj\Debug\net6.0\ref\Race.dll

@@ -1,0 +1,14 @@
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Regular Exam - 17 June 2023\02. Mouse In The Kitchen\bin\Debug\net6.0\02. Mouse In The Kitchen.exe
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Regular Exam - 17 June 2023\02. Mouse In The Kitchen\bin\Debug\net6.0\02. Mouse In The Kitchen.deps.json
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Regular Exam - 17 June 2023\02. Mouse In The Kitchen\bin\Debug\net6.0\02. Mouse In The Kitchen.runtimeconfig.json
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Regular Exam - 17 June 2023\02. Mouse In The Kitchen\bin\Debug\net6.0\02. Mouse In The Kitchen.dll
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Regular Exam - 17 June 2023\02. Mouse In The Kitchen\bin\Debug\net6.0\02. Mouse In The Kitchen.pdb
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Regular Exam - 17 June 2023\02. Mouse In The Kitchen\obj\Debug\net6.0\02. Mouse In The Kitchen.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Regular Exam - 17 June 2023\02. Mouse In The Kitchen\obj\Debug\net6.0\02. Mouse In The Kitchen.AssemblyInfoInputs.cache
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Regular Exam - 17 June 2023\02. Mouse In The Kitchen\obj\Debug\net6.0\02. Mouse In The Kitchen.AssemblyInfo.cs
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Regular Exam - 17 June 2023\02. Mouse In The Kitchen\obj\Debug\net6.0\02. Mouse In The Kitchen.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Regular Exam - 17 June 2023\02. Mouse In The Kitchen\obj\Debug\net6.0\02. Mouse In The Kitchen.dll
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Regular Exam - 17 June 2023\02. Mouse In The Kitchen\obj\Debug\net6.0\refint\02. Mouse In The Kitchen.dll
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Regular Exam - 17 June 2023\02. Mouse In The Kitchen\obj\Debug\net6.0\02. Mouse In The Kitchen.pdb
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Regular Exam - 17 June 2023\02. Mouse In The Kitchen\obj\Debug\net6.0\02. Mouse In The Kitchen.genruntimeconfig.cache
+E:\visual studio apps\Advanced Exams\C#Advanced-Exams\C# Advanced Regular Exam - 17 June 2023\02. Mouse In The Kitchen\obj\Debug\net6.0\ref\02. Mouse In The Kitchen.dll

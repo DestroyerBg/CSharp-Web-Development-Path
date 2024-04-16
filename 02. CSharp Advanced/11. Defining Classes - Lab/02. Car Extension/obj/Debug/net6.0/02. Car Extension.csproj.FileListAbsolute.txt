@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\refint\02. Car Extension.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\ref\02. Car Extension.dll

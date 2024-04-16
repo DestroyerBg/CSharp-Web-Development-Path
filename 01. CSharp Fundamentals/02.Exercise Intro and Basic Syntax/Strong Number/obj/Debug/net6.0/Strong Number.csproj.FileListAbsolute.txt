@@ -1,0 +1,30 @@
+D:\visual studio apps\Program Fundamentals C#\Ages\Strong Number\bin\Debug\net6.0\Strong Number.exe
+D:\visual studio apps\Program Fundamentals C#\Ages\Strong Number\bin\Debug\net6.0\Strong Number.deps.json
+D:\visual studio apps\Program Fundamentals C#\Ages\Strong Number\bin\Debug\net6.0\Strong Number.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Ages\Strong Number\bin\Debug\net6.0\Strong Number.dll
+D:\visual studio apps\Program Fundamentals C#\Ages\Strong Number\bin\Debug\net6.0\Strong Number.pdb
+D:\visual studio apps\Program Fundamentals C#\Ages\Strong Number\obj\Debug\net6.0\Strong Number.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Ages\Strong Number\obj\Debug\net6.0\Strong Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Ages\Strong Number\obj\Debug\net6.0\Strong Number.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Ages\Strong Number\obj\Debug\net6.0\Strong Number.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Ages\Strong Number\obj\Debug\net6.0\Strong Number.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Ages\Strong Number\obj\Debug\net6.0\Strong Number.dll
+D:\visual studio apps\Program Fundamentals C#\Ages\Strong Number\obj\Debug\net6.0\refint\Strong Number.dll
+D:\visual studio apps\Program Fundamentals C#\Ages\Strong Number\obj\Debug\net6.0\Strong Number.pdb
+D:\visual studio apps\Program Fundamentals C#\Ages\Strong Number\obj\Debug\net6.0\Strong Number.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Ages\Strong Number\obj\Debug\net6.0\ref\Strong Number.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Strong Number\bin\Debug\net6.0\Strong Number.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Strong Number\bin\Debug\net6.0\Strong Number.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Strong Number\bin\Debug\net6.0\Strong Number.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Strong Number\bin\Debug\net6.0\Strong Number.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Strong Number\bin\Debug\net6.0\Strong Number.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Strong Number\obj\Debug\net6.0\Strong Number.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Strong Number\obj\Debug\net6.0\Strong Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Strong Number\obj\Debug\net6.0\Strong Number.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Strong Number\obj\Debug\net6.0\Strong Number.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Strong Number\obj\Debug\net6.0\Strong Number.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Strong Number\obj\Debug\net6.0\Strong Number.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Strong Number\obj\Debug\net6.0\refint\Strong Number.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Strong Number\obj\Debug\net6.0\Strong Number.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Strong Number\obj\Debug\net6.0\Strong Number.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Intro and Basic Syntax\Strong Number\obj\Debug\net6.0\ref\Strong Number.dll

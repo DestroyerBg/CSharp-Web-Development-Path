@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Vehicle Catalogue\bin\Debug\net6.0\Vehicle Catalogue.exe
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Vehicle Catalogue\bin\Debug\net6.0\Vehicle Catalogue.deps.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Vehicle Catalogue\bin\Debug\net6.0\Vehicle Catalogue.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Vehicle Catalogue\bin\Debug\net6.0\Vehicle Catalogue.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Vehicle Catalogue\bin\Debug\net6.0\Vehicle Catalogue.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Vehicle Catalogue\obj\Debug\net6.0\refint\Vehicle Catalogue.dll
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.pdb
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Exercise Objects and Classes\Vehicle Catalogue\obj\Debug\net6.0\ref\Vehicle Catalogue.dll

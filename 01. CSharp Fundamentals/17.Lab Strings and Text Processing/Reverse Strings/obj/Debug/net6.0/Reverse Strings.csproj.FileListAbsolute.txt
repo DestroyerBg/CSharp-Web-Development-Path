@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Reverse Strings\bin\Debug\net6.0\Reverse Strings.exe
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Reverse Strings\bin\Debug\net6.0\Reverse Strings.deps.json
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Reverse Strings\bin\Debug\net6.0\Reverse Strings.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Reverse Strings\bin\Debug\net6.0\Reverse Strings.dll
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Reverse Strings\bin\Debug\net6.0\Reverse Strings.pdb
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Reverse Strings\obj\Debug\net6.0\Reverse Strings.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Reverse Strings\obj\Debug\net6.0\Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Reverse Strings\obj\Debug\net6.0\Reverse Strings.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Reverse Strings\obj\Debug\net6.0\Reverse Strings.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Reverse Strings\obj\Debug\net6.0\Reverse Strings.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Reverse Strings\obj\Debug\net6.0\Reverse Strings.dll
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Reverse Strings\obj\Debug\net6.0\refint\Reverse Strings.dll
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Reverse Strings\obj\Debug\net6.0\Reverse Strings.pdb
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Reverse Strings\obj\Debug\net6.0\Reverse Strings.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Lab Strings and Text Processing\Reverse Strings\obj\Debug\net6.0\ref\Reverse Strings.dll

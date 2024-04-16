@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\01.Person\bin\Debug\net6.0\Person.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\01.Person\bin\Debug\net6.0\Person.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\01.Person\bin\Debug\net6.0\Person.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\01.Person\bin\Debug\net6.0\Person.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\01.Person\bin\Debug\net6.0\Person.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\01.Person\obj\Debug\net6.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\01.Person\obj\Debug\net6.0\Person.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\01.Person\obj\Debug\net6.0\Person.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\01.Person\obj\Debug\net6.0\Person.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\01.Person\obj\Debug\net6.0\Person.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\01.Person\obj\Debug\net6.0\refint\Person.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\01.Person\obj\Debug\net6.0\Person.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\01.Person\obj\Debug\net6.0\Person.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\2.Inheritance-Exercise\01.Person\obj\Debug\net6.0\ref\Person.dll

@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\refint\01.ClassBoxData.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\4.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\ref\01.ClassBoxData.dll

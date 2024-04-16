@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Basics\bin\Debug\net6.0\List Manipulation Basics.exe
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Basics\bin\Debug\net6.0\List Manipulation Basics.deps.json
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Basics\bin\Debug\net6.0\List Manipulation Basics.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Basics\bin\Debug\net6.0\List Manipulation Basics.dll
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Basics\bin\Debug\net6.0\List Manipulation Basics.pdb
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Basics\obj\Debug\net6.0\List Manipulation Basics.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Basics\obj\Debug\net6.0\List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Basics\obj\Debug\net6.0\List Manipulation Basics.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Basics\obj\Debug\net6.0\List Manipulation Basics.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Basics\obj\Debug\net6.0\List Manipulation Basics.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Basics\obj\Debug\net6.0\List Manipulation Basics.dll
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Basics\obj\Debug\net6.0\refint\List Manipulation Basics.dll
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Basics\obj\Debug\net6.0\List Manipulation Basics.pdb
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Basics\obj\Debug\net6.0\List Manipulation Basics.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Lists - Lab\List Manipulation Basics\obj\Debug\net6.0\ref\List Manipulation Basics.dll

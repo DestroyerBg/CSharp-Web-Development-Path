@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\net6.0\04. Merge Text Files.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\net6.0\04. Merge Text Files.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\net6.0\04. Merge Text Files.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\net6.0\04. Merge Text Files.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\net6.0\04. Merge Text Files.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\net6.0\refint\04. Merge Text Files.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\net6.0\ref\04. Merge Text Files.dll

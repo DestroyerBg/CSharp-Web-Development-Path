@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\04.SetCover\bin\Debug\net6.0\SetCover.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\04.SetCover\bin\Debug\net6.0\SetCover.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\04.SetCover\bin\Debug\net6.0\SetCover.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\04.SetCover\bin\Debug\net6.0\SetCover.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\04.SetCover\bin\Debug\net6.0\SetCover.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\04.SetCover\obj\Debug\net6.0\SetCover.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\04.SetCover\obj\Debug\net6.0\SetCover.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\04.SetCover\obj\Debug\net6.0\SetCover.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\04.SetCover\obj\Debug\net6.0\SetCover.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\04.SetCover\obj\Debug\net6.0\SetCover.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\04.SetCover\obj\Debug\net6.0\refint\SetCover.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\04.SetCover\obj\Debug\net6.0\SetCover.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\04.SetCover\obj\Debug\net6.0\SetCover.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\19.BasicAlgorithms-Exercise\04.SetCover\obj\Debug\net6.0\ref\SetCover.dll

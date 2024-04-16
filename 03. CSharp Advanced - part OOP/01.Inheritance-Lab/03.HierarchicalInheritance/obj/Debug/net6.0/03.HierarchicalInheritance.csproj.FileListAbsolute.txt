@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\net6.0\03.HierarchicalInheritance.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\net6.0\03.HierarchicalInheritance.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\net6.0\03.HierarchicalInheritance.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\net6.0\03.HierarchicalInheritance.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\net6.0\03.HierarchicalInheritance.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net6.0\refint\03.HierarchicalInheritance.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\1.Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net6.0\ref\03.HierarchicalInheritance.dll

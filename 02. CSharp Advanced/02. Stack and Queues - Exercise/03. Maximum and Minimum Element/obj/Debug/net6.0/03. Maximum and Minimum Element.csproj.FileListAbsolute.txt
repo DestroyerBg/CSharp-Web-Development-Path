@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\03. Maximum and\bin\Debug\net6.0\03. Maximum and Minimum Element.exe
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\03. Maximum and\bin\Debug\net6.0\03. Maximum and Minimum Element.deps.json
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\03. Maximum and\bin\Debug\net6.0\03. Maximum and Minimum Element.runtimeconfig.json
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\03. Maximum and\bin\Debug\net6.0\03. Maximum and Minimum Element.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\03. Maximum and\bin\Debug\net6.0\03. Maximum and Minimum Element.pdb
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\03. Maximum and\obj\Debug\net6.0\03. Maximum and Minimum Element.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\03. Maximum and\obj\Debug\net6.0\03. Maximum and Minimum Element.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\03. Maximum and\obj\Debug\net6.0\03. Maximum and Minimum Element.AssemblyInfo.cs
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\03. Maximum and\obj\Debug\net6.0\03. Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\03. Maximum and\obj\Debug\net6.0\03. Maximum and Minimum Element.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\03. Maximum and\obj\Debug\net6.0\refint\03. Maximum and Minimum Element.dll
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\03. Maximum and\obj\Debug\net6.0\03. Maximum and Minimum Element.pdb
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\03. Maximum and\obj\Debug\net6.0\03. Maximum and Minimum Element.genruntimeconfig.cache
+E:\visual studio apps\Programing Advaced CSharp May 2023\Programing-Advanced-CSharp-September-2023\2.Stacks and Queues - Exercise\03. Maximum and\obj\Debug\net6.0\ref\03. Maximum and Minimum Element.dll

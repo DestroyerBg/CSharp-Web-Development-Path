@@ -1,0 +1,14 @@
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net6.0\03. Word Synonyms.exe
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net6.0\03. Word Synonyms.deps.json
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net6.0\03. Word Synonyms.runtimeconfig.json
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net6.0\03. Word Synonyms.dll
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net6.0\03. Word Synonyms.pdb
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net6.0\03. Word Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net6.0\03. Word Synonyms.AssemblyInfoInputs.cache
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net6.0\03. Word Synonyms.AssemblyInfo.cs
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net6.0\03. Word Synonyms.csproj.CoreCompileInputs.cache
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net6.0\03. Word Synonyms.dll
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net6.0\refint\03. Word Synonyms.dll
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net6.0\03. Word Synonyms.pdb
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net6.0\03. Word Synonyms.genruntimeconfig.cache
+F:\visual studio apps\Program Fundamentals C#\14.Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net6.0\ref\03. Word Synonyms.dll

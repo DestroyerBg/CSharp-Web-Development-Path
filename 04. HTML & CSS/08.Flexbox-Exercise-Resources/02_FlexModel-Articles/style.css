@@ -1,0 +1,15 @@
+html{
+    font: 15px/1.5 Helvetica, sans-serif;
+}
+
+h2{
+    font: 30px/1.2 Georgia, serif;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+    max-width: 70vw;
+    gap:50px;
+    margin: 2em auto;
+}

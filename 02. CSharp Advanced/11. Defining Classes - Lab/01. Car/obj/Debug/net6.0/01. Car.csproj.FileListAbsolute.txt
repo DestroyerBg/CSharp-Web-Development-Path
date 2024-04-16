@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\01. Car\obj\Debug\net6.0\refint\01. Car.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\11. Defining Classes - Lab\01. Car\obj\Debug\net6.0\ref\01. Car.dll

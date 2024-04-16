@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap');
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.css');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font: 14px/1.5 Inter ;
+    display: flex;
+    flex-direction: column;
+}
+
+body header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #D9D9D9;
+}
+
+header nav{
+    padding: 20px 60px;
+}
+
+header nav ul li{
+    display: inline;
+    font-size: 20px;
+    margin-right: 42px;
+}
+
+header a.buy{
+    margin: 20px 60px;
+    text-decoration: none;
+    background-color: #ffff;
+    border: 1px solid black;
+    padding: 0.3em 0.6em;
+    font-size: 17px;
+    border-radius: 0.3em;
+}
+
+section.advertise{
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center bottom; 
+    background-size: cover; 
+    height: 770px;
+}
+
+.advertise h1{
+    margin-top: 200px;
+    margin-left: 300px;
+    font-size: 62px;
+    width: 800px;
+}
+
+.advertise p{
+    margin-left: 305px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    font-size: 24px;
+    font-weight: bold;
+    width: 750px;
+    color:white;
+}
+
+a.get-started{
+    margin-left: 305px;
+    margin-top: 2em;
+    text-decoration: none;
+    background-color: black;
+    color:white;
+    border-radius: 0.4em;
+    padding: 1.2em 2em;
+    font-size: 15px;
+}
+
+div.progress-counter{
+    display: flex;
+    justify-content: space-between;
+    padding: 150px 110px;
+}
+
+.progress-counter .progress{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.progress h2{
+    color:#FF7C4C;
+    margin-bottom: 40px;
+    font-size: 61px;
+}
+
+.progress p{
+    font-size: 23px;
+    font-weight: 500;
+    color: black;
+}
+
+.progress p.description{
+    font-size: 18px;
+    font-weight: normal;
+}
+
+main.content{
+    background-color: #D9D9D9;
+    display: flex;
+    flex-direction: column;
+    gap:3em;
+    padding: 4em;
+}
+
+.content .tag{
+    display: flex;
+    gap:2.8em;
+}
+.tag img{
+   display: block;
+   width: 630px;
+   height: 425px;
+}
+
+p.enterprice{
+    opacity:0.8;
+    font-size: 23px;
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+}
+
+.content h2{
+    font-size: 40px;
+    margin-bottom: 1.2em;
+}
+
+p.description{
+    opacity: 0.8;
+    font-size: 20px;
+    width: 90%;
+}
+
+a.read-more{
+    margin-top: 1em;
+    text-decoration: none;
+    font-size: 20px;
+    color:black;
+    font-weight: 600;
+}
+
+p.author{
+    margin-top: 4em;
+    font-size: 18px;
+    opacity: 0.8;
+}
+
+div.pricing{
+    background-color: #F5f5F5;
+}
+
+.pricing section{
+    background-color: white;
+    width: 93vw;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;   
+    padding-left: 0.8em;
+    padding-right: 0.8em;
+}
+
+.pricing .text{
+    margin-top: 4em;
+    margin-bottom: 10em;
+    flex: 0 0 33%;
+}
+
+.text h2{
+    font-size: 41px;
+    margin-bottom: 1.2em;
+}
+
+.text p{
+    font-size: 20px;
+    opacity: 0.6;
+}
+
+.free-plan{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 4em;
+    background-color: #FF7C4C;
+   
+}
+.free-plan,
+.paid-plan{
+    flex: 0 0 28%;
+    margin-bottom: 2em;
+}
+
+
+.free-plan h1,
+.paid-plan h1{
+    font-size: 44px;
+    margin-bottom: 1em;
+}
+
+.free-plan p,
+.paid-plan p{
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    font-size: 20px;    
+}
+
+
+p.free{
+    padding-top: 1.5em;
+    font-size: 33px;
+    padding: 1em;
+}
+
+.highlight{
+    font-weight: bold;
+}
+
+
+.paid-plan{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 4em;
+    background-color: black;
+    color:white;
+}
+
+.free-plan a{
+    background: black;
+    color:white;
+    text-decoration: none;
+    padding: 1em 2em;
+    margin-bottom: 1.8em;
+    margin-top: 1em;
+    border-radius: 0.4em;
+}
+
+
+.paid-plan a{
+    background: white;
+    text-decoration: none;
+    padding: 1em 2em;
+    margin-bottom: 1.8em;
+    margin-top: 1em;
+    border-radius: 0.4em;
+}
+
+
+footer{
+    background-color: #D9D9D9;
+    display: flex;
+    padding: 3em;
+    justify-content: space-around;
+}
+
+

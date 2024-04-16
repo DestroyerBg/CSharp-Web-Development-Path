@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\06.EqualityLogic\bin\Debug\net6.0\06.EqualityLogic.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\06.EqualityLogic\bin\Debug\net6.0\06.EqualityLogic.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\06.EqualityLogic\bin\Debug\net6.0\06.EqualityLogic.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\06.EqualityLogic\bin\Debug\net6.0\06.EqualityLogic.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\06.EqualityLogic\bin\Debug\net6.0\06.EqualityLogic.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\06.EqualityLogic\obj\Debug\net6.0\06.EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\06.EqualityLogic\obj\Debug\net6.0\06.EqualityLogic.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\06.EqualityLogic\obj\Debug\net6.0\06.EqualityLogic.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\06.EqualityLogic\obj\Debug\net6.0\06.EqualityLogic.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\06.EqualityLogic\obj\Debug\net6.0\06.EqualityLogic.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\06.EqualityLogic\obj\Debug\net6.0\refint\06.EqualityLogic.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\06.EqualityLogic\obj\Debug\net6.0\06.EqualityLogic.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\06.EqualityLogic\obj\Debug\net6.0\06.EqualityLogic.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\18.IteratorsАndComparatorsExercise\06.EqualityLogic\obj\Debug\net6.0\ref\06.EqualityLogic.dll

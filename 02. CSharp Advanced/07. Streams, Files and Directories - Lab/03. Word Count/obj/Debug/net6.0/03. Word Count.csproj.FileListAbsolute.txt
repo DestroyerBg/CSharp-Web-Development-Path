@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net6.0\03. Word Count.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net6.0\03. Word Count.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net6.0\03. Word Count.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net6.0\03. Word Count.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net6.0\03. Word Count.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\refint\03. Word Count.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\7. Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\ref\03. Word Count.dll

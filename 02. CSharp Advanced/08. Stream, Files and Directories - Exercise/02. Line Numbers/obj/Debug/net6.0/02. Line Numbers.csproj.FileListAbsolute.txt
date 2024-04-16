@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\refint\02. Line Numbers.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\8. Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\ref\02. Line Numbers.dll

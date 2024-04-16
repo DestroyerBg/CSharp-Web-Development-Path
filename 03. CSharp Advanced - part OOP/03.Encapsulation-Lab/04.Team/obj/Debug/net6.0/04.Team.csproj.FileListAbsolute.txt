@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\04.Team\bin\Debug\net6.0\04.Team.exe
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\04.Team\bin\Debug\net6.0\04.Team.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\04.Team\bin\Debug\net6.0\04.Team.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\04.Team\bin\Debug\net6.0\04.Team.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\04.Team\bin\Debug\net6.0\04.Team.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\04.Team\obj\Debug\net6.0\04.Team.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\04.Team\obj\Debug\net6.0\04.Team.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\04.Team\obj\Debug\net6.0\04.Team.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\04.Team\obj\Debug\net6.0\04.Team.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\04.Team\obj\Debug\net6.0\04.Team.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\04.Team\obj\Debug\net6.0\refint\04.Team.dll
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\04.Team\obj\Debug\net6.0\04.Team.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\04.Team\obj\Debug\net6.0\04.Team.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-Part-OOP-October-2023\3.Encapsulation-Lab\04.Team\obj\Debug\net6.0\ref\04.Team.dll

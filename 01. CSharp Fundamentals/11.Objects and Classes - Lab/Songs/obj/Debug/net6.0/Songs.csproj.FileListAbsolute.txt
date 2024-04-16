@@ -1,0 +1,15 @@
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - Lab\Songs\obj\Debug\net6.0\Songs.csproj.AssemblyReference.cache
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - Lab\Songs\obj\Debug\net6.0\Songs.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - Lab\Songs\obj\Debug\net6.0\Songs.AssemblyInfoInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - Lab\Songs\obj\Debug\net6.0\Songs.AssemblyInfo.cs
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - Lab\Songs\obj\Debug\net6.0\Songs.csproj.CoreCompileInputs.cache
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - Lab\Songs\bin\Debug\net6.0\Songs.exe
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - Lab\Songs\bin\Debug\net6.0\Songs.deps.json
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - Lab\Songs\bin\Debug\net6.0\Songs.runtimeconfig.json
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - Lab\Songs\bin\Debug\net6.0\Songs.dll
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - Lab\Songs\bin\Debug\net6.0\Songs.pdb
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - Lab\Songs\obj\Debug\net6.0\Songs.dll
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - Lab\Songs\obj\Debug\net6.0\refint\Songs.dll
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - Lab\Songs\obj\Debug\net6.0\Songs.pdb
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - Lab\Songs\obj\Debug\net6.0\Songs.genruntimeconfig.cache
+D:\visual studio apps\Program Fundamentals C#\Objects and Classes - Lab\Songs\obj\Debug\net6.0\ref\Songs.dll

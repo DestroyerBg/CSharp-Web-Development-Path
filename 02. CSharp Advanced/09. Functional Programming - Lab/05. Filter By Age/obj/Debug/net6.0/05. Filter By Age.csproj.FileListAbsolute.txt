@@ -1,0 +1,14 @@
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.AssemblyInfoInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.AssemblyInfo.cs
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.csproj.CoreCompileInputs.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\05. Filter By Age\bin\Debug\net6.0\05. Filter By Age.exe
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\05. Filter By Age\bin\Debug\net6.0\05. Filter By Age.deps.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\05. Filter By Age\bin\Debug\net6.0\05. Filter By Age.runtimeconfig.json
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\05. Filter By Age\bin\Debug\net6.0\05. Filter By Age.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\05. Filter By Age\bin\Debug\net6.0\05. Filter By Age.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\05. Filter By Age\obj\Debug\net6.0\refint\05. Filter By Age.dll
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.pdb
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.genruntimeconfig.cache
+E:\visual studio apps\Programing-Advanced-CSharp-September-2023\9. Functional Programming - Lab\05. Filter By Age\obj\Debug\net6.0\ref\05. Filter By Age.dll
