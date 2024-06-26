@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\SoftUni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38D34D27-2AEF-45EB-A08D-A95807335364}|SoftUni\\SoftUni.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\02. exercises introduction to entity framework\\softuni\\softuni\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D34D27-2AEF-45EB-A08D-A95807335364}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D34D27-2AEF-45EB-A08D-A95807335364}|SoftUni\\SoftUni.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\02. exercises introduction to entity framework\\softuni\\softuni\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D34D27-2AEF-45EB-A08D-A95807335364}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D34D27-2AEF-45EB-A08D-A95807335364}|SoftUni\\SoftUni.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\02. exercises introduction to entity framework\\softuni\\softuni\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D34D27-2AEF-45EB-A08D-A95807335364}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D34D27-2AEF-45EB-A08D-A95807335364}|SoftUni\\SoftUni.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\02. exercises introduction to entity framework\\softuni\\softuni\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D34D27-2AEF-45EB-A08D-A95807335364}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D34D27-2AEF-45EB-A08D-A95807335364}|SoftUni\\SoftUni.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\02. exercises introduction to entity framework\\softuni\\softuni\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D34D27-2AEF-45EB-A08D-A95807335364}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D34D27-2AEF-45EB-A08D-A95807335364}|SoftUni\\SoftUni.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\02. exercises introduction to entity framework\\softuni\\softuni\\models\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D34D27-2AEF-45EB-A08D-A95807335364}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D34D27-2AEF-45EB-A08D-A95807335364}|SoftUni\\SoftUni.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\02. exercises introduction to entity framework\\softuni\\softuni\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D34D27-2AEF-45EB-A08D-A95807335364}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Town.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\SoftUni\\SoftUni\\Models\\Town.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\Town.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\SoftUni\\SoftUni\\Models\\Town.cs",
+              "RelativeToolTip": "SoftUni\\Models\\Town.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:06:32.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Address.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\SoftUni\\SoftUni\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\Address.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\SoftUni\\SoftUni\\Models\\Address.cs",
+              "RelativeToolTip": "SoftUni\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:34:30.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoftUniContext.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\SoftUni\\SoftUni\\Data\\SoftUniContext.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Data\\SoftUniContext.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\SoftUni\\SoftUni\\Data\\SoftUniContext.cs",
+              "RelativeToolTip": "SoftUni\\Data\\SoftUniContext.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAkwJ0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:00:51.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\SoftUni\\SoftUni\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\Project.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\SoftUni\\SoftUni\\Models\\Project.cs",
+              "RelativeToolTip": "SoftUni\\Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:00:05.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\SoftUni\\SoftUni\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\Employee.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\SoftUni\\SoftUni\\Models\\Employee.cs",
+              "RelativeToolTip": "SoftUni\\Models\\Employee.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:58:05.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeProject.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\SoftUni\\SoftUni\\Models\\EmployeeProject.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\EmployeeProject.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\SoftUni\\SoftUni\\Models\\EmployeeProject.cs",
+              "RelativeToolTip": "SoftUni\\Models\\EmployeeProject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:58:21.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\SoftUni\\SoftUni\\StartUp.cs",
+              "RelativeDocumentMoniker": "SoftUni\\StartUp.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\SoftUni\\SoftUni\\StartUp.cs",
+              "RelativeToolTip": "SoftUni\\StartUp.cs",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAYwDQBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:53:26.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

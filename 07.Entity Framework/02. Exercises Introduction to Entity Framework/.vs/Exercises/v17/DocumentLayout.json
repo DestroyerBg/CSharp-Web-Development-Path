@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{209613D1-2E72-4A2E-861C-DA15797E4398}|Entity Framework Introduction\\Entity Framework Introduction.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\02. exercises introduction to entity framework\\entity framework introduction\\data\\models\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209613D1-2E72-4A2E-861C-DA15797E4398}|Entity Framework Introduction\\Entity Framework Introduction.csproj|solutionrelative:entity framework introduction\\data\\models\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209613D1-2E72-4A2E-861C-DA15797E4398}|Entity Framework Introduction\\Entity Framework Introduction.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\02. exercises introduction to entity framework\\entity framework introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209613D1-2E72-4A2E-861C-DA15797E4398}|Entity Framework Introduction\\Entity Framework Introduction.csproj|solutionrelative:entity framework introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoftUniContext.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\Entity Framework Introduction\\Data\\Models\\SoftUniContext.cs",
+              "RelativeDocumentMoniker": "Entity Framework Introduction\\Data\\Models\\SoftUniContext.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\Entity Framework Introduction\\Data\\Models\\SoftUniContext.cs",
+              "RelativeToolTip": "Entity Framework Introduction\\Data\\Models\\SoftUniContext.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAYwAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:50:49.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\Entity Framework Introduction\\Program.cs",
+              "RelativeDocumentMoniker": "Entity Framework Introduction\\Program.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\02. Exercises Introduction to Entity Framework\\Entity Framework Introduction\\Program.cs",
+              "RelativeToolTip": "Entity Framework Introduction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:50:06.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
