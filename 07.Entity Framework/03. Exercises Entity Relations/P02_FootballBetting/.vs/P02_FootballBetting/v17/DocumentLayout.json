@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628135719_AllTestsCompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P02_FootballBetting.Data\\Migrations\\20240628135719_AllTestsCompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADC7840-786C-4573-B0C1-D2852FEED8F3}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\03. exercises entity relations\\p02_footballbetting\\p02_footballbetting.data.models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADC7840-786C-4573-B0C1-D2852FEED8F3}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|solutionrelative:p02_footballbetting.data.models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0FAA0C-0A2C-4A95-A131-76C92CB54AC4}|DatabaseTests\\DatabaseTests.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\03. exercises entity relations\\p02_footballbetting\\databasetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0FAA0C-0A2C-4A95-A131-76C92CB54AC4}|DatabaseTests\\DatabaseTests.csproj|solutionrelative:databasetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADC7840-786C-4573-B0C1-D2852FEED8F3}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\03. exercises entity relations\\p02_footballbetting\\p02_footballbetting.data.models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADC7840-786C-4573-B0C1-D2852FEED8F3}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|solutionrelative:p02_footballbetting.data.models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADC7840-786C-4573-B0C1-D2852FEED8F3}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\03. exercises entity relations\\p02_footballbetting\\p02_footballbetting.data.models\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADC7840-786C-4573-B0C1-D2852FEED8F3}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|solutionrelative:p02_footballbetting.data.models\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADC7840-786C-4573-B0C1-D2852FEED8F3}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\03. exercises entity relations\\p02_footballbetting\\p02_footballbetting.data.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADC7840-786C-4573-B0C1-D2852FEED8F3}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|solutionrelative:p02_footballbetting.data.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628110526_EditedProperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P02_FootballBetting.Data\\Migrations\\20240628110526_EditedProperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628105952_PlayersStatisticsEdited.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P02_FootballBetting.Data\\Migrations\\20240628105952_PlayersStatisticsEdited.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55186B2E-D45B-4F95-9559-75CD7A76C33F}|P02_FootballBetting.Data\\P02_FootballBetting.Data.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\03. exercises entity relations\\p02_footballbetting\\p02_footballbetting.data\\footballbettingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55186B2E-D45B-4F95-9559-75CD7A76C33F}|P02_FootballBetting.Data\\P02_FootballBetting.Data.csproj|solutionrelative:p02_footballbetting.data\\footballbettingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF45ACAE-7B9A-41C2-AF40-137A71196AB5}|P02_FootballBetting\\P02_FootballBetting.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\03. exercises entity relations\\p02_footballbetting\\p02_footballbetting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF45ACAE-7B9A-41C2-AF40-137A71196AB5}|P02_FootballBetting\\P02_FootballBetting.csproj|solutionrelative:p02_footballbetting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628104421_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P02_FootballBetting.Data\\Migrations\\20240628104421_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628104204_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P02_FootballBetting.Data\\Migrations\\20240628104204_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADC7840-786C-4573-B0C1-D2852FEED8F3}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\03. exercises entity relations\\p02_footballbetting\\p02_footballbetting.data.models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADC7840-786C-4573-B0C1-D2852FEED8F3}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|solutionrelative:p02_footballbetting.data.models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628103431_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P02_FootballBetting.Data\\Migrations\\20240628103431_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628103233_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P02_FootballBetting.Data\\Migrations\\20240628103233_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95468840-FCA8-4041-8484-05112E1255B7}|P02_FootballBetting.Common\\P02_FootballBetting.Common.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\03. exercises entity relations\\p02_footballbetting\\p02_footballbetting.common\\databaseconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95468840-FCA8-4041-8484-05112E1255B7}|P02_FootballBetting.Common\\P02_FootballBetting.Common.csproj|solutionrelative:p02_footballbetting.common\\databaseconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628101508_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P02_FootballBetting.Data\\Migrations\\20240628101508_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADC7840-786C-4573-B0C1-D2852FEED8F3}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\03. exercises entity relations\\p02_footballbetting\\p02_footballbetting.data.models\\playerstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADC7840-786C-4573-B0C1-D2852FEED8F3}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|solutionrelative:p02_footballbetting.data.models\\playerstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55186B2E-D45B-4F95-9559-75CD7A76C33F}|P02_FootballBetting.Data\\P02_FootballBetting.Data.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\03. exercises entity relations\\p02_footballbetting\\p02_footballbetting.data\\migrations\\20240628104638_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55186B2E-D45B-4F95-9559-75CD7A76C33F}|P02_FootballBetting.Data\\P02_FootballBetting.Data.csproj|solutionrelative:p02_footballbetting.data\\migrations\\20240628104638_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240628135719_AllTestsCompleted.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628135719_AllTestsCompleted.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data\\Migrations\\20240628135719_AllTestsCompleted.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628135719_AllTestsCompleted.cs",
+              "RelativeToolTip": "P02_FootballBetting.Data\\Migrations\\20240628135719_AllTestsCompleted.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:57:19.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Town.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data.Models\\Town.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data.Models\\Town.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data.Models\\Town.cs",
+              "RelativeToolTip": "P02_FootballBetting.Data.Models\\Town.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:08:04.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240628110526_EditedProperties.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628110526_EditedProperties.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data\\Migrations\\20240628110526_EditedProperties.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628110526_EditedProperties.cs",
+              "RelativeToolTip": "P02_FootballBetting.Data\\Migrations\\20240628110526_EditedProperties.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:05:26.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data.Models\\User.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data.Models\\User.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data.Models\\User.cs",
+              "RelativeToolTip": "P02_FootballBetting.Data.Models\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:04:52.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\DatabaseTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "DatabaseTests\\UnitTest1.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\DatabaseTests\\UnitTest1.cs",
+              "RelativeToolTip": "DatabaseTests\\UnitTest1.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAowFcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:01:53.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240628105952_PlayersStatisticsEdited.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628105952_PlayersStatisticsEdited.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data\\Migrations\\20240628105952_PlayersStatisticsEdited.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628105952_PlayersStatisticsEdited.cs",
+              "RelativeToolTip": "P02_FootballBetting.Data\\Migrations\\20240628105952_PlayersStatisticsEdited.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:59:52.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240628104421_InitialMigration.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628104421_InitialMigration.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data\\Migrations\\20240628104421_InitialMigration.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628104421_InitialMigration.cs",
+              "RelativeToolTip": "P02_FootballBetting.Data\\Migrations\\20240628104421_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:44:21.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240628104204_InitialMigration.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628104204_InitialMigration.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data\\Migrations\\20240628104204_InitialMigration.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628104204_InitialMigration.cs",
+              "RelativeToolTip": "P02_FootballBetting.Data\\Migrations\\20240628104204_InitialMigration.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:42:05.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data.Models\\Game.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data.Models\\Game.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data.Models\\Game.cs",
+              "RelativeToolTip": "P02_FootballBetting.Data.Models\\Game.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAIAwwA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T09:29:23.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data.Models\\Player.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data.Models\\Player.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data.Models\\Player.cs",
+              "RelativeToolTip": "P02_FootballBetting.Data.Models\\Player.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T09:35:45.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240628104638_InitialMigration.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628104638_InitialMigration.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data\\Migrations\\20240628104638_InitialMigration.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628104638_InitialMigration.cs",
+              "RelativeToolTip": "P02_FootballBetting.Data\\Migrations\\20240628104638_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:46:38.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240628103431_InitialMigration.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628103431_InitialMigration.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data\\Migrations\\20240628103431_InitialMigration.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628103431_InitialMigration.cs",
+              "RelativeToolTip": "P02_FootballBetting.Data\\Migrations\\20240628103431_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:34:31.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Team.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data.Models\\Team.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data.Models\\Team.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data.Models\\Team.cs",
+              "RelativeToolTip": "P02_FootballBetting.Data.Models\\Team.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:11:36.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting\\Program.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting\\Program.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting\\Program.cs",
+              "RelativeToolTip": "P02_FootballBetting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:46:26.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FootballBettingContext.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\FootballBettingContext.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data\\FootballBettingContext.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\FootballBettingContext.cs",
+              "RelativeToolTip": "P02_FootballBetting.Data\\FootballBettingContext.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAmwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:51:16.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240628103233_InitialMigration.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628103233_InitialMigration.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data\\Migrations\\20240628103233_InitialMigration.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628103233_InitialMigration.cs",
+              "RelativeToolTip": "P02_FootballBetting.Data\\Migrations\\20240628103233_InitialMigration.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:32:33.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DatabaseConstraints.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Common\\DatabaseConstraints.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Common\\DatabaseConstraints.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Common\\DatabaseConstraints.cs",
+              "RelativeToolTip": "P02_FootballBetting.Common\\DatabaseConstraints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:14:07.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240628101508_InitialMigration.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628101508_InitialMigration.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data\\Migrations\\20240628101508_InitialMigration.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data\\Migrations\\20240628101508_InitialMigration.cs",
+              "RelativeToolTip": "P02_FootballBetting.Data\\Migrations\\20240628101508_InitialMigration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:15:08.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlayerStatistic.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data.Models\\PlayerStatistic.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data.Models\\PlayerStatistic.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\03. Exercises Entity Relations\\P02_FootballBetting\\P02_FootballBetting.Data.Models\\PlayerStatistic.cs",
+              "RelativeToolTip": "P02_FootballBetting.Data.Models\\PlayerStatistic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T09:42:44.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
