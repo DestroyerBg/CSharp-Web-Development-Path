@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\05. Exercises Advanced Querying\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05ABA8C7-E9FF-4DD2-9FA7-C17A37174890}|BookShop\\BookShop.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\05. exercises advanced querying\\bookshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ABA8C7-E9FF-4DD2-9FA7-C17A37174890}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99206728-DF95-49A3-B875-952A8CE2DB14}|DatabaseTests\\DatabaseTests.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\05. exercises advanced querying\\databasetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99206728-DF95-49A3-B875-952A8CE2DB14}|DatabaseTests\\DatabaseTests.csproj|solutionrelative:databasetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\05. exercises advanced querying\\bookshop.models\\enums\\agerestriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|solutionrelative:bookshop.models\\enums\\agerestriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\05. exercises advanced querying\\bookshop.models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|solutionrelative:bookshop.models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\05. Exercises Advanced Querying\\DatabaseTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "DatabaseTests\\UnitTest1.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\05. Exercises Advanced Querying\\DatabaseTests\\UnitTest1.cs",
+              "RelativeToolTip": "DatabaseTests\\UnitTest1.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwC4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:15:46.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgeRestriction.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\05. Exercises Advanced Querying\\BookShop.Models\\Enums\\AgeRestriction.cs",
+              "RelativeDocumentMoniker": "BookShop.Models\\Enums\\AgeRestriction.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\05. Exercises Advanced Querying\\BookShop.Models\\Enums\\AgeRestriction.cs",
+              "RelativeToolTip": "BookShop.Models\\Enums\\AgeRestriction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:51:22.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\05. Exercises Advanced Querying\\BookShop.Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookShop.Models\\Book.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\05. Exercises Advanced Querying\\BookShop.Models\\Book.cs",
+              "RelativeToolTip": "BookShop.Models\\Book.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:14:28.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\05. Exercises Advanced Querying\\BookShop\\StartUp.cs",
+              "RelativeDocumentMoniker": "BookShop\\StartUp.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\05. Exercises Advanced Querying\\BookShop\\StartUp.cs",
+              "RelativeToolTip": "BookShop\\StartUp.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAiwNsAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:56:59.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
