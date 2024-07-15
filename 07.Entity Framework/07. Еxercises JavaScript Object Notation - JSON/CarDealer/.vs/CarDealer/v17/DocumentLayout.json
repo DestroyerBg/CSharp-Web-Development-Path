@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\cardealer\\cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF4B6AD-E2F7-42EF-B634-F9C90AB317DF}|TestProject1\\TestProject1.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\cardealer\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF4B6AD-E2F7-42EF-B634-F9C90AB317DF}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\cardealer\\cardealer\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\cardealer\\cardealer\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\cardealer\\cardealer\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\cardealer\\cardealer\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\cardealer\\cardealer\\datasets\\customers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\datasets\\customers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\cardealer\\cardealer\\dtos\\export\\suppliersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\suppliersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\cardealer\\cardealer\\dtos\\import\\carimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\carimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\cardealer\\cardealer\\datasets\\cars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\datasets\\cars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\cardealer\\cardealer\\models\\partcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\partcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\cardealer\\cardealer\\migrations\\20240713134918_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\migrations\\20240713134918_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Sale.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\Models\\Sale.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Sale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:48:30.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Supplier.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\Models\\Supplier.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:46:59.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Customer.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\Models\\Customer.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:42:40.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "customers.json",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\Datasets\\customers.json",
+              "RelativeDocumentMoniker": "CarDealer\\Datasets\\customers.json",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\Datasets\\customers.json",
+              "RelativeToolTip": "CarDealer\\Datasets\\customers.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T08:42:27.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SuppliersDTO.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\DTOs\\Export\\SuppliersDTO.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\SuppliersDTO.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\DTOs\\Export\\SuppliersDTO.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\SuppliersDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T17:50:10.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarImportDTO.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\DTOs\\Import\\CarImportDTO.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\CarImportDTO.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\DTOs\\Import\\CarImportDTO.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\CarImportDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:54:22.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Car.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\Models\\Car.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:52:49.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PartCar.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\Models\\PartCar.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\PartCar.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\Models\\PartCar.cs",
+              "RelativeToolTip": "CarDealer\\Models\\PartCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:44:25.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T20:09:25.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cars.json",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\Datasets\\cars.json",
+              "RelativeDocumentMoniker": "CarDealer\\Datasets\\cars.json",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\Datasets\\cars.json",
+              "RelativeToolTip": "CarDealer\\Datasets\\cars.json",
+              "ViewState": "AQIAABgAAAAAAAAAAAASwCkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-13T20:05:04.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240713134918_InitialMigration.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\Migrations\\20240713134918_InitialMigration.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Migrations\\20240713134918_InitialMigration.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\Migrations\\20240713134918_InitialMigration.cs",
+              "RelativeToolTip": "CarDealer\\Migrations\\20240713134918_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T13:49:18.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\StartUp.cs",
+              "RelativeDocumentMoniker": "CarDealer\\StartUp.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\CarDealer\\CarDealer\\StartUp.cs",
+              "RelativeToolTip": "CarDealer\\StartUp.cs",
+              "ViewState": "AQIAAPkAAAAAAAAAAAA7wCIBAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:32:07.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

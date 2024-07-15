@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\ProductShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C74BDD-41CE-4641-AD05-943AB414D7A9}|ProductShop\\ProductShop.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\productshop\\productshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C74BDD-41CE-4641-AD05-943AB414D7A9}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E2417C-08E2-4491-8FF9-806054239FFD}|TestProject1\\TestProject1.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\productshop\\testproject1\\expected.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9E2417C-08E2-4491-8FF9-806054239FFD}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\expected.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E2417C-08E2-4491-8FF9-806054239FFD}|TestProject1\\TestProject1.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\productshop\\testproject1\\actual.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9E2417C-08E2-4491-8FF9-806054239FFD}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\actual.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E2417C-08E2-4491-8FF9-806054239FFD}|TestProject1\\TestProject1.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\productshop\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E2417C-08E2-4491-8FF9-806054239FFD}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C74BDD-41CE-4641-AD05-943AB414D7A9}|ProductShop\\ProductShop.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\productshop\\productshop\\utilities\\jsonparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C74BDD-41CE-4641-AD05-943AB414D7A9}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\utilities\\jsonparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C74BDD-41CE-4641-AD05-943AB414D7A9}|ProductShop\\ProductShop.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\productshop\\productshop\\datasets\\categories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0C74BDD-41CE-4641-AD05-943AB414D7A9}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\datasets\\categories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C74BDD-41CE-4641-AD05-943AB414D7A9}|ProductShop\\ProductShop.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\productshop\\productshop\\data\\productshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C74BDD-41CE-4641-AD05-943AB414D7A9}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\data\\productshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C74BDD-41CE-4641-AD05-943AB414D7A9}|ProductShop\\ProductShop.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\07. \u0435xercises javascript object notation - json\\productshop\\productshop\\dtos\\export\\categoriesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C74BDD-41CE-4641-AD05-943AB414D7A9}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\export\\categoriesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "expected.json",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\ProductShop\\TestProject1\\expected.json",
+              "RelativeDocumentMoniker": "TestProject1\\expected.json",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\ProductShop\\TestProject1\\expected.json",
+              "RelativeToolTip": "TestProject1\\expected.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-13T09:44:28.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "actual.json",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\ProductShop\\TestProject1\\actual.json",
+              "RelativeDocumentMoniker": "TestProject1\\actual.json",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\ProductShop\\TestProject1\\actual.json",
+              "RelativeToolTip": "TestProject1\\actual.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANsEAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-13T09:44:43.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\ProductShop\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\ProductShop\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAIA2wDYAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:20:09.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "categories.json",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\ProductShop\\ProductShop\\Datasets\\categories.json",
+              "RelativeDocumentMoniker": "ProductShop\\Datasets\\categories.json",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\ProductShop\\ProductShop\\Datasets\\categories.json",
+              "RelativeToolTip": "ProductShop\\Datasets\\categories.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAABRwB8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-13T08:58:03.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductShopContext.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\ProductShop\\ProductShop\\Data\\ProductShopContext.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Data\\ProductShopContext.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\ProductShop\\ProductShop\\Data\\ProductShopContext.cs",
+              "RelativeToolTip": "ProductShop\\Data\\ProductShopContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T08:29:03.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JsonParser.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\ProductShop\\ProductShop\\Utilities\\JsonParser.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Utilities\\JsonParser.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\ProductShop\\ProductShop\\Utilities\\JsonParser.cs",
+              "RelativeToolTip": "ProductShop\\Utilities\\JsonParser.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T08:23:45.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriesDTO.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\ProductShop\\ProductShop\\DTOs\\Export\\CategoriesDTO.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Export\\CategoriesDTO.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\ProductShop\\ProductShop\\DTOs\\Export\\CategoriesDTO.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Export\\CategoriesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:26:28.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\ProductShop\\ProductShop\\StartUp.cs",
+              "RelativeDocumentMoniker": "ProductShop\\StartUp.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\07. \u0415xercises JavaScript Object Notation - JSON\\ProductShop\\ProductShop\\StartUp.cs",
+              "RelativeToolTip": "ProductShop\\StartUp.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAAALsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:58:05.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
