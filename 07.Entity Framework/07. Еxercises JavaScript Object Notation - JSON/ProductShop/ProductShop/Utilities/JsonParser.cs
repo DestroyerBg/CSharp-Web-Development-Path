@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -13,19 +13,18 @@ namespace ProductShop.Utilities
 {
     public static class JsonParser
     {
-        public static T ParseJson<T>(string inputJson, bool isOmitNullableValues = false)
+        public static T ParseJson<T>(string inputJson)
         {
-            
             var result = JsonConvert.DeserializeObject<T>(inputJson);
             return result;
         }
 
-        public static string GetJson(Object collection, bool isOmitNullableValues = false)
+        public static string GetJson(Object collection, bool isCamelCase, bool isOmitNullableValues = false)
         {
             var jsonOptions = new JsonSerializerSettings()
             {
                 Formatting = Formatting.Indented,
-                ContractResolver = new CamelCasePropertyNamesContractResolver(),
+                ContractResolver = isCamelCase == true ?
                 NullValueHandling = isOmitNullableValues == true ? NullValueHandling.Ignore : NullValueHandling.Include
             };
             var result = JsonConvert.SerializeObject(collection,jsonOptions);

@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\08. Exercises Extensible Markup Language - XML\\CarDealer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\08. exercises extensible markup language - xml\\cardealer\\cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\08. exercises extensible markup language - xml\\cardealer\\cardealer\\dtos\\export\\exportsaleswithapplieddiscountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\exportsaleswithapplieddiscountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3ED705-8A63-40B0-B8CF-D11585A46988}|TestProject1\\TestProject1.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\08. exercises extensible markup language - xml\\cardealer\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3ED705-8A63-40B0-B8CF-D11585A46988}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|e:\\visual studio apps\\csharp-web-development-path\\07.entity framework\\08. exercises extensible markup language - xml\\cardealer\\cardealer\\dtos\\export\\exportcarinformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\exportcarinformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\08. Exercises Extensible Markup Language - XML\\CarDealer\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\08. Exercises Extensible Markup Language - XML\\CarDealer\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:11:25.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportCarInformationDTO.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\08. Exercises Extensible Markup Language - XML\\CarDealer\\CarDealer\\DTOs\\Export\\ExportCarInformationDTO.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\ExportCarInformationDTO.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\08. Exercises Extensible Markup Language - XML\\CarDealer\\CarDealer\\DTOs\\Export\\ExportCarInformationDTO.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\ExportCarInformationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T11:26:59.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExportSalesWithAppliedDiscountDTO.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\08. Exercises Extensible Markup Language - XML\\CarDealer\\CarDealer\\DTOs\\Export\\ExportSalesWithAppliedDiscountDTO.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\ExportSalesWithAppliedDiscountDTO.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\08. Exercises Extensible Markup Language - XML\\CarDealer\\CarDealer\\DTOs\\Export\\ExportSalesWithAppliedDiscountDTO.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\ExportSalesWithAppliedDiscountDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T11:26:26.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\08. Exercises Extensible Markup Language - XML\\CarDealer\\CarDealer\\StartUp.cs",
+              "RelativeDocumentMoniker": "CarDealer\\StartUp.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\07.Entity Framework\\08. Exercises Extensible Markup Language - XML\\CarDealer\\CarDealer\\StartUp.cs",
+              "RelativeToolTip": "CarDealer\\StartUp.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAIAzwDIBAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:11:32.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
