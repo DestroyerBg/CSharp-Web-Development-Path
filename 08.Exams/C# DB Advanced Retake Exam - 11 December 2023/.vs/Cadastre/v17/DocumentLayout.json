@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 11 december 2023\\cadastre\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 11 december 2023\\cadastre\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E24449A-014D-4C21-9FDE-2E7DD09CA094}|TestProject1\\TestProject1.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 11 december 2023\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E24449A-014D-4C21-9FDE-2E7DD09CA094}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 11 december 2023\\cadastre\\dataprocessor\\exportdtos\\exportpropertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\dataprocessor\\exportdtos\\exportpropertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 11 december 2023\\cadastre\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 11 december 2023\\cadastre\\data\\enumerations\\maritalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\data\\enumerations\\maritalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 11 december 2023\\cadastre\\data\\enumerations\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\data\\enumerations\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 11 december 2023\\cadastre\\data\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\data\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 11 december 2023\\cadastre\\dataprocessor\\importdtos\\importdistrictsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\dataprocessor\\importdtos\\importdistrictsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 11 december 2023\\cadastre\\dataprocessor\\importdtos\\importcitizensdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\dataprocessor\\importdtos\\importcitizensdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 11 december 2023\\cadastre\\data\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\data\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 11 december 2023\\cadastre\\importresults\\expected result - importedcitizens.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\importresults\\expected result - importedcitizens.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAqwFEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:45:14.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportPropertyDTO.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\DataProcessor\\ExportDtos\\ExportPropertyDTO.cs",
+              "RelativeDocumentMoniker": "Cadastre\\DataProcessor\\ExportDtos\\ExportPropertyDTO.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\DataProcessor\\ExportDtos\\ExportPropertyDTO.cs",
+              "RelativeToolTip": "Cadastre\\DataProcessor\\ExportDtos\\ExportPropertyDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:35:34.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "Cadastre\\DataProcessor\\Serializer.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "Cadastre\\DataProcessor\\Serializer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:19:30.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImportDistrictsDTO.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\DataProcessor\\ImportDtos\\ImportDistrictsDTO.cs",
+              "RelativeDocumentMoniker": "Cadastre\\DataProcessor\\ImportDtos\\ImportDistrictsDTO.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\DataProcessor\\ImportDtos\\ImportDistrictsDTO.cs",
+              "RelativeToolTip": "Cadastre\\DataProcessor\\ImportDtos\\ImportDistrictsDTO.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwEEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:15:21.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\Data\\Models\\Citizen.cs",
+              "RelativeDocumentMoniker": "Cadastre\\Data\\Models\\Citizen.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\Data\\Models\\Citizen.cs",
+              "RelativeToolTip": "Cadastre\\Data\\Models\\Citizen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:40:28.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaritalStatus.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\Data\\Enumerations\\MaritalStatus.cs",
+              "RelativeDocumentMoniker": "Cadastre\\Data\\Enumerations\\MaritalStatus.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\Data\\Enumerations\\MaritalStatus.cs",
+              "RelativeToolTip": "Cadastre\\Data\\Enumerations\\MaritalStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:37:44.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Region.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\Data\\Enumerations\\Region.cs",
+              "RelativeDocumentMoniker": "Cadastre\\Data\\Enumerations\\Region.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\Data\\Enumerations\\Region.cs",
+              "RelativeToolTip": "Cadastre\\Data\\Enumerations\\Region.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:52:09.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Expected Result - ImportedCitizens.txt",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\ImportResults\\Expected Result - ImportedCitizens.txt",
+              "RelativeDocumentMoniker": "Cadastre\\ImportResults\\Expected Result - ImportedCitizens.txt",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\ImportResults\\Expected Result - ImportedCitizens.txt",
+              "RelativeToolTip": "Cadastre\\ImportResults\\Expected Result - ImportedCitizens.txt",
+              "ViewState": "AQIAACkAAAAAAAAAAAAowEwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-22T13:02:51.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImportCitizensDTO.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\DataProcessor\\ImportDtos\\ImportCitizensDTO.cs",
+              "RelativeDocumentMoniker": "Cadastre\\DataProcessor\\ImportDtos\\ImportCitizensDTO.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\DataProcessor\\ImportDtos\\ImportCitizensDTO.cs",
+              "RelativeToolTip": "Cadastre\\DataProcessor\\ImportDtos\\ImportCitizensDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:30:55.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Property.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\Data\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "Cadastre\\Data\\Models\\Property.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\Data\\Models\\Property.cs",
+              "RelativeToolTip": "Cadastre\\Data\\Models\\Property.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:18:19.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "Cadastre\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "Cadastre\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwDcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:35:18.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\StartUp.cs",
+              "RelativeDocumentMoniker": "Cadastre\\StartUp.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 December 2023\\Cadastre\\StartUp.cs",
+              "RelativeToolTip": "Cadastre\\StartUp.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:34:29.528Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
