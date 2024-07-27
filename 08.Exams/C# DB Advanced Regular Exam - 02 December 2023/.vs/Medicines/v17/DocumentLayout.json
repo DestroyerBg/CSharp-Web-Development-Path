@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\medicines\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gabi\\AppData\\Local\\Temp\\Rar$DIa10288.23138\\Serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7963D0C1-4D1D-4C62-85FD-C6D3E4D653B6}|TestProject1\\TestProject1.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\testproject1\\actual.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7963D0C1-4D1D-4C62-85FD-C6D3E4D653B6}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\actual.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7963D0C1-4D1D-4C62-85FD-C6D3E4D653B6}|TestProject1\\TestProject1.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\testproject1\\expected.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7963D0C1-4D1D-4C62-85FD-C6D3E4D653B6}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\expected.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7963D0C1-4D1D-4C62-85FD-C6D3E4D653B6}|TestProject1\\TestProject1.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7963D0C1-4D1D-4C62-85FD-C6D3E4D653B6}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\medicines\\dataprocessor\\exportdtos\\exportmedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\exportdtos\\exportmedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\medicines\\exportresults\\actual result - exportpatientswiththeirmedicines.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\exportresults\\actual result - exportpatientswiththeirmedicines.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\medicines\\dataprocessor\\exportdtos\\exportpatientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\exportdtos\\exportpatientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\medicines\\dataprocessor\\importdtos\\importpatientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\importdtos\\importpatientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\medicines\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\medicines\\data\\models\\enums\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\enums\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\AppData\\Local\\Temp\\Rar$DIa10288.23138\\Serializer.cs",
+              "ToolTip": "C:\\Users\\Gabi\\AppData\\Local\\Temp\\Rar$DIa10288.23138\\Serializer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:35:22.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "actual.xml",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\TestProject1\\actual.xml",
+              "RelativeDocumentMoniker": "TestProject1\\actual.xml",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\TestProject1\\actual.xml",
+              "RelativeToolTip": "TestProject1\\actual.xml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-27T09:33:56.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "expected.xml",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\TestProject1\\expected.xml",
+              "RelativeDocumentMoniker": "TestProject1\\expected.xml",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\TestProject1\\expected.xml",
+              "RelativeToolTip": "TestProject1\\expected.xml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-27T09:33:27.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAcwFUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:29:22.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Medicines\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\Serializer.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Medicines\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\Serializer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:39:26.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Actual Result - ExportPatientsWithTheirMedicines.xml",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Medicines\\ExportResults\\Actual Result - ExportPatientsWithTheirMedicines.xml",
+              "RelativeDocumentMoniker": "Medicines\\ExportResults\\Actual Result - ExportPatientsWithTheirMedicines.xml",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Medicines\\ExportResults\\Actual Result - ExportPatientsWithTheirMedicines.xml",
+              "RelativeToolTip": "Medicines\\ExportResults\\Actual Result - ExportPatientsWithTheirMedicines.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-27T09:25:51.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExportMedicineDTO.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Medicines\\DataProcessor\\ExportDtos\\ExportMedicineDTO.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\ExportDtos\\ExportMedicineDTO.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Medicines\\DataProcessor\\ExportDtos\\ExportMedicineDTO.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\ExportDtos\\ExportMedicineDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:50:58.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExportPatientsDTO.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Medicines\\DataProcessor\\ExportDtos\\ExportPatientsDTO.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\ExportDtos\\ExportPatientsDTO.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Medicines\\DataProcessor\\ExportDtos\\ExportPatientsDTO.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\ExportDtos\\ExportPatientsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:47:09.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Medicines\\Data\\Models\\Enums\\Category.cs",
+              "RelativeDocumentMoniker": "Medicines\\Data\\Models\\Enums\\Category.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Medicines\\Data\\Models\\Enums\\Category.cs",
+              "RelativeToolTip": "Medicines\\Data\\Models\\Enums\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:41:47.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImportPatientsDTO.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Medicines\\DataProcessor\\ImportDtos\\ImportPatientsDTO.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\ImportDtos\\ImportPatientsDTO.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Medicines\\DataProcessor\\ImportDtos\\ImportPatientsDTO.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\ImportDtos\\ImportPatientsDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:27:53.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Medicines\\StartUp.cs",
+              "RelativeDocumentMoniker": "Medicines\\StartUp.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\Medicines\\StartUp.cs",
+              "RelativeToolTip": "Medicines\\StartUp.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIA5wBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:16:44.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
