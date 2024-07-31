@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 April 2023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 11 april 2023\\invoices\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 11 april 2023\\invoices\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 11 april 2023\\invoices\\dataprocessor\\exportdto\\exportinvoicesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\exportdto\\exportinvoicesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 11 april 2023\\invoices\\dataprocessor\\exportdto\\exportclientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\exportdto\\exportclientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportInvoicesDTO.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 April 2023\\Invoices\\DataProcessor\\ExportDto\\ExportInvoicesDTO.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ExportDto\\ExportInvoicesDTO.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 April 2023\\Invoices\\DataProcessor\\ExportDto\\ExportInvoicesDTO.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\ExportDto\\ExportInvoicesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:00:29.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportClientsDTO.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 April 2023\\Invoices\\DataProcessor\\ExportDto\\ExportClientsDTO.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ExportDto\\ExportClientsDTO.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 April 2023\\Invoices\\DataProcessor\\ExportDto\\ExportClientsDTO.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\ExportDto\\ExportClientsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:55:18.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 April 2023\\Invoices\\StartUp.cs",
+              "RelativeDocumentMoniker": "Invoices\\StartUp.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 April 2023\\Invoices\\StartUp.cs",
+              "RelativeToolTip": "Invoices\\StartUp.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAWwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:51:32.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 April 2023\\Invoices\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\Serializer.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 11 April 2023\\Invoices\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\Serializer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:12:54.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
