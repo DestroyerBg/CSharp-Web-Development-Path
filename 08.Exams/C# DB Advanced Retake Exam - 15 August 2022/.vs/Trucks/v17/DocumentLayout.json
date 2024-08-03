@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 15 August 2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 15 august 2022\\trucks\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 15 august 2022\\trucks\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 15 august 2022\\trucks\\dataprocessor\\exportdto\\exporttruckdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\dataprocessor\\exportdto\\exporttruckdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|e:\\visual studio apps\\csharp-web-development-path\\08.exams\\c# db advanced retake exam - 15 august 2022\\trucks\\dataprocessor\\exportdto\\exportdespatcherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D073-5BCE-4726-92EF-2ACEFFD8C40E}|Trucks\\Trucks.csproj|solutionrelative:trucks\\dataprocessor\\exportdto\\exportdespatcherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportTruckDTO.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 15 August 2022\\Trucks\\DataProcessor\\ExportDto\\ExportTruckDTO.cs",
+              "RelativeDocumentMoniker": "Trucks\\DataProcessor\\ExportDto\\ExportTruckDTO.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 15 August 2022\\Trucks\\DataProcessor\\ExportDto\\ExportTruckDTO.cs",
+              "RelativeToolTip": "Trucks\\DataProcessor\\ExportDto\\ExportTruckDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:26:41.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportDespatcherDTO.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 15 August 2022\\Trucks\\DataProcessor\\ExportDto\\ExportDespatcherDTO.cs",
+              "RelativeDocumentMoniker": "Trucks\\DataProcessor\\ExportDto\\ExportDespatcherDTO.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 15 August 2022\\Trucks\\DataProcessor\\ExportDto\\ExportDespatcherDTO.cs",
+              "RelativeToolTip": "Trucks\\DataProcessor\\ExportDto\\ExportDespatcherDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:25:22.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 15 August 2022\\Trucks\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "Trucks\\DataProcessor\\Serializer.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 15 August 2022\\Trucks\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "Trucks\\DataProcessor\\Serializer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:36:38.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 15 August 2022\\Trucks\\StartUp.cs",
+              "RelativeDocumentMoniker": "Trucks\\StartUp.cs",
+              "ToolTip": "E:\\visual studio apps\\CSharp-Web-Development-Path\\08.Exams\\C# DB Advanced Retake Exam - 15 August 2022\\Trucks\\StartUp.cs",
+              "RelativeToolTip": "Trucks\\StartUp.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:06:56.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
