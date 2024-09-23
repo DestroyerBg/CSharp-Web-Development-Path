@@ -1,0 +1,43 @@
+﻿@using CinemaApp.Data.Models
+@model IEnumerable<CinemaApp.Data.Models.Movie>
+
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>Title</th>
+        <th>Genre</th>
+        <th>Release</th>
+        <th>Duration</th>
+        <th>Details</th>
+        <th>Edit</th>
+        <th>Delete</th>
+    </tr>
+    </thead>
+    <tbody>
+    @{
+        foreach (Movie movie in Model)
+        {
+            if (!movie.IsDeleted)
+            {
+                <tr>
+                    <td>@movie.Title</td>
+                    <td>@movie.Genre</td>
+                    <td>@movie.ReleaseDate.ToString("MMMM yyyy")</td>
+                    <td>@movie.Duration minutes</td>
+                    <td>
+                        <a class="btn btn-info" asp-action="Details" asp-route-movieId="@movie.Id">Details</a>
+                    </td>
+                    <td>
+                        <a class="btn btn-secondary" asp-action="Edit" asp-route-movieId="@movie.Id">Edit</a>
+                    </td>
+                    <td>
+                        <a class="btn btn-danger" onclick="return confirm('Наистина ли желаете да изтриете този филм?')" asp-action="Delete" asp-route-movieId="@movie.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+    }
+    </tbody>
+</table>
+
+<a class="btn btn-primary" asp-action="AddMovie" asp-controller="Movie">Add New Movie</a>

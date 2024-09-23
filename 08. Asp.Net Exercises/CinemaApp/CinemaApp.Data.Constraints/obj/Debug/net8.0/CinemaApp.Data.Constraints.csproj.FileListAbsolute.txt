@@ -1,0 +1,12 @@
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaApp\CinemaApp.Data.Constraints\bin\Debug\net8.0\CinemaApp.Data.Constraints.deps.json
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaApp\CinemaApp.Data.Constraints\bin\Debug\net8.0\CinemaApp.Data.Constraints.dll
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaApp\CinemaApp.Data.Constraints\bin\Debug\net8.0\CinemaApp.Data.Constraints.pdb
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaApp\CinemaApp.Data.Constraints\obj\Debug\net8.0\CinemaApp.Data.Constraints.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaApp\CinemaApp.Data.Constraints\obj\Debug\net8.0\CinemaApp.Data.Constraints.AssemblyInfoInputs.cache
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaApp\CinemaApp.Data.Constraints\obj\Debug\net8.0\CinemaApp.Data.Constraints.AssemblyInfo.cs
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaApp\CinemaApp.Data.Constraints\obj\Debug\net8.0\CinemaApp.Data.Constraints.csproj.CoreCompileInputs.cache
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaApp\CinemaApp.Data.Constraints\obj\Debug\net8.0\CinemaApp.Data.Constraints.sourcelink.json
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaApp\CinemaApp.Data.Constraints\obj\Debug\net8.0\CinemaApp.Data.Constraints.dll
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaApp\CinemaApp.Data.Constraints\obj\Debug\net8.0\refint\CinemaApp.Data.Constraints.dll
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaApp\CinemaApp.Data.Constraints\obj\Debug\net8.0\CinemaApp.Data.Constraints.pdb
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaApp\CinemaApp.Data.Constraints\obj\Debug\net8.0\ref\CinemaApp.Data.Constraints.dll
