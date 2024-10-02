@@ -1548,6 +1548,9 @@
       "CinemaApp.ViewModels/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CinemaApp.Data.Constraints": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/CinemaApp.ViewModels.dll": {}
         },

@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\wwwroot\\images\\cinema-city.jpg",
+      "PackagePath": "staticwebassets\\images\\cinema-city.jpg"
+    },
+    {
       "Id": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

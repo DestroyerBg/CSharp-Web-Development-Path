@@ -29,6 +29,7 @@ namespace CinemaApp.Data.Models
         [MaxLength(DescriptionMaxLength)]
         public string Description { get; set; } = null!;
 
+        public ICollection<CinemaMovie> CinemaMovies { get; set; } = new HashSet<CinemaMovie>();
         public bool IsDeleted { get; set; } = false;
     }
 }

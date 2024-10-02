@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ForumApp.Repos\ForumApp.Repos.csproj" />
+    <ProjectReference Include="..\ForumApp.ViewModels\ForumApp.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mQL3CpVTEp6T+Q60g7Kd4gASfgk/upgBwWxAqRiqAqI=",
+  "Hash": "oAGbbgF5YkqgNUaNhVUoZ4xLUixvQ+3mgcHsmzNg6rU=",
   "Source": "CinemaApp.Web",
   "BasePath": "_content/CinemaApp.Web",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\wwwroot\\images\\cinema-city.jpg",
+      "SourceId": "CinemaApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\wwwroot\\",
+      "BasePath": "_content/CinemaApp.Web",
+      "RelativePath": "images/cinema-city.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cinema-city.jpg"
     },
     {
       "Identity": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\wwwroot\\js\\site.js",

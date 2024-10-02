@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "CinemaApp.ViewModels/1.0.0": {
+        "dependencies": {
+          "CinemaApp.Data.Constraints": "1.0.0"
+        },
         "runtime": {
           "CinemaApp.ViewModels.dll": {}
+        }
+      },
+      "CinemaApp.Data.Constraints/1.0.0": {
+        "runtime": {
+          "CinemaApp.Data.Constraints.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "CinemaApp.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CinemaApp.Data.Constraints/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

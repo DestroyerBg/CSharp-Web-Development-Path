@@ -3,15 +3,16 @@
 
 <table class="table table-striped">
     <thead>
-    <tr>
-        <th>Title</th>
-        <th>Genre</th>
-        <th>Release</th>
-        <th>Duration</th>
-        <th>Details</th>
-        <th>Edit</th>
-        <th>Delete</th>
-    </tr>
+        <tr>
+            <th>Title</th>
+            <th>Genre</th>
+            <th>Release</th>
+            <th>Duration</th>
+            <th>Details</th>
+            <th>Edit</th>
+            <th>Delete</th>
+            <th>Add to Program</th>
+        </tr>
     </thead>
     <tbody>
     @{
@@ -32,6 +33,9 @@
                     </td>
                     <td>
                         <a class="btn btn-danger" onclick="return confirm('Наистина ли желаете да изтриете този филм?')" asp-action="Delete" asp-route-movieId="@movie.Id">Delete</a>
+                    </td>
+                    <td>
+                        <a class="btn btn-primary" asp-action="AddToProgram" asp-route-movieId="@movie.Id">Add to Program</a>
                     </td>
                 </tr>
             }

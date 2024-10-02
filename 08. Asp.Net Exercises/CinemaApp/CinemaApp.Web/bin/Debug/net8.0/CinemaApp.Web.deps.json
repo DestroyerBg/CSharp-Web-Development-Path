@@ -894,6 +894,9 @@
         }
       },
       "CinemaApp.ViewModels/1.0.0": {
+        "dependencies": {
+          "CinemaApp.Data.Constraints": "1.0.0"
+        },
         "runtime": {
           "CinemaApp.ViewModels.dll": {
             "assemblyVersion": "1.0.0",

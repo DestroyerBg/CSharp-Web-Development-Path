@@ -22,3 +22,7 @@ D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaAp
 D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaApp\CinemaApp.ViewModels\obj\Debug\net8.0\refint\CinemaApp.ViewModels.dll
 D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaApp\CinemaApp.ViewModels\obj\Debug\net8.0\CinemaApp.ViewModels.pdb
 D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaApp\CinemaApp.ViewModels\obj\Debug\net8.0\ref\CinemaApp.ViewModels.dll
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaApp\CinemaApp.ViewModels\obj\Debug\net8.0\CinemaApp.ViewModels.csproj.AssemblyReference.cache
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaApp\CinemaApp.ViewModels\bin\Debug\net8.0\CinemaApp.Data.Constraints.dll
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaApp\CinemaApp.ViewModels\bin\Debug\net8.0\CinemaApp.Data.Constraints.pdb
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\CinemaApp\CinemaApp.ViewModels\obj\Debug\net8.0\CinemaAp.56C1FF2C.Up2Date

@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{FD897EA3-03DB-4F39-948A-1D755A76AB01}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD897EA3-03DB-4F39-948A-1D755A76AB01}|CinemaApp.Web\\CinemaApp.Web.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\cinemaapp\\cinemaapp.web\\views\\movie\\allmovies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FD897EA3-03DB-4F39-948A-1D755A76AB01}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\views\\movie\\allmovies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FD897EA3-03DB-4F39-948A-1D755A76AB01}|CinemaApp.Web\\CinemaApp.Web.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\cinemaapp\\cinemaapp.web\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD897EA3-03DB-4F39-948A-1D755A76AB01}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD897EA3-03DB-4F39-948A-1D755A76AB01}|CinemaApp.Web\\CinemaApp.Web.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\cinemaapp\\cinemaapp.web\\views\\movie\\addmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FD897EA3-03DB-4F39-948A-1D755A76AB01}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\views\\movie\\addmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FD897EA3-03DB-4F39-948A-1D755A76AB01}|CinemaApp.Web\\CinemaApp.Web.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\cinemaapp\\cinemaapp.web\\views\\movie\\addtoprogram.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD897EA3-03DB-4F39-948A-1D755A76AB01}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\views\\movie\\addtoprogram.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD897EA3-03DB-4F39-948A-1D755A76AB01}|CinemaApp.Web\\CinemaApp.Web.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\cinemaapp\\cinemaapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FD897EA3-03DB-4F39-948A-1D755A76AB01}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FD897EA3-03DB-4F39-948A-1D755A76AB01}|CinemaApp.Web\\CinemaApp.Web.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\cinemaapp\\cinemaapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD897EA3-03DB-4F39-948A-1D755A76AB01}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD897EA3-03DB-4F39-948A-1D755A76AB01}|CinemaApp.Web\\CinemaApp.Web.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\cinemaapp\\cinemaapp.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FD897EA3-03DB-4F39-948A-1D755A76AB01}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7448D968-3CB7-43F1-8D32-4136CA1B25F2}|CinemaApp.ViewModels\\CinemaApp.ViewModels.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\cinemaapp\\cinemaapp.viewmodels\\addmovietocinemaprogramviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7448D968-3CB7-43F1-8D32-4136CA1B25F2}|CinemaApp.ViewModels\\CinemaApp.ViewModels.csproj|solutionrelative:cinemaapp.viewmodels\\addmovietocinemaprogramviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7448D968-3CB7-43F1-8D32-4136CA1B25F2}|CinemaApp.ViewModels\\CinemaApp.ViewModels.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\cinemaapp\\cinemaapp.viewmodels\\movieprogramviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7448D968-3CB7-43F1-8D32-4136CA1B25F2}|CinemaApp.ViewModels\\CinemaApp.ViewModels.csproj|solutionrelative:cinemaapp.viewmodels\\movieprogramviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,29 +54,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddMovie.cshtml",
-              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\Views\\Movie\\AddMovie.cshtml",
-              "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\Movie\\AddMovie.cshtml",
-              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\Views\\Movie\\AddMovie.cshtml",
-              "RelativeToolTip": "CinemaApp.Web\\Views\\Movie\\AddMovie.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T16:12:39.372Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CinemaApp.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:30:36.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AllMovies.cshtml",
-              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\Views\\Movie\\AllMovies.cshtml",
-              "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\Movie\\AllMovies.cshtml",
-              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\Views\\Movie\\AllMovies.cshtml",
-              "RelativeToolTip": "CinemaApp.Web\\Views\\Movie\\AllMovies.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAABuAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AddMovieToCinemaProgramViewModel.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.ViewModels\\AddMovieToCinemaProgramViewModel.cs",
+              "RelativeDocumentMoniker": "CinemaApp.ViewModels\\AddMovieToCinemaProgramViewModel.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.ViewModels\\AddMovieToCinemaProgramViewModel.cs",
+              "RelativeToolTip": "CinemaApp.ViewModels\\AddMovieToCinemaProgramViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:36:01.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddToProgram.cshtml",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\Views\\Movie\\AddToProgram.cshtml",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\Movie\\AddToProgram.cshtml",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\Views\\Movie\\AddToProgram.cshtml",
+              "RelativeToolTip": "CinemaApp.Web\\Views\\Movie\\AddToProgram.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T16:09:59.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T17:07:07.274Z"
             },
             {
               "$type": "Document",
@@ -82,34 +96,35 @@
               "RelativeDocumentMoniker": "CinemaApp.Web\\Controllers\\MovieController.cs",
               "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\Controllers\\MovieController.cs",
               "RelativeToolTip": "CinemaApp.Web\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowBgAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAYwIwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T16:08:25.441Z",
+              "WhenOpened": "2024-10-01T16:18:59.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "CinemaApp.Web\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T10:48:08.583Z"
+              "DocumentIndex": 5,
+              "Title": "MovieProgramViewModel.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.ViewModels\\MovieProgramViewModel.cs",
+              "RelativeDocumentMoniker": "CinemaApp.ViewModels\\MovieProgramViewModel.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.ViewModels\\MovieProgramViewModel.cs",
+              "RelativeToolTip": "CinemaApp.ViewModels\\MovieProgramViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:22:47.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "CinemaApp.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T09:41:13.875Z"
+              "DocumentIndex": 1,
+              "Title": "CinemaController.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\Controllers\\CinemaController.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\Controllers\\CinemaController.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\CinemaApp\\CinemaApp.Web\\Controllers\\CinemaController.cs",
+              "RelativeToolTip": "CinemaApp.Web\\Controllers\\CinemaController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:00:46.623Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B10F64-13F1-43FE-A38E-4A98697DDE41}|ForumApp.Repos\\ForumApp.Repos.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\forumapp\\forumapp\\forumapp.repos\\postrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B10F64-13F1-43FE-A38E-4A98697DDE41}|ForumApp.Repos\\ForumApp.Repos.csproj|solutionrelative:forumapp.repos\\postrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBDDB0F-1525-497E-9DA9-FB67F9E8A68A}|ForumApp.Web\\ForumApp.Web.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\forumapp\\forumapp\\forumapp.web\\views\\post\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFBDDB0F-1525-497E-9DA9-FB67F9E8A68A}|ForumApp.Web\\ForumApp.Web.csproj|solutionrelative:forumapp.web\\views\\post\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBDDB0F-1525-497E-9DA9-FB67F9E8A68A}|ForumApp.Web\\ForumApp.Web.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\forumapp\\forumapp\\forumapp.web\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFBDDB0F-1525-497E-9DA9-FB67F9E8A68A}|ForumApp.Web\\ForumApp.Web.csproj|solutionrelative:forumapp.web\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBDDB0F-1525-497E-9DA9-FB67F9E8A68A}|ForumApp.Web\\ForumApp.Web.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\forumapp\\forumapp\\forumapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFBDDB0F-1525-497E-9DA9-FB67F9E8A68A}|ForumApp.Web\\ForumApp.Web.csproj|solutionrelative:forumapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D339C5-7870-4F3B-8573-8EDF2D5E10B2}|ForumApp.ViewModels\\ForumApp.ViewModels.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\forumapp\\forumapp\\forumapp.viewmodels\\importpostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D339C5-7870-4F3B-8573-8EDF2D5E10B2}|ForumApp.ViewModels\\ForumApp.ViewModels.csproj|solutionrelative:forumapp.viewmodels\\importpostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB1327-0092-4298-AA95-0C7FEE63C5FC}|ForumApp.Services\\ForumApp.Services.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\forumapp\\forumapp\\forumapp.services\\contracts\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCB1327-0092-4298-AA95-0C7FEE63C5FC}|ForumApp.Services\\ForumApp.Services.csproj|solutionrelative:forumapp.services\\contracts\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBDDB0F-1525-497E-9DA9-FB67F9E8A68A}|ForumApp.Web\\ForumApp.Web.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\forumapp\\forumapp\\forumapp.web\\views\\post\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFBDDB0F-1525-497E-9DA9-FB67F9E8A68A}|ForumApp.Web\\ForumApp.Web.csproj|solutionrelative:forumapp.web\\views\\post\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D339C5-7870-4F3B-8573-8EDF2D5E10B2}|ForumApp.ViewModels\\ForumApp.ViewModels.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\forumapp\\forumapp\\forumapp.viewmodels\\importpostupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D339C5-7870-4F3B-8573-8EDF2D5E10B2}|ForumApp.ViewModels\\ForumApp.ViewModels.csproj|solutionrelative:forumapp.viewmodels\\importpostupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostRepo.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\ForumApp.Repos\\PostRepo.cs",
+              "RelativeDocumentMoniker": "ForumApp.Repos\\PostRepo.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\ForumApp.Repos\\PostRepo.cs",
+              "RelativeToolTip": "ForumApp.Repos\\PostRepo.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:02:18.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\ForumApp.Services\\Contracts\\IPostService.cs",
+              "RelativeDocumentMoniker": "ForumApp.Services\\Contracts\\IPostService.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\ForumApp.Services\\Contracts\\IPostService.cs",
+              "RelativeToolTip": "ForumApp.Services\\Contracts\\IPostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:01:56.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\ForumApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ForumApp.Web\\Program.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\ForumApp.Web\\Program.cs",
+              "RelativeToolTip": "ForumApp.Web\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:00:27.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\ForumApp.Web\\Views\\Post\\Add.cshtml",
+              "RelativeDocumentMoniker": "ForumApp.Web\\Views\\Post\\Add.cshtml",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\ForumApp.Web\\Views\\Post\\Add.cshtml",
+              "RelativeToolTip": "ForumApp.Web\\Views\\Post\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T17:45:46.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImportPostViewModel.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\ForumApp.ViewModels\\ImportPostViewModel.cs",
+              "RelativeDocumentMoniker": "ForumApp.ViewModels\\ImportPostViewModel.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\ForumApp.ViewModels\\ImportPostViewModel.cs",
+              "RelativeToolTip": "ForumApp.ViewModels\\ImportPostViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:59:01.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\ForumApp.Web\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "ForumApp.Web\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\ForumApp.Web\\Controllers\\PostController.cs",
+              "RelativeToolTip": "ForumApp.Web\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:50:22.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\ForumApp.Web\\Views\\Post\\All.cshtml",
+              "RelativeDocumentMoniker": "ForumApp.Web\\Views\\Post\\All.cshtml",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\ForumApp.Web\\Views\\Post\\All.cshtml",
+              "RelativeToolTip": "ForumApp.Web\\Views\\Post\\All.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T16:49:42.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImportPostUpdateViewModel.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\ForumApp.ViewModels\\ImportPostUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "ForumApp.ViewModels\\ImportPostUpdateViewModel.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\ForumApp.ViewModels\\ImportPostUpdateViewModel.cs",
+              "RelativeToolTip": "ForumApp.ViewModels\\ImportPostUpdateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:48:11.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -28,6 +28,10 @@ namespace CinemaApp.Data.Context
         }
 
         public DbSet<Movie> Movies { get; set; }
-        
+
+        public DbSet<Cinema> Cinemas { get; set; }
+
+        public DbSet<CinemaMovie> CinemaMovies { get; set; }
+
     }
 }

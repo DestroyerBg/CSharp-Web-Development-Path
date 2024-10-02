@@ -1,0 +1,16 @@
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.ViewModels\bin\Debug\net8.0\ForumApp.ViewModels.deps.json
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.ViewModels\bin\Debug\net8.0\ForumApp.ViewModels.dll
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.ViewModels\bin\Debug\net8.0\ForumApp.ViewModels.pdb
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.ViewModels\bin\Debug\net8.0\ForumApp.Common.DatabaseConstants.dll
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.ViewModels\bin\Debug\net8.0\ForumApp.Common.DatabaseConstants.pdb
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.ViewModels\obj\Debug\net8.0\ForumApp.ViewModels.csproj.AssemblyReference.cache
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.ViewModels\obj\Debug\net8.0\ForumApp.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.ViewModels\obj\Debug\net8.0\ForumApp.ViewModels.AssemblyInfoInputs.cache
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.ViewModels\obj\Debug\net8.0\ForumApp.ViewModels.AssemblyInfo.cs
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.ViewModels\obj\Debug\net8.0\ForumApp.ViewModels.csproj.CoreCompileInputs.cache
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.ViewModels\obj\Debug\net8.0\ForumApp.ViewModels.sourcelink.json
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.ViewModels\obj\Debug\net8.0\ForumApp.CCB4CDD1.Up2Date
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.ViewModels\obj\Debug\net8.0\ForumApp.ViewModels.dll
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.ViewModels\obj\Debug\net8.0\refint\ForumApp.ViewModels.dll
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.ViewModels\obj\Debug\net8.0\ForumApp.ViewModels.pdb
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.ViewModels\obj\Debug\net8.0\ref\ForumApp.ViewModels.dll

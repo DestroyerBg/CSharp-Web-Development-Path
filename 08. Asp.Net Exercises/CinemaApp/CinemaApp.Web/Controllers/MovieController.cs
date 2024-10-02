@@ -1,19 +1,22 @@
 ﻿using CinemaApp.Data.Context;
 using CinemaApp.Data.Models;
+using CinemaApp.ViewModels;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Abstractions;
+using Microsoft.EntityFrameworkCore;
 
 namespace CinemaApp.Web.Controllers
 {
     public class MovieController : Controller
     {
-        private CinemaAppContext _context;
-        public MovieController(CinemaAppContext context)
+        private CinemaAppContext context;
+        public MovieController(CinemaAppContext _context)
         {
-            _context = context;
+            context = _context;
         }
-        public IActionResult AllMovies()
+        public async Task<IActionResult> AllMovies()
         {
-            List<Movie> movies = _context.Movies.ToList();
+            List<Movie> movies =  await context.Movies.ToListAsync();
             return View(movies);
         }
 
@@ -23,8 +26,12 @@ namespace CinemaApp.Web.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult AddMovie(Movie movieModel)
+        public async Task<IActionResult> AddMovie(MovieViewModel movieModel)
         {
+            if (!ModelState.IsValid)
+            {
+                return View(movieModel);
+            }
             Movie movie = new Movie()
             {
                 Description = movieModel.Description,
@@ -34,14 +41,15 @@ namespace CinemaApp.Web.Controllers
                 ReleaseDate = movieModel.ReleaseDate,
                 Title = movieModel.Title,
             };
-            _context.Movies.Add(movie);
-            _context.SaveChanges();
+            context.Movies.AddAsync(movie);
+            context.SaveChangesAsync();
             return RedirectToAction("AllMovies");
         }
 
-        public IActionResult Details(Guid movieId)
+        public async Task<IActionResult> Details(Guid movieId)
         {
-            Movie movie = _context.Movies.FirstOrDefault(m => m.Id == movieId);
+            Movie movie = await context.Movies
+                .FirstOrDefaultAsync(m => m.Id == movieId);
             if (movie == null)
             {
                 return NotFound();
@@ -50,9 +58,10 @@ namespace CinemaApp.Web.Controllers
         }
 
         [HttpGet]
-        public IActionResult Edit(Guid movieId)
+        public async Task<IActionResult> Edit(Guid movieId)
         {
-            Movie movie = _context.Movies.FirstOrDefault(m => m.Id == movieId);
+            Movie movie = await context.Movies
+                .FirstOrDefaultAsync(m => m.Id == movieId);
             if (movie == null)
             {
                 return NotFound();
@@ -61,13 +70,14 @@ namespace CinemaApp.Web.Controllers
         }
 
         [HttpPost]
-        public IActionResult Edit(Movie movieModel)
+        public async Task<IActionResult> Edit(Movie movieModel)
         {
             if (!ModelState.IsValid)
             {
                 return RedirectToAction("Edit");
             }
-            Movie movie = _context.Movies.FirstOrDefault(m => m.Id == movieModel.Id);
+            Movie movie = await context.Movies
+                .FirstOrDefaultAsync(m => m.Id == movieModel.Id);
             
             movie.Title = movieModel.Title;
             movie.Description = movieModel.Description;
@@ -75,20 +85,101 @@ namespace CinemaApp.Web.Controllers
             movie.Duration = movieModel.Duration;
             movie.Genre = movieModel.Genre;
             movie.ReleaseDate = movieModel.ReleaseDate;
-            _context.SaveChanges();
+            await context.SaveChangesAsync();
             return RedirectToAction("AllMovies");
         }
 
-        public IActionResult Delete(Guid movieId)
+        public async Task<IActionResult> Delete(Guid movieId)
         {
-            Movie movie = _context.Movies.FirstOrDefault(m => m.Id == movieId);
+            Movie movie = await context.Movies
+                .FirstOrDefaultAsync(m => m.Id == movieId);
             if (movie == null)
             {
                 return NotFound();
             }
 
             movie.IsDeleted = true;
-            _context.SaveChanges();
+            await context.SaveChangesAsync();
+            return RedirectToAction("AllMovies");
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> AddToProgram(string movieId)
+        {
+            bool isValidGuid = Guid.TryParse(movieId, out Guid id);
+
+            if (!isValidGuid)
+            {
+                return RedirectToAction("AllMovies");
+            }
+
+            Movie movie = await context.Movies
+                .Include(c => c.CinemaMovies)
+                .ThenInclude(cm => cm.Cinema)
+                .FirstOrDefaultAsync(m => m.Id == id);
+
+            if (movie == null)
+            {
+                return RedirectToAction("AllMovies");
+            }
+
+            List<Cinema> cinemas = await context.Cinemas.ToListAsync();
+
+            AddMovieToCinemaProgramViewModel viewModel = new AddMovieToCinemaProgramViewModel()
+            {
+                MovieId = id,
+                MovieTitle = movie.Title,
+                Cinemas = cinemas.Select(c => new CinemaCheckBoxItem()
+                {
+                    Id = c.Id,
+                    IsSelected = movie.CinemaMovies.Any(cm => cm.Cinema.Id == c.Id),
+                    Name = c.Name,
+                }).ToList()
+
+
+            };
+
+            return View(viewModel);
+        }
+
+        [HttpPost]
+
+        public async Task<IActionResult> AddToProgram(AddMovieToCinemaProgramViewModel model)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(model);
+            }
+
+            Movie movie = await context.Movies
+                .FirstOrDefaultAsync(m => m.Id == model.MovieId);
+
+            if (movie == null)
+            {
+                return View(model);
+            }
+
+            IEnumerable<CinemaMovie> recordsToDelete = await context.CinemaMovies
+                .Where(cm => cm.MovieId == movie.Id)
+                .ToListAsync();
+
+            context.CinemaMovies.RemoveRange(recordsToDelete);
+
+            foreach (CinemaCheckBoxItem cinema in model.Cinemas)
+            {
+                if (cinema.IsSelected)
+                {
+                    CinemaMovie cinemaMovie = new CinemaMovie()
+                    {
+                        CinemaId = cinema.Id,
+                        MovieId = model.MovieId,
+                    };
+                    movie.CinemaMovies.Add(cinemaMovie);
+                }
+            }
+
+            context.SaveChangesAsync();
+
             return RedirectToAction("AllMovies");
         }
     }

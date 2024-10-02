@@ -1,0 +1,12 @@
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.Common.DatabaseConstants\bin\Debug\net8.0\ForumApp.Common.DatabaseConstants.deps.json
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.Common.DatabaseConstants\bin\Debug\net8.0\ForumApp.Common.DatabaseConstants.dll
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.Common.DatabaseConstants\bin\Debug\net8.0\ForumApp.Common.DatabaseConstants.pdb
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.Common.DatabaseConstants\obj\Debug\net8.0\ForumApp.Common.DatabaseConstants.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.Common.DatabaseConstants\obj\Debug\net8.0\ForumApp.Common.DatabaseConstants.AssemblyInfoInputs.cache
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.Common.DatabaseConstants\obj\Debug\net8.0\ForumApp.Common.DatabaseConstants.AssemblyInfo.cs
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.Common.DatabaseConstants\obj\Debug\net8.0\ForumApp.Common.DatabaseConstants.csproj.CoreCompileInputs.cache
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.Common.DatabaseConstants\obj\Debug\net8.0\ForumApp.Common.DatabaseConstants.sourcelink.json
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.Common.DatabaseConstants\obj\Debug\net8.0\ForumApp.Common.DatabaseConstants.dll
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.Common.DatabaseConstants\obj\Debug\net8.0\refint\ForumApp.Common.DatabaseConstants.dll
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.Common.DatabaseConstants\obj\Debug\net8.0\ForumApp.Common.DatabaseConstants.pdb
+D:\visual studio apps\CSharp-Web-Development-Path\08. Asp.Net Exercises\ForumApp\ForumApp\ForumApp.Common.DatabaseConstants\obj\Debug\net8.0\ref\ForumApp.Common.DatabaseConstants.dll

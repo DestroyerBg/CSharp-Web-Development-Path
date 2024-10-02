@@ -22,6 +22,82 @@ namespace CinemaApp.Data.Context.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("CinemaApp.Data.Models.Cinema", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Location")
+                        .IsRequired()
+                        .HasMaxLength(80)
+                        .HasColumnType("nvarchar(80)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(30)
+                        .HasColumnType("nvarchar(30)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Cinemas");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("3bddb4ae-6ba4-4feb-aafb-c23b3743f9da"),
+                            IsDeleted = false,
+                            Location = "Sofia",
+                            Name = "Cinema City Mall of Sofia"
+                        },
+                        new
+                        {
+                            Id = new Guid("3c642f3e-dbf0-437d-9c21-cea104db5811"),
+                            IsDeleted = false,
+                            Location = "Varna",
+                            Name = "Arena Grand Mall Varna"
+                        },
+                        new
+                        {
+                            Id = new Guid("585aecc6-641f-4d95-abaa-5f2283ff7b37"),
+                            IsDeleted = false,
+                            Location = "Plovdiv",
+                            Name = "Cinema City Plovdiv"
+                        },
+                        new
+                        {
+                            Id = new Guid("f260f8d6-0873-4334-ad08-6e95ca20ff57"),
+                            IsDeleted = false,
+                            Location = "Burgas",
+                            Name = "Cinema City Burgas Plaza"
+                        },
+                        new
+                        {
+                            Id = new Guid("e911313b-217d-4357-aa7c-9b762506e007"),
+                            IsDeleted = false,
+                            Location = "Stara Zagora",
+                            Name = "Arena Park Mall Stara Zagora"
+                        });
+                });
+
+            modelBuilder.Entity("CinemaApp.Data.Models.CinemaMovie", b =>
+                {
+                    b.Property<Guid>("CinemaId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("MovieId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("CinemaId", "MovieId");
+
+                    b.HasIndex("MovieId");
+
+                    b.ToTable("CinemaMovies");
+                });
+
             modelBuilder.Entity("CinemaApp.Data.Models.Movie", b =>
                 {
                     b.Property<Guid>("Id")
@@ -63,7 +139,7 @@ namespace CinemaApp.Data.Context.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("d942d613-1437-40ef-9b9c-5b9043209680"),
+                            Id = new Guid("6dba859f-2efd-422a-8cb9-6c887e7835b7"),
                             Description = "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
                             Director = "Frank Darabont",
                             Duration = 142,
@@ -74,7 +150,7 @@ namespace CinemaApp.Data.Context.Migrations
                         },
                         new
                         {
-                            Id = new Guid("0a411fc9-4186-4fbd-b5c4-5e3ca1cb0464"),
+                            Id = new Guid("7f3469b3-bc6a-4d68-b487-183217e770ba"),
                             Description = "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
                             Director = "Francis Ford Coppola",
                             Duration = 175,
@@ -85,7 +161,7 @@ namespace CinemaApp.Data.Context.Migrations
                         },
                         new
                         {
-                            Id = new Guid("a7a553ca-4966-43b7-b83c-56936c10cf42"),
+                            Id = new Guid("9a444059-3c40-4531-b451-e2b126e1f5b8"),
                             Description = "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
                             Director = "Christopher Nolan",
                             Duration = 152,
@@ -96,7 +172,7 @@ namespace CinemaApp.Data.Context.Migrations
                         },
                         new
                         {
-                            Id = new Guid("0e4fc412-a0e3-4e73-bd96-d53270965c45"),
+                            Id = new Guid("55d979d2-c197-4126-8f63-f2496e8af159"),
                             Description = "The lives of two mob hitmen, a boxer, a gangster, and his wife intertwine in four tales of violence and redemption.",
                             Director = "Quentin Tarantino",
                             Duration = 154,
@@ -107,7 +183,7 @@ namespace CinemaApp.Data.Context.Migrations
                         },
                         new
                         {
-                            Id = new Guid("96926d24-e0d4-4242-a559-d67271a7cd7c"),
+                            Id = new Guid("07eb098f-9ea0-4ac5-a2ff-c6162d1f6320"),
                             Description = "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce.",
                             Director = "Steven Spielberg",
                             Duration = 195,
@@ -118,7 +194,7 @@ namespace CinemaApp.Data.Context.Migrations
                         },
                         new
                         {
-                            Id = new Guid("c7c39b7b-e025-4d12-b925-8c9cb070211e"),
+                            Id = new Guid("690e3664-0c08-420c-97af-55ed8e20df5b"),
                             Description = "An insomniac office worker and a soap salesman form an underground fight club that evolves into much more.",
                             Director = "David Fincher",
                             Duration = 139,
@@ -129,7 +205,7 @@ namespace CinemaApp.Data.Context.Migrations
                         },
                         new
                         {
-                            Id = new Guid("03b5c53c-c15d-4ca9-807d-70c83bf4eac7"),
+                            Id = new Guid("de0001d0-6d75-4f90-b999-5b25298c861a"),
                             Description = "The story of Forrest Gump, a slow-witted man who unintentionally becomes involved in every major event of the 20th century.",
                             Director = "Robert Zemeckis",
                             Duration = 142,
@@ -140,7 +216,7 @@ namespace CinemaApp.Data.Context.Migrations
                         },
                         new
                         {
-                            Id = new Guid("dbbcd5be-1c0e-4d55-98f2-1057d8f8a568"),
+                            Id = new Guid("5dbf45ef-b27b-449a-a573-a7a29276d699"),
                             Description = "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea.",
                             Director = "Christopher Nolan",
                             Duration = 148,
@@ -151,7 +227,7 @@ namespace CinemaApp.Data.Context.Migrations
                         },
                         new
                         {
-                            Id = new Guid("72e1c609-9952-4e5d-8df0-04bfc62c4f33"),
+                            Id = new Guid("f8b89256-d837-4d99-b867-d4557e5a8b69"),
                             Description = "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
                             Director = "Lana Wachowski, Lilly Wachowski",
                             Duration = 136,
@@ -162,7 +238,7 @@ namespace CinemaApp.Data.Context.Migrations
                         },
                         new
                         {
-                            Id = new Guid("7345847a-0a14-4546-a39f-b44e9835fe0e"),
+                            Id = new Guid("0287613b-64c6-4354-8d5c-ec4a60659baa"),
                             Description = "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom.",
                             Director = "Peter Jackson",
                             Duration = 201,
@@ -171,6 +247,35 @@ namespace CinemaApp.Data.Context.Migrations
                             ReleaseDate = new DateTime(2003, 12, 17, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Title = "The Lord of the Rings: The Return of the King"
                         });
+                });
+
+            modelBuilder.Entity("CinemaApp.Data.Models.CinemaMovie", b =>
+                {
+                    b.HasOne("CinemaApp.Data.Models.Cinema", "Cinema")
+                        .WithMany("CinemaMovies")
+                        .HasForeignKey("CinemaId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("CinemaApp.Data.Models.Movie", "Movie")
+                        .WithMany("CinemaMovies")
+                        .HasForeignKey("MovieId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Cinema");
+
+                    b.Navigation("Movie");
+                });
+
+            modelBuilder.Entity("CinemaApp.Data.Models.Cinema", b =>
+                {
+                    b.Navigation("CinemaMovies");
+                });
+
+            modelBuilder.Entity("CinemaApp.Data.Models.Movie", b =>
+                {
+                    b.Navigation("CinemaMovies");
                 });
 #pragma warning restore 612, 618
         }
