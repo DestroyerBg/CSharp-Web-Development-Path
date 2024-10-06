@@ -23,28 +23,52 @@ namespace ForumApp.Repos
         {
             Post post = await context.Posts.FirstOrDefaultAsync(p => p.Id == postId);
             post.IsDeleted = true;
-            context.SaveChangesAsync();
+            await context.SaveChangesAsync();
         }
 
         public async Task<IEnumerable<Post>> GetPosts()
         {
             IEnumerable<Post> posts = await context
                 .Posts
+                .Where(p => p.IsDeleted == false)
                 .ToListAsync();
 
             return posts;
         }
 
-        public async Task<Post> GetPostById(Guid id)
+        public async Task<Post> GetPostById(Guid id, bool isIncludeComments = false)
         {
             Post post = await context.Posts.FirstOrDefaultAsync(p => p.Id == id);
 
+            if (isIncludeComments == true)
+            {
+                await context.Entry(post).Collection(c => c.Comments).LoadAsync();
+            }
             return post;
         }
 
         public async Task SaveChanges()
         {
             await context.SaveChangesAsync();
+        }
+
+        private async Task<IEnumerable<Comment>> GetCommentsOnPost(Guid postId)
+        {
+            IEnumerable<Comment> comments = await context.Comments
+                .Where(c => c.PostId == postId)
+                .ToListAsync();
+
+            return comments;
+        }
+
+        public async Task DeleteAllCommentsOnPost(Post post)
+        {
+            IEnumerable<Comment> comments = await GetCommentsOnPost(post.Id);
+
+            context.Comments.RemoveRange(comments);
+
+            await SaveChanges();
+
         }
     }
 }

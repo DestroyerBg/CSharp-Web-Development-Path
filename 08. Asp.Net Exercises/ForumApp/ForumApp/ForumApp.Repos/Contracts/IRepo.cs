@@ -11,9 +11,11 @@ namespace ForumApp.Repos.Contracts
 
         Task<IEnumerable<Post>> GetPosts();
 
-        Task<Post> GetPostById(Guid id);
+        Task<Post> GetPostById(Guid id, bool isIncludeComments = false);
 
         Task SaveChanges();
+
+        Task DeleteAllCommentsOnPost(Post post);
 
     }
 }

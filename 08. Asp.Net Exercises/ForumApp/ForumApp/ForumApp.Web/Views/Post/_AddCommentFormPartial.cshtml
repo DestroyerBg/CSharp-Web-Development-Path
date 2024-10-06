@@ -1,0 +1,20 @@
+﻿@model ForumApp.ViewModels.CommentModels.CommentViewModel
+    <form asp-action="PostComment" method="post">
+        <input type="hidden" asp-for="PostId" value="@Model.PostId" />
+        <div class="mb-3 col-md-6">
+            <label asp-for="Username" class="form-label">Username</label>
+            <input type="text" asp-for="Username" class="form-control form-control-sm" id="Username">
+            <span asp-validation-for="Username" class="text-danger"></span>
+        </div>
+        <div class="mb-3 col-md-6">
+            <label asp-for="Content" class="form-label">Your Comment</label>
+            <input type="text" asp-for="Content" class="form-control form-control-sm" id="Content">
+            <span asp-validation-for="Content" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Comment</button>
+    </form>
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.3/dist/jquery.validate.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation-unobtrusive@3.2.11/dist/jquery.validate.unobtrusive.min.js"></script>

@@ -22,6 +22,35 @@ namespace ForumApp.Data.Core.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("ForumApp.Data.Models.Comment", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Content")
+                        .IsRequired()
+                        .HasMaxLength(2000)
+                        .HasColumnType("nvarchar(2000)");
+
+                    b.Property<Guid>("PostId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<DateTime>("PublishedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Username")
+                        .IsRequired()
+                        .HasMaxLength(40)
+                        .HasColumnType("nvarchar(40)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("PostId");
+
+                    b.ToTable("Comments");
+                });
+
             modelBuilder.Entity("ForumApp.Data.Models.Post", b =>
                 {
                     b.Property<Guid>("Id")
@@ -48,39 +77,55 @@ namespace ForumApp.Data.Core.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("4a145efb-b308-42fc-bf31-1e63329a3d22"),
+                            Id = new Guid("aa1d2679-b42d-4a36-b42a-889fe348499d"),
                             Content = "Content for post 1.",
                             IsDeleted = false,
                             Title = "Post 1"
                         },
                         new
                         {
-                            Id = new Guid("d591275e-10a0-4ac2-aa70-8ad791ab56ea"),
+                            Id = new Guid("d83a9259-a323-4cb3-8171-2a541ab8f837"),
                             Content = "Content for post 2.",
                             IsDeleted = false,
                             Title = "Post 2"
                         },
                         new
                         {
-                            Id = new Guid("ebd191a5-a0bb-41a5-b92c-8b7dcc91dc7c"),
+                            Id = new Guid("3c72254f-b388-4c97-aaec-703352a80f59"),
                             Content = "Content for post 3.",
                             IsDeleted = false,
                             Title = "Post 3"
                         },
                         new
                         {
-                            Id = new Guid("e819792c-9e28-487f-b164-03d30e7eed9c"),
+                            Id = new Guid("198aa6d1-e164-427d-91c0-013cfc1a3928"),
                             Content = "Content for post 4.",
                             IsDeleted = false,
                             Title = "Post 4"
                         },
                         new
                         {
-                            Id = new Guid("a13cd027-6f8a-48dd-a1c1-b3cae4b21193"),
+                            Id = new Guid("1d2dba7e-615e-43c8-82bd-6bfa210efeaa"),
                             Content = "Content for post 5.",
                             IsDeleted = false,
                             Title = "Post 5"
                         });
+                });
+
+            modelBuilder.Entity("ForumApp.Data.Models.Comment", b =>
+                {
+                    b.HasOne("ForumApp.Data.Models.Post", "Post")
+                        .WithMany("Comments")
+                        .HasForeignKey("PostId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Post");
+                });
+
+            modelBuilder.Entity("ForumApp.Data.Models.Post", b =>
+                {
+                    b.Navigation("Comments");
                 });
 #pragma warning restore 612, 618
         }

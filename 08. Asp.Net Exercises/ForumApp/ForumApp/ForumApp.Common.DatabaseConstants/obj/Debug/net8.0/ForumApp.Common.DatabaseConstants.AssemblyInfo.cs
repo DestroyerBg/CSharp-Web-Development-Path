@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ForumApp.Common.DatabaseConstants")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b7de78c397f8027687f64260b07dc81a07495e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7320be0721fb1c4c6d503acc1ede1c4b91796308")]
 [assembly: System.Reflection.AssemblyProductAttribute("ForumApp.Common.DatabaseConstants")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ForumApp.Common.DatabaseConstants")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

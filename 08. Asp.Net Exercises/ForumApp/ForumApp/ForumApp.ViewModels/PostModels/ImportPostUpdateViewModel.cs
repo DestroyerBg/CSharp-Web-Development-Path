@@ -1,10 +1,10 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using static ForumApp.Common.DatabaseConstants.PostConstants;
-namespace ForumApp.ViewModels
+namespace ForumApp.ViewModels.PostModels
 {
     public class ImportPostUpdateViewModel
     {
-        [Required] 
+        [Required]
         public string PostId { get; set; } = null!;
 
         [Required]

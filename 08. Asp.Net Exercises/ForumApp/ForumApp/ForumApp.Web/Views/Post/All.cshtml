@@ -1,4 +1,5 @@
-﻿@model IEnumerable<ForumApp.ViewModels.ExportPostViewModel>
+﻿@using Microsoft.AspNetCore.Mvc.TagHelpers
+@model IEnumerable<ForumApp.ViewModels.PostModels.ExportPostViewModel>
 
 @{
     ViewBag.Title = "All Posts";
@@ -16,23 +17,21 @@
     <div class="row">
         @foreach (var post in Model)
         {
-            <div class="col-sm-6">
+            <div class="col-sm-6" style="margin-bottom:25px;">
                 <div class="card ">
                     <div class="card-body">
                         <h4 class="card-title text-center">@post.Title</h4>
                         <p class="card-text">@post.Content</p>
-                        <div class="d-grid gap-2">
-                            <a asp-controller="Post" asp-action="" asp-route-id="@post.Id" class="btn btn-warning">Edit</a>
-                            <form class="mt-2" asp-controller="Post" asp-action="" asp-route-id="@post.Id">
-                                <div class="d-grid gap-2">
-                                    <input type="submit" value="Delete" class="btn btn-danger mb-2" />
-                                </div>
-                            </form>
+                        <div class="d-grid gap-2 mb-2">
+                            <a asp-controller="Post" asp-action="Edit" asp-route-postId="@post.Id" class="btn btn-warning">Edit</a>
+                            <a asp-controller="Post" asp-action="Delete" asp-route-postId="@post.Id" class="btn btn-danger" onclick="return confirm('Наистина ли желаете да изтриете този пост?')">Delete</a>
+                            <a asp-controller="Post" asp-action="LoadComments" asp-route-postId="@post.Id" class="btn btn-info">Load Comments</a>
                         </div>
 
                     </div>
                 </div>
             </div>
+
         }
     </div>
 }

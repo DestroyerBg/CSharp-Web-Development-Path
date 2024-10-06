@@ -17,5 +17,7 @@ namespace ForumApp.Data.Models
         public string Content { get; set; } = null!;
 
         public bool IsDeleted { get; set; } = false;
+
+        public ICollection<Comment> Comments { get; set; } = new HashSet<Comment>();
     }
 }
