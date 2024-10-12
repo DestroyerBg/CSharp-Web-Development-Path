@@ -78,7 +78,8 @@
               "RelativeToolTip": "ForumApp.ViewModels\\CommentModels\\CommentViewModel.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAiwBsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T11:17:59.112Z"
+              "WhenOpened": "2024-10-05T11:17:59.112Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -101,7 +102,7 @@
               "RelativeDocumentMoniker": "ForumApp.Web\\Views\\Post\\LoadComments.cshtml",
               "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\ForumApp.Web\\Views\\Post\\LoadComments.cshtml",
               "RelativeToolTip": "ForumApp.Web\\Views\\Post\\LoadComments.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAACgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBQAAACgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-05T10:15:54.697Z",
               "EditorCaption": ""
@@ -179,7 +180,7 @@
               "RelativeDocumentMoniker": "ForumApp.Web\\Controllers\\PostController.cs",
               "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\ForumApp.Web\\Controllers\\PostController.cs",
               "RelativeToolTip": "ForumApp.Web\\Controllers\\PostController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwE8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T11:25:26.177Z",
               "EditorCaption": ""
@@ -192,9 +193,10 @@
               "RelativeDocumentMoniker": "ForumApp.Web\\Program.cs",
               "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\ForumApp\\ForumApp\\ForumApp.Web\\Program.cs",
               "RelativeToolTip": "ForumApp.Web\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T11:50:32.332Z"
+              "WhenOpened": "2024-10-04T11:50:32.332Z",
+              "EditorCaption": ""
             }
           ]
         }
