@@ -11123,11 +11123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabi\\Desktop\\Нова папка\\GameZone\\GameZone.csproj",
+      "projectUniqueName": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\GameZone.csproj",
       "projectName": "GameZone",
-      "projectPath": "C:\\Users\\Gabi\\Desktop\\Нова папка\\GameZone\\GameZone.csproj",
+      "projectPath": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\GameZone.csproj",
       "packagesPath": "C:\\Users\\Gabi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabi\\Desktop\\Нова папка\\GameZone\\obj\\",
+      "outputPath": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabi\\AppData\\Roaming\\NuGet\\NuGet.Config",

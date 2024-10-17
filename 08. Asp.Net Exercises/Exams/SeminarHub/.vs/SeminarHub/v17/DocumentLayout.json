@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\seminarhub\\seminarhub\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|solutionrelative:seminarhub\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\seminarhub\\seminarhub\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|solutionrelative:seminarhub\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\seminarhub\\seminarhub\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|solutionrelative:seminarhub\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\seminarhub\\seminarhub\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|solutionrelative:seminarhub\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\seminarhub\\seminarhub\\services\\seminarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|solutionrelative:seminarhub\\services\\seminarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\seminarhub\\seminarhub\\controllers\\seminarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|solutionrelative:seminarhub\\controllers\\seminarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\seminarhub\\seminarhub\\views\\seminar\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|solutionrelative:seminarhub\\views\\seminar\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\seminarhub\\seminarhub\\views\\seminar\\joined.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|solutionrelative:seminarhub\\views\\seminar\\joined.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\seminarhub\\seminarhub\\models\\viewmodels\\allseminarsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|solutionrelative:seminarhub\\models\\viewmodels\\allseminarsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\seminarhub\\seminarhub\\automappers\\gameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|solutionrelative:seminarhub\\automappers\\gameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\seminarhub\\seminarhub\\extensions\\appextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|solutionrelative:seminarhub\\extensions\\appextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\seminarhub\\seminarhub\\attributes\\wordlengthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|solutionrelative:seminarhub\\attributes\\wordlengthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "SeminarHub\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "SeminarHub\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:48:44.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "SeminarHub\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "SeminarHub\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAwG8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:45:33.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "SeminarHub\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "SeminarHub\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAwFsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:42:35.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SeminarHub\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "SeminarHub\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T10:42:31.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Joined.cshtml",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Views\\Seminar\\Joined.cshtml",
+              "RelativeDocumentMoniker": "SeminarHub\\Views\\Seminar\\Joined.cshtml",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Views\\Seminar\\Joined.cshtml",
+              "RelativeToolTip": "SeminarHub\\Views\\Seminar\\Joined.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T17:27:56.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AllSeminarsViewModel.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Models\\ViewModels\\AllSeminarsViewModel.cs",
+              "RelativeDocumentMoniker": "SeminarHub\\Models\\ViewModels\\AllSeminarsViewModel.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Models\\ViewModels\\AllSeminarsViewModel.cs",
+              "RelativeToolTip": "SeminarHub\\Models\\ViewModels\\AllSeminarsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:25:43.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameProfile.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\AutoMappers\\GameProfile.cs",
+              "RelativeDocumentMoniker": "SeminarHub\\AutoMappers\\GameProfile.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\AutoMappers\\GameProfile.cs",
+              "RelativeToolTip": "SeminarHub\\AutoMappers\\GameProfile.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAnwDEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:31:31.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeminarService.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Services\\SeminarService.cs",
+              "RelativeDocumentMoniker": "SeminarHub\\Services\\SeminarService.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Services\\SeminarService.cs",
+              "RelativeToolTip": "SeminarHub\\Services\\SeminarService.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAYwJIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:44:50.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeminarController.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Controllers\\SeminarController.cs",
+              "RelativeDocumentMoniker": "SeminarHub\\Controllers\\SeminarController.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Controllers\\SeminarController.cs",
+              "RelativeToolTip": "SeminarHub\\Controllers\\SeminarController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAiwJAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:25:08.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Views\\Seminar\\All.cshtml",
+              "RelativeDocumentMoniker": "SeminarHub\\Views\\Seminar\\All.cshtml",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Views\\Seminar\\All.cshtml",
+              "RelativeToolTip": "SeminarHub\\Views\\Seminar\\All.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T10:42:23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppExtensions.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Extensions\\AppExtensions.cs",
+              "RelativeDocumentMoniker": "SeminarHub\\Extensions\\AppExtensions.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Extensions\\AppExtensions.cs",
+              "RelativeToolTip": "SeminarHub\\Extensions\\AppExtensions.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:01:08.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WordLengthAttribute.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Attributes\\WordLengthAttribute.cs",
+              "RelativeDocumentMoniker": "SeminarHub\\Attributes\\WordLengthAttribute.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\SeminarHub\\SeminarHub\\Attributes\\WordLengthAttribute.cs",
+              "RelativeToolTip": "SeminarHub\\Attributes\\WordLengthAttribute.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:06:38.808Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

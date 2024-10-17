@@ -1,13 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gabi\\Desktop\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\",
+  "WorkspaceRootPath": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\gabi\\desktop\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\gamezone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\gamezone\\gamezone\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\gamezone\\gamezone\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\gamezone\\gamezone\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\gamezone\\gamezone\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\gamezone\\gamezone\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\gamezone\\gamezone\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\gamezone\\gamezone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\gabi\\desktop\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\gamezone\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|d:\\visual studio apps\\csharp-web-development-path\\08. asp.net exercises\\exams\\gamezone\\gamezone\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -39,28 +63,104 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\GameZone\\Program.cs",
-              "RelativeDocumentMoniker": "GameZone\\Program.cs",
-              "ToolTip": "C:\\Users\\Gabi\\Desktop\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\GameZone\\Program.cs",
-              "RelativeToolTip": "GameZone\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "GameZone\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs*",
+              "RelativeToolTip": "GameZone\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs*",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAkwGsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T11:43:40.819Z",
+              "WhenOpened": "2024-10-13T16:06:36.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "GameZone\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "GameZone\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwGcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:55:51.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "GameZone\\Services\\GameService.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\Services\\GameService.cs",
+              "RelativeToolTip": "GameZone\\Services\\GameService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:53:38.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "GameZone\\Controllers\\GameController.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\Controllers\\GameController.cs",
+              "RelativeToolTip": "GameZone\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T20:28:16.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "GameZone\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "GameZone\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T17:28:08.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "GameZone\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "GameZone\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T17:26:51.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\Program.cs",
+              "RelativeDocumentMoniker": "GameZone\\Program.cs",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\Program.cs",
+              "RelativeToolTip": "GameZone\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:43:40.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\GameZone\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "GameZone\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Gabi\\Desktop\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\GameZone\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "GameZone\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-12T11:42:59.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T11:42:59.377Z"
             }
           ]
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sIkZswT3nYQ=",
+  "dgSpecHash": "VewNuQEgD/s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabi\\Desktop\\Нова папка\\GameZone\\GameZone.csproj",
+  "projectFilePath": "D:\\visual studio apps\\CSharp-Web-Development-Path\\08. Asp.Net Exercises\\Exams\\GameZone\\GameZone\\GameZone.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabi\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Gabi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

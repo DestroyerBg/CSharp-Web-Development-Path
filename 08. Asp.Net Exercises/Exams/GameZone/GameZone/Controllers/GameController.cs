@@ -1,11 +1,13 @@
 ﻿using GameZone.Models.DatabaseModels;
 using GameZone.Services;
 using GameZone.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 namespace GameZone.Controllers
 {
+    [Authorize]
     public class GameController : Controller
     {
         private readonly GenreService genreService;
@@ -88,8 +90,12 @@ namespace GameZone.Controllers
             {
                 return RedirectToAction("All");
             }
-            ICollection<Genre> genres = await genreService.LoadAllGenres();
             IdentityUser user = await userManager.GetUserAsync(User);
+            if (user.Id != game.PublisherId)
+            {
+                return RedirectToAction("All");
+            }
+            ICollection<Genre> genres = await genreService.LoadAllGenres();
             EditGameViewModel model = gameService.CreateEditGameViewModel(genres, user, game);
 
             return View(model);
@@ -164,7 +170,12 @@ namespace GameZone.Controllers
             }
 
             IdentityUser user = await userManager.GetUserAsync(User);
-            await gameService.AddGameToUserZone(gameId, user);
+            bool isAddedSuccessfully = await gameService.AddGameToUserZone(gameId, user);
+
+            if (!isAddedSuccessfully)
+            {
+                return RedirectToAction("All");
+            }
 
             return RedirectToAction("MyZone");
         }
